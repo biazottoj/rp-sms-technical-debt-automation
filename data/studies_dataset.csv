@@ -1389,7 +1389,7 @@ S86,S83,Software Architecture Social Debt: Managing the Incommunicability Factor
 S87,S84,Towards Surgically-Precise Technical Debt Estimation: Early Results and Research Roadmap,"Valentina Lenarduzzi
 Antonio Martini
 Davide Taibi
-Damian Andrew Tamburri",,"2,019.00",International Workshop on Machine Learning Techniques for Software Quality Evaluation,Conference,https://doi.org/10.1145/3340482.3342747,"@INPROCEEDINGS{Lenarduzzi2019-hx,
+Damian Andrew Tamburri",Academia,"2,019.00",International Workshop on Machine Learning Techniques for Software Quality Evaluation,Conference,https://doi.org/10.1145/3340482.3342747,"@INPROCEEDINGS{Lenarduzzi2019-hx,
   title           = ""Towards surgically-precise technical debt estimation:
                      early results and research roadmap"",
   booktitle       = ""Proceedings of the 3rd {ACM} {SIGSOFT} International
@@ -2577,7 +2577,8 @@ issues they alleviate.","RMiner
 "
 S156,S163,Two Different Facets of Architectural Smells Criticality: An Empirical Study,"Ilaria Pigazzini
 Davide Foppiani
-Francesca Arcelli Fontana",,"2,021.00",,,,"@inproceedings{DBLP:conf/ecsa/PigazziniFF21,
+Francesca Arcelli Fontana",Academia,"2,021.00"," 1st International Workshop on Mining Software
+Repositories for Software Architectur",Workshop,,"@inproceedings{DBLP:conf/ecsa/PigazziniFF21,
   author    = {Ilaria Pigazzini and
                Davide Foppiani and
                Francesca Arcelli Fontana},

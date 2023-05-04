@@ -1,0 +1,31 @@
+,output-fmt,n-artifacts
+0,text,37
+1,xml,28
+2,csv,26
+3,json,25
+4,html,22
+5,pull requests,5
+6,pdf,3
+7,database(sql),3
+8,runs inside ide,2
+9,database (sql),2
+10,excel,2
+11,github,1
+12,gitlab,1
+13,software refactored and new metrics,1
+14,no output,1
+15,sarif,1
+16,not informed,1
+17,jira/github issues,1
+18,comment,1
+19,inside eclipse,1
+20,integrates with ide,1
+21,pull request report,1
+22,source code level via api,1
+23,source code,1
+24,sonarqube-issues,1
+25,issues,1
+26,api,1
+27,markdown,1
+28,dependecy graph,1
+29,github issues,1
