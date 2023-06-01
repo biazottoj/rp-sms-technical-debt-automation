@@ -1,49 +1,27 @@
 ,output-info,n-artifacts
 0,code violations,43
 1,code metrics,34
-2,code smells,27
-3,a label whether each code comment is satd,11
-4,refactoring suggestions,10
-5,design smells,9
-6,architectural smells,5
-7,amount of td,4
+2,code smells,28
+3,amount of technical debt,15
+4,self-admitted td items,14
+5,architectural smells,14
+6,design smells,12
+7,refactoring suggestions,10
 8,test coverage,3
-9,amount of technical debt,3
+9,code duplications,3
 10,maintainability index,3
-11,code duplications,3
-12,architectures violations,2
-13,amount of interest,2
-14,amount of design td,2
-15,design violations,2
-16,amount of code td,2
-17,cyclomatic complexity,2
-18,self-admitted td items,2
-19,architecrual smells,1
-20,amount of architectural td,1
-21,architecturel smells,1
-22,security issues,1
-23,code smell,1
-24,configuration smells,1
-25,list of td items,1
-26,refactoring actions,1
-27,architecture smells,1
-28,level of td accumulation,1
-29,technical debt amount,1
-30,values for each refactoring,1
-31,dependencies,1
-32,architectural issues,1
-33,design metrics(e.g. coupling),1
-34,design metrics,1
-35,design anti-patterns,1
-36,amount of design debt,1
-37,architecture roots,1
-38,database smells,1
-39,anti-patterns,1
-40,td items related to each td type,1
-41,quality level,1
-42,break changes in libraries,1
-43,architectural td index,1
-44,architectural smells tracked,1
-45,dependency graph,1
-46,metrics reports,1
-47,satd occurrences,1
+11,amount of interest,2
+12,td items,2
+13,design metrics,2
+14,cyclomatic complexity,2
+15,refactoring actions,1
+16,dependencies,1
+17,configuration smells,1
+18,values for each refactoring,1
+19,database smells,1
+20,quality level,1
+21,break changes in libraries,1
+22,architectural td index,1
+23,dependency graph,1
+24,metrics reports,1
+25,security issues,1
