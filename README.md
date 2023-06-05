@@ -73,7 +73,7 @@ The replication package includes the datasets (for selected studies and automati
 ├── README.md
 ├── docker-compose.yaml
 ├── Dockerfile
-├── env.yaml
+└── env.yaml
 
 ```
 
