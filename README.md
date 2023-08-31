@@ -86,25 +86,33 @@ The replication package includes the datasets (for selected studies and automati
 
 ```
 
-## Description of the variables in ``selected-artifacts.csv`` dataset
-| variable name           | description                                                                                                                              |
-|-------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
-| studies_citing_artifact | ID of the studies that mention the artifact; this variable relates artifacts to studies                                                  |
-| name                    | The name of the automation artifact                                                                                                      |
-| link                    | The link to the automation artifact                                                                                                      |
-| type                    | The software type of each automation artifact                                                                                            |
-| run_standalone          | Whether it is possible to run the automation artifacts as standalone                                                                     |
-| input_info              | The information used by each automation artifact to automate the task (e.g., source code)                                                |
-| input_fmt               | The format of the information used by the automation artifact (e.g., XML)                                                                |
-| output_info             | The information provided by the automation artifact after the automation process                                                         |
-| output_fmt              | The format of the information provided by the automation artifact (e.g., XML)                                                            |
-| evidence                | The type of evidence we found in the literature (e.g., industrial studies)                                                               |
-| td_type                 | The types of TD that are supported by the automation artifact                                                                            |
-| tdma                    | The TDM activities that are supported by the automation artifact                                                                         |
-| trigger                 | The type of trigger that starts the execution of the automation artifacts (e.g., human trigger)                                          |
-| interface               | The type of interface provided by the automation artifact                                                                                |
-| is_integrated           | Whether we found evidence of integration among the automation artifacts and other automation artifacts                                   |
-| can_integrated          | Whether the automation artifact could be integrated with other automation artifacts, considering the input/output format and information |
+## Description of the variables in ``selected-artifacts.csv``
+
+| variable name                         | description                                                                                                                              |
+|---------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
+| id                                    | ID of the artifact                                                                                                                       |
+| studies_citing_artifact               | ID of the studies that mention the artifact; this variable relates artifacts to studies                                                  |
+| name                                  | The name of the automation artifact                                                                                                      |
+| link                                  | The link to the automation artifact                                                                                                      |
+| type                                  | The software type of each automation artifact                                                                                            |
+| run_stand_alone                       | Whether it is possible to run the automation artifacts as standalone                                                                     |
+| input_info                            | The information used by each automation artifact to automate the task (e.g., source code)                                                |
+| input_fmt                             | The format of the information used by the automation artifact (e.g., XML)                                                                |
+| output_info                           | The information provided by the automation artifact after the automation process                                                         |
+| output_fmt                            | The format of the information provided by the automation artifact (e.g., XML)                                                            |
+| evidence                              | The type of evidence we found in the literature (e.g., industrial studies)                                                               |
+| td_type                               | The types of TD that are supported by the automation artifact                                                                            |
+| tdma                                  | The TDM activities that are supported by the automation artifact                                                                         |
+| trigger                               | The type of trigger that starts the execution of the automation artifacts (e.g., human trigger)                                          |
+| trigger-description                   | The description of the triggers (e.g., new commit)                                                                                       |
+| interface-type                        | The type of interface provided by the automation artifact                                                                                |
+| interface-subtype                     | The subtype of interface provided by the automation artifact (e.g., api (plugin for github))                                             |
+| is-integrated                         | Whether we found evidence of integration among the automation artifacts and other automation artifacts                                   |
+| is-integrated-using-interface-subtype | Indicates which available interface is used for integrating the artifact                                                                 |
+| is-integrated-with                    | Indicates with which type of software the artifact is integrated (e.g., development tool)                                                |
+| is-integrated-description             | A description about the integration in which the artifact is involved                                                                    |
+| is-integrted-outcome                  | A description of the rationale for the integration of the artifact                                                                       |
+| can-integrated                        | Whether the automation artifact could be integrated with other automation artifacts, considering the input/output format and information |
 
 ## Running the data analysis
 
