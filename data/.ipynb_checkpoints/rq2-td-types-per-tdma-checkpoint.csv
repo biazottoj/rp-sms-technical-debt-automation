@@ -1,0 +1,9 @@
+,type,identification,measurement,prioritization,monitoring,repayment,representation/documentation,prevention,communication
+0,code,75,20,5,6,5,1,0,0
+1,design,49,20,7,4,5,1,2,0
+2,architectural,24,16,3,3,2,0,0,0
+3,satd,13,0,1,1,0,2,0,1
+4,test,6,6,2,2,1,0,0,0
+5,build,1,0,0,0,0,0,0,0
+6,documentation,1,0,0,0,0,0,0,0
+7,requirements,1,1,1,1,0,0,0,0

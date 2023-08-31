@@ -1,0 +1,11 @@
+,type,source code,code comments,metamodel,dependency graph, code comments,sql statements, issue messages
+0,code,82,0,0,0,1,0,0
+1,design,52,1,2,0,1,1,0
+2,architectural,27,0,0,1,0,0,0
+3,test,7,0,0,0,0,0,0
+4,documentation,1,0,0,0,0,0,0
+5,requirements,1,0,0,0,0,0,0
+6,build,1,0,0,0,0,0,0
+7,infrastructure,0,0,0,0,0,0,0
+8,versioning,0,0,0,0,0,0,0
+9,satd,2,12,0,0,1,0,1

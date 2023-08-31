@@ -1,0 +1,5 @@
+,type,code,design,architectural,test,documentation,requirements,build,infrastructure,versioning,satd
+0,tool,45,29,17,5,1,1,0,0,0,2
+1,plugin,28,20,7,2,0,0,0,0,0,0
+2,script,8,6,4,0,0,0,0,0,0,10
+3,bot,1,1,0,0,0,0,1,0,0,2
