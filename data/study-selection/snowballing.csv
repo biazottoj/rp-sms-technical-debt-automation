@@ -1,0 +1,110 @@
+Title,Status,Remarks,Snowballing Type
+A Catalogue of Lightweight Visualizations to Support Code Smell Inspection,Accepted,Gerdame,Backward
+Assessing technical debt by identifying design flaws in software systems,Accepted,SonarQube,Backward
+Automatic detection of bad smells in code: An experimental assessment,Accepted,Checkstyle,Backward
+Automatic detection of instability architectural smells,Accepted,"Arcan, Ai Reviewer,Undestand",Backward
+Building Empirical Support for Automated Code Smell Detection,Accepted,CodeVizard,Backward
+CCFinder: A Multilinguistic Token-Based Code Clone Detection System for Large Scale Source Code,Accepted,ccfinderx,Backward
+Code Smell Detecting Tool and Code Smell-Structure Bug Relationship,Accepted,FindBugs,Backward
+Code Smell Detection: Towards a Machine Learning-Based Approach,Accepted,CheckStyle,Backward
+Code smells and their collocations: A large-scale experiment on open-source systems,Accepted,"AI Reviewer, PMD,CheckStyle",Backward
+Comparing and experimenting machine learning techniques for code smell detection,Accepted,PMD,Backward
+"ConcernReCS: Finding Code Smells in Software Aspectization",Accepted,concernrecs,Backward
+Detecting software modularity violations,Accepted,"Lattix,Ndepend,Structure101",Backward
+Experimental Evaluation of Code Smell Detection Tools,Accepted,"PMD,Jdeodorant",Backward
+Improving code smell predictions in continuous integration by differentiating organic from cumulative measures,Accepted,SpotBugs,Backward
+Mining Version Histories for Detecting Code Smells,Accepted,"Jdeodorant,PtiDej",Backward
+Refactoring for software architecture smells,Accepted,Sonargraph,Backward
+To what extent can maintenance problems be predicted by code smell detection? – An empirical study,Accepted,Together,Backward
+Towards a Prioritization of Code Debt: A Code Smell Intensity Index,Accepted,jcodeodor,Backward
+Support for architectural smell refactoring,Accepted,"Arcan,Sonargraph",Backward
+Supporting the identification of architecturally-relevant code anomalies,Accepted,"Together,Understand",Backward
+The Formal Definition and Automatic Detection of Architecture Smells,Accepted,"SonarQube,Understand",Backward
+Toward a smell-aware bug prediction model,Accepted,Jcodeodor,Backward
+Towards anticipation of architectural smells using link prediction techniques,Accepted,"Arcan,Designite",Backward
+A framework for conditional statement technical debt identification and description,Accepted,script,Forward
+BreakBot: Analyzing the Impact of Breaking Changes to Assist Library Evolution,Accepted,breakbot,Forward
+Characterizing and Mitigating Self-Admitted Technical Debt in Build Systems,Accepted,script,Forward
+Comparing Univariate and Multivariate Time Series Models for Technical Debt Forecasting,Accepted,SonarQube,Forward
+On the Adoption of a TODO Bot on GITHuB: A Preliminary Study,Accepted,Todo bot,Forward
+Sonarlizer Xplorer: A tool to mine Github projects and identify technical debt items using SonarQube,Accepted,sonalizer-xplorer,Forward
+Merging Smell Detectors: Evidence on the Agreement of Multiple Tools,Accepted,smelldetectormerger,Forward
+TD Classifier: Automatic Identification of Java Classes with High Technical Debt,Accepted,TD-Identifier,Forward
+WeakSATD: Detecting Weak Self-admitted Technical Debt,Accepted,GH Actions,Forward
+Quality-driven detection and resolution of metamodel smells,Accepted ,gssi/edelta_bad_smells,Backward
+A bayesian approach for the detection of code and design smells,Rejected,No artifact pointed out,Backward
+A case study on effectively identifying technical debt,Rejected,Study already collected in other steps,Backward
+A heuristic-based approach to code-smell detection,Rejected,Artifact not available,Backward
+A practice-driven systematic review of dependency analysis solutions,Rejected,No artifact pointed out,Backward
+A tool for design pattern detection and software architecture reconstruction,Rejected,Artifact not available,Backward
+A tool framework for static and dynamic analysis of object-oriented software with templates,Rejected,Artifact not available,Backward
+An Exploratory study of the impact of code smells on software change-proneness,Rejected,No artifact pointed out,Backward
+An Immune-Inspired Approach for the Detection of Software Design Smells,Rejected,No artifact pointed out,Backward
+Are all code smells harmful? a study of god classes and brain classes in the evolution of three open source systems,Rejected,No artifact pointed out,Backward
+Automated Restructuring of Object-Oriented ,Rejected,No artifact pointed out,Backward
+Automatic detection of design problems,Rejected,No artifact pointed out,Backward
+Bad-smell prediction from software design model using machine learning techniques,Rejected,No artifact pointed out,Backward
+Bauhaus – a tool suite for program analysis and reverse engineering,Rejected,Artifact not available,Backward
+Characterizing the occurrence of dockerfile smells in open-source software: An empirical study,Rejected,No artifact pointed out,Backward
+Code smell detection tool for JavaScript programs,Rejected,Artifact not available,Backward
+Code smells detection 2.0: Crowdsmelling and visualization,Rejected,No artifact pointed out,Backward
+Decor: A  ́method for the specification and detection of code and design smells,Rejected,Artifact not available,Backward
+Detecting Bad Smells with Machine Learning Algorithms: An Empirical Study,Rejected,Study already collected in other steps,Backward
+Dockerfile tf smell detection based on dynamic and static analysis methods,Rejected,No artifact pointed out,Backward
+FaultBuster: an automatic code smell refactoring toolset,Rejected,Artifact not available,Backward
+Graph-based analysis and prediction for software evolution,Rejected,No artifact pointed out,Backward
+Identifying and Prioritizing Architectural Debt through Architectural Smells: a Case Study in a Large Software Company,Rejected,Study already collected in other steps,Backward
+Identifying architectural bad smells,Rejected,No artifact pointed out,Backward
+Identifying Extract-method Refactoring Candidates Automatically,Rejected,No artifact pointed out,Backward
+Improving bug prediction performance using the intensity of code smells,Rejected,No artifact pointed out,Backward
+Machine learning based code smell detection through wekanose,Rejected,No artifact pointed out,Backward
+Measuring and Monitoring Technical Debt,Rejected,No artifact pointed out,Backward
+On the Effectiveness of Concern Metrics to Detect Code Smells: An Empirical Study,Rejected,No artifact pointed out,Backward
+"Practical considerations, challenges, and requirements of tool-support for managing technical debt",Rejected,No artifact pointed out,Backward
+Pragmatic Technical Debt Management,Rejected,No artifact pointed out,Backward
+Product metrics for automatic identification of bad smell design problems in Java source-code,Rejected,No artifact pointed out,Backward
+Refactoring for Software Design Smells: Managing Technical Debt,Rejected,Study already collected in other steps,Backward
+Rules and Tools for Software Evolution Planning and Management,Rejected,No artifact pointed out,Backward
+Searching for build debt: Experiences managing technical debt at google,Rejected,No artifact pointed out,Backward
+Smelly relations: measuring and understanding database schema quality,Rejected,Study already collected in other steps,Backward
+Tool support for evaluating architectural debt of an existing system: An experience report,Rejected,Study already collected in other steps,Backward
+Towards a principle-based classification of structural design smells,Rejected,No artifact pointed out,Backward
+Truerefactor: an automated refactoring tool to improve legacy system and application comprehensibility,Rejected,Artifact not available,Backward
+Static analysis tools as early indicators of pre-release defect density,Rejected,No artifact pointed out,Backward
+Subjective evaluation of software evolvability using code smells: An empirical study,Rejected,No artifact pointed out,Backward
+Tool support for just-in-time architecture reconstruction and evaluation: an experience report,Rejected,No artifact pointed out,Backward
+Towards automatically improving package structure while respecting original design decisions,Rejected,No artifact pointed out,Backward
+UML model smells and model refactorings in early software development phases,Rejected,No artifact pointed out,Backward
+A First Look at Duplicate and Near-duplicate Self-admitted Technical Debt Comments,Rejected,No artifact pointed out,Forward
+A systems interpretation of the software evolution laws and their impact on technical debt management and software maintainability,Rejected,No artifact pointed out,Forward
+Automatic Detection and Analysis of Technical Debts in Peer-Review Documentation of R Packages,Rejected,Study already collected in other steps,Forward
+Characterizing Technical Debt in Evolving Open-source Software,Rejected,paper not available,Forward
+Code Red: The Business Impact of Code Quality - A Quantitative Study of 39 Proprietary Production Codebases,Rejected,No artifact pointed out,Forward
+Code Smells for Machine Learning Applications,Rejected,No artifact pointed out,Forward
+Comprehending the Use of Intelligent Techniques to Support Technical Debt Management,Rejected,No artifact pointed out,Forward
+Data Smells in Public Datasets,Rejected,No artifact pointed out,Forward
+Dataset Debt in Biomedical Language Modeling,Rejected,No artifact pointed out,Forward
+DeleSmell: Code smell detection based on deep learning and latent semantic analysis,Rejected,No artifact pointed out,Forward
+Detecting the Locations and Predicting the Maintenance Costs of Compound Architectural Debts,Rejected,No artifact pointed out,Forward
+Digital nudging for technical debt management at Credit Suisse,Rejected,No artifact pointed out,Forward
+EL-CodeBert: Better Exploiting CodeBert to Support Source Code-Related Classification Tasks,Rejected,No artifact pointed out,Forward
+FIXME: synchronize with database! An empirical study of data access self-admitted technical debt,Rejected,No artifact pointed out,Forward
+Guiding legacy systems for evolution PmatE: a case study of maintenance and engineering,Rejected,No artifact pointed out,Forward
+How do Trivial Refactorings Affect Classification Prediction Models?,Rejected,No artifact pointed out,Forward
+How to Improve Deep Learning for Software Analytics (a case study with code smell detection),Rejected,No artifact pointed out,Forward
+Identifying self-admitted technical debt in issue tracking systems using machine learning,Rejected,No artifact pointed out,Forward
+Managing Software Testing Technical Debt Using Evolutionary Algorithms,Rejected,No artifact pointed out,Forward
+MultiDimEr : A Multi-Dimensional bug analyzEr,Rejected,Artifact not available,Forward
+On the documentation of self-admitted technical debt in issues,Rejected,No artifact pointed out,Forward
+Perceptions of Technical Debt and its Management Activities-A Survey of Software Practitioners,Rejected,No artifact pointed out,Forward
+PILOT: Synergy between Text Processing and Neural Networks to Detect Self-Admitted Technical Debt,Rejected,No artifact pointed out,Forward
+Potential Technical Debt and Its Resolution in Code Reviews: An Exploratory Study of the OpenStack and Qt Communities,Rejected,No artifact pointed out,Forward
+PriorTD: A Method for Prioritization Technical Debt,Rejected,No artifact pointed out,Forward
+Refactoring Debt: Myth or Reality? An Exploratory Study on the Relationship between Technical Debt and Refactoring,Rejected,No artifact pointed out,Forward
+SCMA: A Lightweight Tool to Analyze Swift Projects,Rejected,No artifact pointed out,Forward
+"Searching for Technical Debt - An Empirical, Exploratory, and Descriptive Case Study",Rejected,No artifact pointed out,Forward
+Self-Admitted Technical Debt and comments’ polarity: an empirical study,Rejected,No artifact pointed out,Forward
+Self-admitted technical debt detection by learning its comprehensive semantics via graph neural networks,Rejected,No artifact pointed out,Forward
+Self-admitted technical debt in R: detection and causes,Rejected,No artifact pointed out,Forward
+SoCCMiner: A Source Code-Comments and Comment-Context Miner,Rejected,Not for TD,Forward
+Using deep temporal convolutional networks to just-in-time forecast technical debt principal,Rejected,No artifact pointed out,Forward

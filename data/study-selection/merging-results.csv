@@ -1,0 +1,2903 @@
+id,title,author,author_type,year,venue,venue_type,link,reference,objective,artifacts
+S1,CCFinder: A Multilinguistic Token-Based Code Clone Detection System for Large Scale Source Code,"Toshihiro Kamiya, Member
+Shinji Kusumoto
+Katsuro Inoue",Academia,"2,002.00",IEEE TRANSACTIONS ON SOFTWARE ENGINEERING,Journal,,"@article{Kamiya2002CCFinderAM,
+  title={CCFinder: A Multilinguistic Token-Based Code Clone Detection System for Large Scale Source Code},
+  author={Toshihiro Kamiya and Shinji Kusumoto and Katsuro Inoue},
+  journal={IEEE Trans. Software Eng.},
+  year={2002},
+  volume={28},
+  pages={654-670}
+}",,CCFinderX
+S2,A Catalogue of Lightweight Visualizations to Support Code Smell Inspection,"Chris Parnin
+Carsten Gorg
+Ogechi Nnadi",Academia,"2,008.00",ACM symposium on Software visualization,Conference,https://doi.org/10.1145/1409720.1409733,"@INPROCEEDINGS{Parnin2008-mo,
+  title           = ""A catalogue of lightweight visualizations to support code
+                     smell inspection"",
+  booktitle       = ""Proceedings of the 4th {ACM} symposium on Software
+                     visuallization - {SoftVis} '08"",
+  author          = ""Parnin, Chris and G{\""o}rg, Carsten and Nnadi, Ogechi"",
+  publisher       = ""ACM Press"",
+  year            =  2008,
+  address         = ""New York, New York, USA"",
+  conference      = ""the 4th ACM symposium"",
+  location        = ""Ammersee, Germany""
+}
+",,Gerdarme
+S3,Metrics Functions for Kanban Guards,"Jeanette Heidenberg
+Ivan Porres",Academia,"2,010.00",International Conference and Workshops on Engineering of Computer-Based Systems,Conference,http://doi.org/10.1109/ECBS.2010.43,"@inproceedings{Heidenberg2010,
+  doi = {10.1109/ecbs.2010.43},
+  url = {https://doi.org/10.1109/ecbs.2010.43},
+  year = {2010},
+  publisher = {{IEEE}},
+  author = {Jeanette Heidenberg and Ivan Porres},
+  title = {Metrics Functions for Kanban Guards},
+  booktitle = {2010 17th {IEEE} International Conference and Workshops on Engineering of Computer Based Systems}
+}","In this paper, we outline metrics functions that can take advantage of more advanced information of the development artifacts and provide the lean or agile team with partially automated decision support for quality assurance actions","STAN
+Resource standard metrics"
+S4,Building Empirical Support for Automated Code Smell Detection,"Jan Schumacher
+Nico Zazworka
+Forrest Shull
+Carolyn Seaman
+Michele Shaw",Academia,"2,010.00",International Symposium on Empirical Software Engineering and Measurement,Conference,,"@inproceedings{10.1145/1852786.1852797,
+author = {Schumacher, Jan and Zazworka, Nico and Shull, Forrest and Seaman, Carolyn and Shaw, Michele},
+title = {Building Empirical Support for Automated Code Smell Detection},
+year = {2010},
+isbn = {9781450300391},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/1852786.1852797},
+doi = {10.1145/1852786.1852797},
+booktitle = {Proceedings of the 2010 ACM-IEEE International Symposium on Empirical Software Engineering and Measurement},
+articleno = {8},
+numpages = {10},
+keywords = {empirical study, code smells, maintainability, code inspection, god class},
+location = {Bolzano-Bozen, Italy},
+series = {ESEM '10}
+}",,CodeVizard
+S5,The SQALE Quality and Analysis Models for Assessing the Quality of Ada Source Code,"Thierry Coq
+Jean-Pierre Rosen",Industry,"2,011.00", International Conference on Reliable Software Technologies,Conference,https://doi.org/10.1007/978-3-642-21338-0_5,"@incollection{Coq_2011,
+	doi = {10.1007/978-3-642-21338-0_5},
+	url = {https://doi.org/10.1007%2F978-3-642-21338-0_5},
+	year = 2011,
+	publisher = {Springer Berlin Heidelberg},
+	pages = {61--74},
+	author = {Thierry Coq and Jean-Pierre Rosen},
+	title = {The {SQALE} Quality and Analysis Models for Assessing the Quality of Ada Source Code},
+	booktitle = {Reliable Software Technologies - Ada-Europe 2011}
+}","This article presents the quality and analysis model of the SQALE assessment method of software source code. It explains how an Ada quality model compliant to SQALE is implemented and the results of its application to selected software, and how the use of Ada reduces the quality debt unlike many other technologies.",AdaControl
+S6,Automatic detection of bad smells in code: An experimental assessment,"Francesca Arcelli Fontanaa
+Pietro Braionea
+Marco Zanonia",Academia,"2,011.00",Journal of Object Technology,Journal,,"@article{ArcelliFontana2012,
+  doi = {10.5381/jot.2012.11.2.a5},
+  url = {https://doi.org/10.5381/jot.2012.11.2.a5},
+  year = {2012},
+  publisher = {{AITO} - Association Internationale pour les Technologies Objets},
+  volume = {11},
+  number = {2},
+  pages = {5:1},
+  author = {Francesca Arcelli Fontana and Pietro Braione and Marco Zanoni},
+  title = {Automatic detection of bad smells in code: An experimental assessment.},
+  journal = {The Journal of Object Technology}
+}",,Checkstyle
+S7,Detecting Software Modularity Violations,,Academia,"2,011.00",International Conference on Software Engineering,Conference,,"@INPROCEEDINGS{6032480,  author={Wong, Sunny and Cai, Yuanfang and Kim, Miryung and Dalton, Michael},  booktitle={2011 33rd International Conference on Software Engineering (ICSE)},   title={Detecting software modularity violations},   year={2011},  volume={},  number={},  pages={411-420},  doi={10.1145/1985793.1985850}}",,
+S8,Value-Based Technical Debt Model and Its Application,"Marek G. Stochel
+Mariusz R. Wawrowski
+Magdalena Rabiej",Industry,"2,012.00",International Conference on Software Engineering Advances,Conference,,"@inproceedings{Stochel2012ValueBasedTD,
+  title={Value-Based Technical Debt Model and Its Application},
+  author={Marek Grzegorz Stochel and Mariusz R. Wawrowski and M. Rabiej},
+  booktitle={ICSEA 2012},
+  year={2012}
+}","We propose to expand the understanding and  visibility of the technical debt by introducing a model driven  approach to provide the means to assess the technical debt  impact on perceived product quality parameters, such as  codebase/design and architecture, engineering productivity,  and finally the company’s business return on the engineering 
+ investment.","PMD
+Checkstyle
+Cobertura
+FXCop
+Klocwork
+Sonar TD Plugin"
+S9,Estimating the Principal of an Application’s Technical Debt,"Bill Curtis
+Jay Sappidi
+Alexandra Szynkarski",Industry,"2,012.00",IEEE Software,Journal,https://doi.org/10.1109/ms.2012.156,"@article{Curtis2012,
+  doi = {10.1109/ms.2012.156},
+  url = {https://doi.org/10.1109/ms.2012.156},
+  year = {2012},
+  month = nov,
+  publisher = {Institute of Electrical and Electronics Engineers ({IEEE})},
+  volume = {29},
+  number = {6},
+  pages = {34--42},
+  author = {Bill Curtis and Jay Sappidi and Alexandra Szynkarski},
+  title = {Estimating the Principal of an Application{\textquotesingle}s Technical Debt},
+  journal = {{IEEE} Software}
+}","A formula with adjustable parameters can
+help in estimating the principal of technical
+debt from structural quality data",CAST
+S10,A Threshold Based Approach to Technical Debt,Robert J. Eisenberg,Industry,"2,012.00",ACM Software Engineering Notes,Journal,https://doi.org/10.1145/2108144.2108151,"@article{Eisenberg_2012,
+	doi = {10.1145/2108144.2108151},
+	url = {https://doi.org/10.1145/2108144.2108151},
+	year = 2012,
+	month = {apr},
+	publisher = {Association for Computing Machinery ({ACM})},
+	volume = {37},
+	number = {2},
+	pages = {1--6},
+	author = {Robert J. Eisenberg},
+	title = {A threshold based approach to technical debt},
+	journal = {{ACM} {SIGSOFT} Software Engineering Notes}
+}
+","In this article, we define an approach for establishing program specific thresholds to define
+manageable levels of technical debt.",SonarQube
+S11,The SQALE Method for Evaluating Technical Debt,Jean-Louis Letouzey,Industry,"2,012.00",International Workshop on Managing Technical Debt,Workshop,https://dl.acm.org/doi/10.5555/2666036.2666042,"@inproceedings{,
+author = {Letouzey, Jean-Louis},
+title = {The SQALE Method for Evaluating Technical Debt},
+year = {2012},
+isbn = {9781467317498},
+publisher = {IEEE Press},
+abstract = {This paper presents the SQALE (Software Quality Assessment Based on Lifecycle Expectations) method. We describe its Quality Model and Analysis Model which is used to estimate the Quality and the Technical Debt of an application source code. We provide recommendations and guidelines for using the SQALE indicators in order to analyse the structure and the impact of the Technical Debt.},
+booktitle = {Proceedings of the Third International Workshop on Managing Technical Debt},
+pages = {31–36},
+numpages = {6},
+keywords = {technical debt, source code, quality model, quality, analysis model, SQALE},
+location = {Zurich, Switzerland},
+series = {MTD '12}
+}","This paper presents the SQALE (Software
+Quality Assessment Based on Lifecycle Expectations) method.
+We describe its Quality Model and Analysis Model which is
+used to estimate the Quality and the Technical Debt of an
+application source code.",SQALE plugin of the Sonar
+S12,Using Automatic Static Analysis to Identify Technical Debt,Antonio Vetrò,Academia,"2,012.00",International Conference on Software Engineering - Doctoral Symposium,Conference,https://doi.org/10.1109/ICSE.2012.6227226,"@inproceedings{Vetro2012,
+  doi = {10.1109/icse.2012.6227226},
+  url = {https://doi.org/10.1109/icse.2012.6227226},
+  year = {2012},
+  month = jun,
+  publisher = {{IEEE}},
+  author = {Antonio Vetro},
+  title = {Using automatic static analysis to identify technical debt},
+  booktitle = {2012 34th International Conference on Software Engineering ({ICSE})}
+}","The research  presented in this paper is focused on the usage of automatic
+static analysis to identify Technical Debt at code level with
+respect to different quality dimensions.","FindBugs
+Resharper"
+S13,"Estimating the Size, Cost, and Types of Technical Debt","Bill Curtis
+Jay Sappidi
+Alexandra Szynkarski",Industry,"2,012.00",International Workshop on Managing Technical Debt,Workshop,https://doi.org/10.1109/MTD.2012.6226000,"@inproceedings{Curtis2012,
+  doi = {10.1109/mtd.2012.6226000},
+  url = {https://doi.org/10.1109/mtd.2012.6226000},
+  year = {2012},
+  month = jun,
+  publisher = {{IEEE}},
+  author = {Bill Curtis and Jay Sappidi and Alexandra Szynkarski},
+  title = {Estimating the size,  cost,  and types of Technical Debt},
+  booktitle = {2012 Third International Workshop on Managing Technical Debt ({MTD})}
+}",,CAST
+S14,"ConcernReCS: Finding Code Smells in Software Aspectization","Péricles Alves
+Diogo Santana
+Eduardo Figueiredo",Academia,"2,012.00",International Conference on Software Engineering,Conference,10.1109/ICSE.2012.6227063,"@inproceedings{Alves_2012,
+	doi = {10.1109/icse.2012.6227063},
+	url = {https://doi.org/10.1109%2Ficse.2012.6227063},
+	year = 2012,
+	month = {jun},
+	publisher = {{IEEE}},
+	author = {Pericles Alves and Diogo Santana and Eduardo Figueiredo},
+	title = {{ConcernReCS}: Finding code smells in software aspectization},
+	booktitle = {2012 34th International Conference on Software Engineering ({ICSE})}
+}",,
+S15,Assessing technical debt by identifying design flaws in software systems,R. Marinescu,Academia,"2,012.00",IBM Journal of Research and Development,Journal,,"@ARTICLE{6261578,  author={Marinescu, R.},  journal={IBM Journal of Research and Development},   title={Assessing technical debt by identifying design flaws in software systems},   year={2012},  volume={56},  number={5},  pages={9:1-9:13},  doi={10.1147/JRD.2012.2204512}}",,SonarQube
+S16,"Code Smell Detecting
+Tool and Code Smell-Structure Bug Relationship","Phongphan Danphitsanuphan
+Thanitta Suwantada ",Academia,"2,012.00",Spring Congress on Engineering and Technology,Conference,,"@INPROCEEDINGS{6342082,  author={Danphitsanuphan, Phongphan and Suwantada, Thanitta},  booktitle={2012 Spring Congress on Engineering and Technology},   title={Code Smell Detecting Tool and Code Smell-Structure Bug Relationship},   year={2012},  volume={},  number={},  pages={1-5},  doi={10.1109/SCET.2012.6342082}}",,Findbugs
+S17,Supporting the Identification of Architecturally-Relevant Code Anomalies,,Academia,"2,012.00",International Conference on Software Maintenance,Conference,,"@INPROCEEDINGS{6405348,  author={Macia, Isela and Arcoverde, Roberta and Cirilo, Elder and Garcia, Alessandro and von Staa, Arndt},  booktitle={2012 28th IEEE International Conference on Software Maintenance (ICSM)},   title={Supporting the identification of architecturally-relevant code anomalies},   year={2012},  volume={},  number={},  pages={662-665},  doi={10.1109/ICSM.2012.6405348}}",,
+S18,"A multiple case study of design pattern decay, grime, and rot in evolving software systems","Clemente Izurieta
+James M. Bieman",Academia,"2,013.00",Software Qual J,Journal,https://doi.org/10.1007/s11219-012-9175-x,"@article{Izurieta2012,
+  doi = {10.1007/s11219-012-9175-x},
+  url = {https://doi.org/10.1007/s11219-012-9175-x},
+  year = {2012},
+  month = feb,
+  publisher = {Springer Science and Business Media {LLC}},
+  volume = {21},
+  number = {2},
+  pages = {289--323},
+  author = {Clemente Izurieta and James M. Bieman},
+  title = {A multiple case study of design pattern decay,  grime,  and rot in evolving software systems},
+  journal = {Software Quality Journal}
+}","This research examined the extent to which software designs actually decay, rot, and accumulate grime by studying the aging of design patterns in three successful object-oriented systems.","JDepends
+JavaNCSS"
+S19,Visualizing and Managing Technical Debt in Agile Development: an Experience Report,"Paulo Sérgio Medeiros dos Santos
+Amanda Varella
+Cristine Ribeiro Dantas
+Daniel Beltrão Borges",Both,"2,013.00",International Conference on Agile Software Development,Conference,https://doi.org/10.1007/978-3-642-38314-4_9,"@incollection{dos_Santos_2013,
+	doi = {10.1007/978-3-642-38314-4_9},
+	url = {https://doi.org/10.1007%2F978-3-642-38314-4_9},
+	year = 2013,
+	publisher = {Springer Berlin Heidelberg},
+	pages = {121--134},
+	author = {Paulo S{\'{e}}rgio Medeiros dos Santos and Amanda Varella and Cristine Ribeiro Dantas and Daniel Beltr{\~{a}}o Borges},
+	title = {Visualizing and Managing Technical Debt in Agile Development: An Experience Report},
+	booktitle = {Lecture Notes in Business Information Processing}
+}","We propose the use of a ""technical debt board"" with main technical debt categories
+to manage and visualize the high-level debt, combined with tools to measure it
+at low-level (software metrics and other kind of static analysis).","SonarQube
+PMD
+Findbugs
+Cobertura
+Checkstyle"
+S20,Comparing four approaches for technical debt identification,"Nico Zazworka
+Antonio Vetro
+Clemente Izurieta
+Sunny Wong
+Yuanfang Cai
+Carolyn Seaman
+Forrest Shull",Academia,"2,013.00",Software Quality Journal,Journal,https://doi.org/10.1007/s11219-013-9200-8,"@article{Zazworka_2013,
+	doi = {10.1007/s11219-013-9200-8},
+	url = {https://doi.org/10.1007%2Fs11219-013-9200-8},
+	year = 2013,
+	month = {apr},
+	publisher = {Springer Science and Business Media {LLC}},
+	volume = {22},
+	number = {3},
+	pages = {403--426},
+	author = {Nico Zazworka and Antonio Vetro' and Clemente Izurieta and Sunny Wong and Yuanfang Cai and Carolyn Seaman and Forrest Shull},
+	title = {Comparing four approaches for technical debt identification},
+	journal = {Software Quality Journal}
+}","To address this latter question, we also investigated whether TD, as identified by the source code analysis techniques, correlates with interest payments in the form of increased defect- and change-proneness. Comparing the results of different TD identification approaches to understand their commonalities and differences and to evaluate their relationship to indicators of future TD ‘‘interest.’’","CLIO
+FindBugs
+Codevizard"
+S21,Exploring Software Supply Chains From a Technical Debt Perspective,"J. Yates Monteith
+John D. McGregor",Academia,"2,013.00",International Workshop on Managing Technical Debt,Workshop,https://doi.org/10.1109/MTD.2013.6608676,"@inproceedings{Monteith2013,
+  doi = {10.1109/mtd.2013.6608676},
+  url = {https://doi.org/10.1109/mtd.2013.6608676},
+  year = {2013},
+  month = may,
+  publisher = {{IEEE}},
+  author = {J. Yates Monteith and John D. McGregor},
+  title = {Exploring software supply chains from a technical debt perspective},
+  booktitle = {2013 4th International Workshop on Managing Technical Debt ({MTD})}
+}","We investigated the Eclipse platform code to illustrate analysis
+methods that produce information of use to decision makers.
+The technical debt of the software pieces was measured using
+the Technical Debt plug-in to Sonar as one input into the
+evaluation of supply chain quality.","Sonar
+Understand
+Cytoscape"
+S22,Generating Precise Dependencies for Large Software,"Pei Wang
+Jinqiu Yang
+Lin Tan
+Robert Kroeger
+J. David Morgenthaler",Both,"2,013.00",International Workshop on Managing Technical Debt,Workshop,https://doi.org/10.1109/mtd.2013.6608678,"@inproceedings{Wang2013,
+  doi = {10.1109/mtd.2013.6608678},
+  url = {https://doi.org/10.1109/mtd.2013.6608678},
+  year = {2013},
+  month = may,
+  publisher = {{IEEE}},
+  author = {Pei Wang and Jingiu Yang and Lin Tan and Robert Kroeger and J. David Morgenthaler},
+  title = {Generating precise dependencies for large software},
+  booktitle = {2013 4th International Workshop on Managing Technical Debt ({MTD})}
+}","This paper designs and implements a precise and scalable
+tool that extracts code dependencies and their utilization for
+
+large C/C++ software projects.","CodeSurfer
+CppDepend"
+S23,"To what extent can maintenance problems be predicted by code smell
+detection? – An empirical study","Aiko Yamashita
+Leon Moonen",Academia,"2,013.00",Information and Software Technology,Journal,http://dx.doi.org/10.1016/j.infsof.2013.08.002,"@ARTICLE{Yamashita2013-ca,
+  title     = ""To what extent can maintenance problems be predicted by code
+               smell detection? -- An empirical study"",
+  author    = ""Yamashita, Aiko and Moonen, Leon"",
+  journal   = ""Inf. Softw. Technol."",
+  publisher = ""Elsevier BV"",
+  volume    =  55,
+  number    =  12,
+  pages     = ""2223--2242"",
+  month     =  dec,
+  year      =  2013,
+  language  = ""en""
+}
+",,Together
+S24,Code Smell Detection: Towards a Machine Learning-Based Approach,"Francesca Arcelli Fontana
+Marco Zanoni
+Alessandro Marino
+Mika V. Mäntylä",Academia,"2,013.00",International Conference on Software Maintenance and Evolution,Conference,,"@INPROCEEDINGS{6676916,  author={Fontana, Francesca Arcelli and Zanoni, Marco and Marino, Alessandro and Mäntylä, Mika V.},  booktitle={2013 IEEE International Conference on Software Maintenance},   title={Code Smell Detection: Towards a Machine Learning-Based Approach},   year={2013},  volume={},  number={},  pages={396-399},  doi={10.1109/ICSM.2013.56}}",,CheckStyle
+S25,Integrating Technical Debt into MDE,"Faber D. Giraldo
+Sergio Espana
+Manuel A. Pineda
+William J. Giraldo
+Oscar Pastor",Academia,"2,014.00",International Conference on Advanced Information Systems Engineering,Conference,http://ceur-ws.org/Vol-1164/PaperDemo02.pdf,"@inproceedings{Giraldo2014,
+  author    = {F{\'{a}}ber D. Giraldo and
+               Sergio Espa{\~{n}}a and
+               Manuel A. Pineda and
+               William J. Giraldo and
+               Oscar Pastor},
+  editor    = {Selmin Nurcan and
+               Elias Pimenidis and
+               Oscar Pastor and
+               Yannis Vassiliou},
+  title     = {Integrating Technical Debt into {MDE}},
+  booktitle = {Joint Proceedings of the CAiSE 2014 Forum and CAiSE 2014 Doctoral
+               Consortium co-located with the 26th International Conference on Advanced
+               Information Systems Engineering (CAiSE 2014), Thessaloniki, Greece,
+               June 18-20, 2014}
+  year      = {2014},
+  url       = {http://ceur-ws.org/Vol-1164/PaperDemo02.pdf},
+  timestamp = {Mon, 18 Jan 2021 08:56:37 +0100},
+  biburl    = {https://dblp.org/rec/conf/caise/GiraldoEPGP14.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}","The SonarQube tool was used, so that the quality check was performed directly on projects created with Eclipse Modeling Framework (EMF) instead of traditionals source code projects.",SonarQube
+S26,JSpIRIT: A Flexible Tool for the Analysis of Code Smells,"Santiago Vidal
+Hernan Vazquez
+J. Andres Díaz-Pace
+Claudia Marcos
+Alessandro Garcia
+Willian Oizumi",Academia,"2,015.00",International Conference of the Chilean Computer Science Society,Conference,https://doi.org/10.1109/SCCC.2015.7416572,"@INPROCEEDINGS{Vidal2015-jl,
+  title           = ""{JSpIRIT}: a flexible tool for the analysis of code smells"",
+  booktitle       = ""2015 34th International Conference of the Chilean Computer
+                     Science Society ({SCCC})"",
+  author          = ""Vidal, Santiago and Vazquez, Hernan and Diaz-Pace, J
+                     Andres and Marcos, Claudia and Garcia, Alessandro and
+                     Oizumi, Willian"",
+  publisher       = ""IEEE"",
+  month           =  nov,
+  year            =  2015,
+  conference      = ""2015 34th International Conference of the Chilean Computer
+                     Science Society (SCCC)"",
+  location        = ""Santiago, Chile""
+}
+","In this article,
+we present a f exible tool to prioritize technical debt in the form
+of code smells. The tool is f exible to allow developer s to add new
+smell detection str ategies and to prioritize smells, and groups of
+smells, based on the conf gur ation of their manifold criteria.",JSpIRIT
+S27,Assessing the Effectiveness of Static Analysis through Defect Correlation Analysis,"Radhika D Venkatasubramanyam
+Shrinath Gupta
+Umesh Uppili",Industry,"2,015.00",International Conference on Global Software Engineering,Conference,http://doi.org/10.1109/ICGSE.2015.18,"@inproceedings{Venkatasubramanyam_2015,
+	doi = {10.1109/icgse.2015.18},
+	url = {https://doi.org/10.1109%2Ficgse.2015.18},
+	year = 2015,
+	month = {jul},
+	publisher = {{IEEE}},
+	author = {Radhika D. Venkatasubramanyam and Shrinath Gupta and Umesh Uppili},
+	title = {Assessing the Effectiveness of Static Analysis through Defect Correlation Analysis},
+	booktitle = {2015 {IEEE} 10th International Conference on Global Software Engineering}
+}","In this paper, we
+discuss our experiences in determining the importance of Static
+Analysis and the extent to which the defects (that could otherwise
+be slipped to later stages of SDLC) could have been reduced with
+the continuous use of Static Analysis.","FxCop
+PCLint
+FindBugs"
+S28,Conciliating Model-Driven Engineering with Technical Debt Using a Quality Framework,"Faber D. Giraldo
+Sergio Espana
+Manuel A. Pineda,
+William J. Giraldo
+Oscar Pastor",Academia,"2,015.00",International Conference on Advanced Information Systems Engineering,Conference,https://doi.org/10.1007/978-3-319-19270-3_13,"@incollection{Giraldo_2015,
+	doi = {10.1007/978-3-319-19270-3_13},
+	url = {https://doi.org/10.1007%2F978-3-319-19270-3_13},
+	year = 2015,
+	publisher = {Springer International Publishing},
+	pages = {199--214},
+	author = {F{\'{a}}ber D. Giraldo and Sergio Espa{\~{n}}a and Manuel A. Pineda and William J. Giraldo and Oscar Pastor},
+	title = {Conciliating Model-Driven Engineering with Technical Debt Using a Quality Framework},
+	booktitle = {Lecture Notes in Business Information Processing}
+}",,SonarQube
+S29,Towards a Prioritization of Code Debt: A Code Smell Intensity Index,"Francesca Arcelli Fontana
+Marco Zanoni
+Marco Zanoni
+Riccardo Roveda",Academia,"2,015.00",International Workshop on Managing Technical Debt,Workshop,10.1109/MTD.2015.7332620,"@INPROCEEDINGS{7332620,  author={Fontana, Francesca Arcelli and Ferme, Vincenzo and Zanoni, Marco and Roveda, Riccardo},  booktitle={2015 IEEE 7th International Workshop on Managing Technical Debt (MTD)},   title={Towards a prioritization of code debt: A code smell Intensity Index},   year={2015},  volume={},  number={},  pages={16-24},  doi={10.1109/MTD.2015.7332620}}",,
+S30,Comparing and experimenting machine learning techniques for code smell detection,,Academia,"2,015.00",Empirical Software Engineering,Journal,,"@article{ArcelliFontana2015,
+  doi = {10.1007/s10664-015-9378-4},
+  url = {https://doi.org/10.1007/s10664-015-9378-4},
+  year = {2015},
+  month = jun,
+  publisher = {Springer Science and Business Media {LLC}},
+  volume = {21},
+  number = {3},
+  pages = {1143--1191},
+  author = {Francesca Arcelli Fontana and Mika V. M\""{a}ntyl\""{a} and Marco Zanoni and Alessandro Marino},
+  title = {Comparing and experimenting machine learning techniques for code smell detection},
+  journal = {Empirical Software Engineering}
+}",,
+S31,Experimental Evaluation of Code Smell Detection Tools,,Academia,"2,015.00",Journal of Software Engineering Research and Development,Journal,,"@article{Paiva2017,
+  doi = {10.1186/s40411-017-0041-1},
+  url = {https://doi.org/10.1186/s40411-017-0041-1},
+  year = {2017},
+  month = oct,
+  publisher = {Sociedade Brasileira de Computacao - {SB}},
+  volume = {5},
+  number = {1},
+  author = {Thanis Paiva and Amanda Damasceno and Eduardo Figueiredo and Cl{\'{a}}udio Sant'Anna},
+  title = {On the evaluation of code smells and detection tools},
+  journal = {Journal of Software Engineering Research and Development}
+}",,"PMD,Jdeodorant"
+S32,Mining Version Histories for Detecting Code Smells,,Academia,"2,015.00",IEEE TRANSACTIONS ON SOFTWARE ENGINEERING,Journal,,"@ARTICLE{6963448,  author={Palomba, Fabio and Bavota, Gabriele and Penta, Massimiliano Di and Oliveto, Rocco and Poshyvanyk, Denys and De Lucia, Andrea},  journal={IEEE Transactions on Software Engineering},   title={Mining Version Histories for Detecting Code Smells},   year={2015},  volume={41},  number={5},  pages={462-489},  doi={10.1109/TSE.2014.2372760}}",,"Jdeodorant
+Ptidej"
+S33,Hotspot Patterns: The Formal Definition and Automatic Detection of Architecture Smells,,Academia,"2,015.00",Conference on Software Architecture,Conference,,"@INPROCEEDINGS{7158503,  author={Mo, Ran and Cai, Yuanfang and Kazman, Rick and Xiao, Lu},  booktitle={2015 12th Working IEEE/IFIP Conference on Software Architecture},   title={Hotspot Patterns: The Formal Definition and Automatic Detection of Architecture Smells},   year={2015},  volume={},  number={},  pages={51-60},  doi={10.1109/WICSA.2015.12}}",,
+S34,Tool support for evaluating architectural debt of an existing system: An experience report,"Francesca Arcelli Fontana
+Riccardo Roveda
+Marco Zanoni",Academia,"2,016.00",ACM/SIGAPP Symposium on Applied Computing,Conference,http://dx.doi.org/10.1145/2851613.2851963,"@INPROCEEDINGS{Fontana2016-mt,
+  title           = ""Tool support for evaluating architectural debt of an
+                     existing system"",
+  booktitle       = ""Proceedings of the 31st Annual {ACM} Symposium on Applied
+                     Computing"",
+  author          = ""Fontana, Francesca Arcelli and Roveda, Riccardo and
+                     Zanoni, Marco"",
+  publisher       = ""ACM"",
+  month           =  apr,
+  year            =  2016,
+  address         = ""New York, NY, USA"",
+  copyright       = ""http://www.acm.org/publications/policies/copyright\_policy\#Background"",
+  conference      = ""SAC 2016: Symposium on Applied Computing"",
+  location        = ""Pisa Italy""
+}
+","This paper aims to describe our experimentation using these tools, by ana-
+lyzing different systems.","Sonargraph-Quality
+SonarQube
+inFusion"
+S35,Technical Debt Indexes provided by tools: a preliminary discussion,"Francesca Arcelli Fontana
+Riccardo Roveda
+Marco Zanoni",Academia,"2,016.00",International Workshop on Managing Technical Debt,Workshop,https://doi.org/10.1109/MTD.2016.11,"@INPROCEEDINGS{Fontana2016-ag,
+  title           = ""Technical debt indexes provided by tools: A preliminary
+                     discussion"",
+  booktitle       = ""2016 {IEEE} 8th International Workshop on Managing
+                     Technical Debt ({MTD})"",
+  author          = ""Fontana, Francesca Arcelli and Roveda, Riccardo and
+                     Zanoni, Marco"",
+  publisher       = ""IEEE"",
+  month           =  oct,
+  year            =  2016,
+  conference      = ""2016 IEEE 8th International Workshop on Managing Technical
+                     Debt (MTD)"",
+  location        = ""Raleigh, NC, USA""
+}
+","We focus our attention on the TDI provided by known tools, with the aim to understand what
+exactly each index takes into account, what the value of the index represents, and its completeness w.r.t. the information that can be exploited to estimate Technical Debt.","CAST
+inFusion
+Sonargraph
+SonarQube
+Structure101"
+S36,"Minimizing refactoring effort through prioritization of classes based on historical, architectural and code smell information","Aabha Choudhary
+Paramvir Singh",Academia,"2,016.00",International Workshop on Technical Debt Analytics,Workshop,https://www.semanticscholar.org/paper/Minimizing-Refactoring-Effort-through-of-Classes-on-Choudhary-Singh/aa6626d94135fa3b565690c5fa1187d7f8611c4d,"@inproceedings{Choudhary2016MinimizingRE,
+  title={Minimizing Refactoring Effort through Prioritization of Classes based on Historical, Architectural and Code Smell Information},
+  author={Aabha Choudhary and Paramvir Singh},
+  booktitle={QuASoQ/TDA@APSEC},
+  year={2016}
+}",They proposed an approach to identify and prioritize classes that need refactoring.,JSpIRIT
+S37,Designite - A Software Design Quality Assessment Tool,"Tushar Sharma
+Pratibha Mishra
+Rohit Tiwari",Both,"2,016.00",International Workshop on Bringing Architectural Design Thinking Into Developers' Daily Activities,Workshop,http://dx.doi.org/10.1145/2896935.2896938,"@INPROCEEDINGS{Sharma2016-ca,
+  title           = ""Designite"",
+  booktitle       = ""Proceedings of the 1st International Workshop on Bringing
+                     Architectural Design Thinking into Developers' Daily
+                     Activities - {BRIDGE} '16"",
+  author          = ""Sharma, Tushar and Mishra, Pratibha and Tiwari, Rohit"",
+  publisher       = ""ACM Press"",
+  year            =  2016,
+  address         = ""New York, New York, USA"",
+  copyright       = ""http://www.acm.org/publications/policies/copyright\_policy\#Background"",
+  conference      = ""the 1st International Workshop"",
+  location        = ""Austin, Texas""
+}","In this
+
+paper, we present Designite - a software design quality as-
+sessment tool.",Designite
+S38,Technical debt reduction using search based automated refactoring,"Michael Mohan
+Des Greer
+Paul McMullan",Academia,"2,016.00",The Journal of Systems and Software,Journal,http://dx.doi.org/10.1016/j.jss.2016.05.019,"@ARTICLE{Mohan2016-xp,
+  title     = ""Technical debt reduction using search based automated
+               refactoring"",
+  author    = ""Mohan, Michael and Greer, Des and McMullan, Paul"",
+  journal   = ""J. Syst. Softw."",
+  publisher = ""Elsevier BV"",
+  volume    =  120,
+  pages     = ""183--194"",
+  month     =  oct,
+  year      =  2016,
+  language  = ""en""
+}
+","In this paper, four different refactoring approaches are compared using an automated software refactoring tool.",A-CMA
+S39,An experience report on detecting and repairing software architecture erosion,"Francesca Arcelli Fontana 
+Riccardo Roveda
+Marco Zanoni
+Claudia Raibulet
+Rafael Capilla",Academia,"2,016.00",Working IEEE/IFIP Conference on Software Architecture,Conference,http://doi.org/10.1109/WICSA.2016.37,"@INPROCEEDINGS{Fontana2016-ta,
+  title           = ""An experience report on detecting and repairing software
+                     architecture erosion"",
+  booktitle       = ""2016 13th Working {IEEE/IFIP} Conference on Software
+                     Architecture ({WICSA})"",
+  author          = ""Fontana, Francesca Arcelli and Roveda, Riccardo and
+                     Zanoni, Marco and Raibulet, Claudia and Capilla, Rafael"",
+  publisher       = ""IEEE"",
+  month           =  apr,
+  year            =  2016,
+  conference      = ""2016 13th Working IEEE/IFIP Conference on Software
+                     Architecture (WICSA)"",
+  location        = ""Venice, Italy""
+}
+","This paper describes
+our experience on identifying architectural erosion problems on
+existing open source software applications through the support
+of two well known tools.","Sonargraph
+Structure101"
+S40,Pragmatic Approach for Managing Technical Debt in Legacy Software Project,"Rajeev Kumar Gupta
+Prabhulinga Manikreddy
+Sandesh Naik
+Arya K",Academia,"2,016.00",India Software Engineering Conference,Conference,https://doi.org/10.1145/2856636.2856655,"@INPROCEEDINGS{Gupta2016-kv,
+  title           = ""Pragmatic approach for managing technical debt in legacy
+                     software project"",
+  booktitle       = ""Proceedings of the 9th India Software Engineering
+                     Conference"",
+  author          = ""Gupta, Rajeev Kumar and Manikreddy, Prabhulinga and Naik,
+                     Sandesh and Arya, K"",
+  publisher       = ""ACM"",
+  month           =  feb,
+  year            =  2016,
+  address         = ""New York, NY, USA"",
+  copyright       = ""http://www.acm.org/publications/policies/copyright\_policy\#Background"",
+  conference      = ""ISEC '16: 9th India Software Engineering Conference"",
+  location        = ""Goa India""
+}
+","In this paper, we are describing a case study of managing
+technical debt on a legacy project referred here as Global
+Configurator Project (GCP) using pragmatic approach. The paper
+presents holistic lifecycle approach with four stages and various
+practices in each stage for managing technical debt.","GDI handle
+IBM Rational Purify
+Coverity
+Findbugs
+Simian
+source monitor
+Perfmon
+Apache JMeter
+PCLint
+FxCop
+Intel thread checker
+Cppcheck"
+S41,Technical Debt Prioritization using Predictive Analytics,"Zadia Codabux
+Byron J. Williams",Academia,"2,016.00",International Conference on Software Engineering Companion,Conference,http://dx.doi.org/10.1145/2889160.2892643,"@inproceedings{Codabux_2016,
+	doi = {10.1145/2889160.2892643},
+	url = {https://doi.org/10.1145%2F2889160.2892643},
+	year = 2016,
+	month = {may},
+	publisher = {{ACM}},
+	author = {Zadia Codabux and Byron J. Williams},
+	title = {Technical debt prioritization using predictive analytics},
+	booktitle = {Proceedings of the 38th International Conference on Software Engineering Companion}
+}",This paper bridge this gap by proposing a framework which makes use of a plethora of techniques ranging from data mining to prediction and decision models that project managers can use in their decision-making process to determine which technical debt is more critical and should be addressed first.,Understand
+S42,Does Your Configuration Code Smell?,"Tushar Sharma
+Marios Fragkoulis
+Diomidis Spinellis",Academia,"2,016.00",Working Conference on Mining Software Repositories,Conference,https://doi.org/10.1145/2901739.2901761,"@inproceedings{Sharma_2016,
+	doi = {10.1145/2901739.2901761},
+	url = {https://doi.org/10.1145%2F2901739.2901761},
+	year = 2016,
+	month = {may},
+	publisher = {{ACM}},
+	author = {Tushar Sharma and Marios Fragkoulis and Diomidis Spinellis},
+	title = {Does your configuration code smell?},
+	booktitle = {Proceedings of the 13th International Conference on Mining Software Repositories}
+}","We propose a catalog of 13 implementation and 11 design configuration smells, where each
+smell violates recommended best practices for configuration code.","Puppeteer
+Puppet-Lint"
+S43,Technical Debt in MDE: A Case Study on GMF/EMF-Based Projects,"Xiao He
+Paris Avgeriou
+Peng Liang
+Zengyang Li",Academia,"2,016.00",International Conference on Model Driven Engineering Languages and Systems,Conference,https://doi.org/10.1145/2976767.2976806,"@inproceedings{He_2016,
+	doi = {10.1145/2976767.2976806},
+	url = {https://doi.org/10.1145%2F2976767.2976806},
+	year = 2016,
+	month = {oct},
+	publisher = {{ACM}},
+	author = {Xiao He and Paris Avgeriou and Peng Liang and Zengyang Li},
+	title = {Technical debt in {MDE}},
+	booktitle = {Proceedings of the {ACM}/{IEEE} 19th International Conference on Model Driven Engineering Languages and Systems}
+}","This paper investigates the code-level TD in MDE projects, which is incurred during code generation. We evaluated 16 open-source and non-trivial GMF/EMF-based MDE projects using bad smells, which are widely-accepted TD indicators.",PMD
+S44,How do software development teams manage technical debt? – An empirical study,"Jesse Yli-Huumo
+Andrey Maglyas
+Kari Smolander",Academia,"2,016.00",The Journal of Systems and Software,Journal,http://dx.doi.org/10.1016/j.jss.2016.05.018,"@article{Yli_Huumo_2016,
+	doi = {10.1016/j.jss.2016.05.018},
+	url = {https://doi.org/10.1016%2Fj.jss.2016.05.018},
+	year = 2016,
+	month = {oct},
+	publisher = {Elsevier {BV}},
+	volume = {120},
+	pages = {195--218},
+	author = {Jesse Yli-Huumo and Andrey Maglyas and Kari Smolander},
+	title = {How do software development teams manage technical debt? {\textendash} An empirical study},
+	journal = {Journal of Systems and Software}
+}","We used the exploratory case study method to collect and analyze empirical
+data in the case organization by interviewing a total of 25 persons in eight software development teams.","SonarQube
+DebtFlag
+JIRA
+CheckStyle
+FindBugs"
+S45,Automatic Detection of Instability Architectural Smells,"Francesca Arcelli Fontana
+Ilaria Pigazzini
+Riccardo Roveda
+Marco Zanoni",Academia,"2,016.00",International Conference on Software Maintenance and Evolution,Conference,,"@inproceedings{Fontana2016,
+  doi = {10.1109/icsme.2016.33},
+  url = {https://doi.org/10.1109/icsme.2016.33},
+  year = {2016},
+  month = oct,
+  publisher = {{IEEE}},
+  author = {Francesca Arcelli Fontana and Ilaria Pigazzini and Riccardo Roveda and Marco Zanoni},
+  title = {Automatic Detection of Instability Architectural Smells},
+  booktitle = {2016 {IEEE} International Conference on Software Maintenance and Evolution ({ICSME})}
+}",,"Arcan
+Ai Reviewer
+Understand"
+S46,Refactoring for Software Architecture Smells,,Academia,"2,016.00",International Workshop on Software Refactoring,Conference,,"@inproceedings{10.1145/2975945.2975946,
+author = {Samarthyam, Ganesh and Suryanarayana, Girish and Sharma, Tushar},
+title = {Refactoring for Software Architecture Smells},
+year = {2016},
+isbn = {9781450345095},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/2975945.2975946},
+doi = {10.1145/2975945.2975946},
+booktitle = {Proceedings of the 1st International Workshop on Software Refactoring},
+pages = {1–4},
+numpages = {4},
+keywords = {Architecture refactoring, Software ar- chitecture, Architecture smells},
+location = {Singapore, Singapore},
+series = {IWoR 2016}
+}",,
+S47,Technical Debt Principal Assessment through Structural Metrics,"Makrina Viola Kosti
+Apostolos Ampatzoglou
+Alexander Chatzigeorgiou
+Georgios Pallas
+Ioannis Stamelos
+Lefteris Angelis",Academia,"2,017.00",Euromicro Conference on Software Engineering and Advanced Applications,Conference,http://doi.org/10.1109/SEAA.2017.59,"@inproceedings{Kosti2017,
+  doi = {10.1109/seaa.2017.59},
+  url = {https://doi.org/10.1109/seaa.2017.59},
+  year = {2017},
+  month = aug,
+  publisher = {{IEEE}},
+  author = {Makrina Viola Kosti and Apostolos Ampatzoglou and Alexander Chatzigeorgiou and Georgios Pallas and Ioannis Stamelos and Lefteris Angelis},
+  title = {Technical Debt Principal Assessment Through Structural Metrics},
+  booktitle = {2017 43rd Euromicro Conference on Software Engineering and Advanced Applications ({SEAA})}
+}","Specifically, we investigate if the monetized TD principal assessments can be subsumed by metric scores.",SonarQube
+S48,SonarQube as a Tool to Identify Software Metrics and Technical Debt in the Source Code through Static Analysis,"Daniel Guaman
+Pablo Alejandro-Quezada Sarmiento
+Luis Barba-Guamán
+Paola Cabrera
+Liliana Enciso",Academia,"2,017.00",International Workshop on Computer Science and Engineering,Workshop,http://doi.org/10.18178/wcse.2017.06.030,"@INPROCEEDINGS{Guaman2017,
+  title      = ""{SonarQube} as a tool to identify software metrics and
+                technical debt in the source code through static analysis"",
+  booktitle  = ""Proceedings of 2017 the 7th International Workshop on Computer
+                Science and Engineering"",
+  publisher  = ""WCSE"",
+  year       =  2017,
+  conference = ""2017 the 7th International Workshop on Computer Science and
+                Engineering"",
+  author = ""Daniel Guaman, and Pablo Alejandro-Quezada Sarmiento, and Luis Barba-Guamán, and Paola Cabrera, and Liliana Enciso""
+}","This paper exposes the search, classify and analysis of aspects related to technical debt in the code, also showed the use of SonarQube combined with static analysis as a technique to analyze the software characteristics from the source code to determine possible issues in the people that develop software.",SonarQube
+S49,Towards Triaging Code-Smell Candidates via Runtime Scenarios and Method-Call Dependencies,"Thorsten Haendler
+Stefan Sobernig
+Mark Strembeck",Academia,"2,017.00",International Conference on Agile Software Development: Companion,Conference,https://doi.org/10.1145/3120459.3120468,"@INPROCEEDINGS{Haendler2017-qd,
+  title           = ""Towards triaging code-smell candidates via runtime
+                     scenarios and method-call dependencies"",
+  booktitle       = ""Proceedings of the {XP2017} Scientific Workshops"",
+  author          = ""Haendler, Thorsten and Sobernig, Stefan and Strembeck,
+                     Mark"",
+  publisher       = ""ACM"",
+  month           =  may,
+  year            =  2017,
+  address         = ""New York, NY, USA"",
+  copyright       = ""http://www.acm.org/publications/policies/copyright\_policy\#Background"",
+  conference      = ""XP '17 Workshops: Proceedings of the Scientific Workshops
+                     of XP2017"",
+  location        = ""Cologne Germany""
+}
+","In this paper, we propose an approach to obtain tailorable design
+documentation for object-oriented systems based on runtime tests.
+In particular, the approach supports a tool-supported triaging of
+code-smell candidates.",KaleidoScope
+S50,Toward Technical Debt Aware Software Modeling,"Gonzalo Rojas
+Clemente Izurieta
+Isaac Griffith",Academia,"2,017.00",Iberoamerican Conference on Software Engineering,Conference,https://www.semanticscholar.org/paper/Toward-Technical-Debt-Aware-Software-Modeling-Rojas-Izurieta/11bbc831715fab2e3f30a999fc3968a39a331ae8,"@inproceedings{Rojas2017TowardTD,
+  title={Toward Technical Debt Aware Software Modeling},
+  author={Gonzalo Rojas and Clemente Izurieta and Isaac Griffith},
+  booktitle={CIbSE},
+  year={2017}
+}","Our work addresses this fundamental gap by first providing a map of cor-
+respondences between recognized model smells of UML Class Diagrams and Java
+
+source code issues.","EMF Refactor
+SonarQube"
+S51,Recommending when Design Technical Debt Should be Self-Admitted,"Fiorella Zampetti
+Cedric Noiseux
+Giuliano Antoniol
+Foutse Khomh
+Massimiliano Di Penta",Academia,"2,017.00",International Conference on Software Maintenance and Evolution,Conference,http://doi.org/10.1109/ICSME.2017.44,"@INPROCEEDINGS{Zampetti2017-bi,
+  title           = ""Recommending when Design Technical Debt Should be
+                     {Self-Admitted}"",
+  booktitle       = ""2017 {IEEE} International Conference on Software
+                     Maintenance and Evolution ({ICSME})"",
+  author          = ""Zampetti, Fiorella and Noiseux, Cedric and Antoniol,
+                     Giuliano and Khomh, Foutse and Di Penta, Massimiliano"",
+  publisher       = ""IEEE"",
+  month           =  sep,
+  year            =  2017,
+  conference      = ""2017 IEEE International Conference on Software Maintenance
+                     and Evolution (ICSME)"",
+  location        = ""Shanghai""
+}","To achieve this
+
+goal, we have developed a machine learning approach named TE-
+DIOUS (TEchnical Debt IdentificatiOn System), which leverages
+
+various kinds of method-level features as independent variables,
+including source code structural metrics, readability metrics and,
+last but not least, warnings raised by static analysis tools.","CheckStyle
+PMD"
+S52,Compiling Static Software Metrics for Reliability and Maintainability from GitHub Repositories,"Jeremy Ludwig
+Steven Xu
+Frederick Webber",Both,"2,017.00","International Conference on Systems, Man, and Cybernetics",Conference,https://doi.org/10.1109/SMC.2017.8122569,"@INPROCEEDINGS{Ludwig2017-dp,
+  title           = ""Compiling static software metrics for reliability and
+                     maintainability from {GitHub} repositories"",
+  booktitle       = ""2017 {IEEE} International Conference on Systems, Man, and
+                     Cybernetics ({SMC})"",
+  author          = ""Ludwig, Jeremy and Xu, Steven and Webber, Frederick"",
+  publisher       = ""IEEE"",
+  month           =  oct,
+  year            =  2017,
+  conference      = ""2017 IEEE International Conference on Systems, Man and
+                     Cybernetics (SMC)"",
+  location        = ""Banff, AB""
+}","A plug-in is
+created for the Understand code visualization and static analysis
+tool that calculates and aggregates the metrics. The plug-in
+produces a high-level interactive html report as well as
+developer-level information needed to address quality issues
+using Understand.","Understand
+CBR Insight"
+S53,Improving Object-Oriented Design ality: A Portfolio and Measurement-Based Approach,"Johannes Bräuer
+Reinhold Plösch
+Matthias Saft
+Christian Körner",Both,"2,017.00",International Workshop on Software Measurement,Workshop,http://doi.org/10.1145/3143434.3143454,"@INPROCEEDINGS{Brauer2017-ja,
+  title           = ""Improving object-oriented design quality"",
+  booktitle       = ""Proceedings of the 27th International Workshop on Software
+                     Measurement and 12th International Conference on Software
+                     Process and Product Measurement"",
+  author          = ""Br{\""a}uer, Johannes and Saft, Matthias and Pl{\""o}sch,
+                     Reinhold and K{\""o}rner, Christian"",
+  publisher       = ""ACM"",
+  month           =  oct,
+  year            =  2017,
+  address         = ""New York, NY, USA"",
+  copyright       = ""http://www.acm.org/publications/policies/copyright\_policy\#Background"",
+  conference      = ""IWSM/Mensura '17: 27th International Workshop on Software
+                     Measurement and 12th International Conference on Software
+                     Process and Product Measurement"",
+  location        = ""Gothenburg Sweden""
+}","In this paper, we propose an approach that supports the decision-making process re-
+garding design improvements. It identies violations of design best practices that are then arranged within a two-dimensional portfolio matrix.","MUSE
+SonarQube"
+S54,What if I had no smells?,"Davide Falessi
+Barbara Russo
+Kathleen Mullen",Both,"2,017.00",International Symposium on Empirical Software Engineering and Measurement,Conference,https://doi.org/10.1109/esem.2017.14,"@inproceedings{Falessi_2017,
+	doi = {10.1109/esem.2017.14},
+	url = {https://doi.org/10.1109/esem.2017.14},
+	year = 2017,
+	month = {nov},
+	publisher = {{IEEE}},
+	author = {Davide Falessi and Barbara Russo and Kathleen Mullen},
+	title = {What if I Had No Smells?},
+	booktitle = {2017 {ACM}/{IEEE} International Symposium on Empirical Software Engineering and Measurement ({ESEM})}
+}
+","This is an interesting question that no previous study, to
+the best of our knowledge, has tried to answer. In this paper, we
+present a method for implementing a what-if scenario analysis
+estimating the number of defective files in the absence of smells.",SonarQube
+S55,Who is Producing More Technical Debt? A Personalized Assessment of TD Principal,"Theodoros Amanatidis
+Alexander Chatzigeorgiou
+Apostolos Ampatzoglou
+Ioannis Stamelos",Academia,"2,017.00",International Conference on Agile Software Development,Conference,https://doi.org/10.1145/3120459.3120464,"@INPROCEEDINGS{Amanatidis2017-yd,
+  title           = ""Who is producing more technical debt?"",
+  booktitle       = ""Proceedings of the {XP2017} Scientific Workshops"",
+  author          = ""Amanatidis, Theodoros and Chatzigeorgiou, Alexander and
+                     Ampatzoglou, Apostolos and Stamelos, Ioannis"",
+  publisher       = ""ACM"",
+  month           =  may,
+  year            =  2017,
+  address         = ""New York, NY, USA"",
+  copyright       = ""http://www.acm.org/publications/policies/copyright\_policy\#Background"",
+  conference      = ""XP '17 Workshops: Proceedings of the Scientific Workshops
+                     of XP2017"",
+  location        = ""Cologne Germany""
+}","In this paper, we investigate three
+research questions related to the distribution of TD among the
+developers of a software project, the types of violations caused by
+each developer and the relation between developers’ maturity and
+the tendency to accumulate TD.",SonarQube
+S56,Correlations of Software Code Metrics: An Empirical Study,"Md Abdullah Al Mamun
+Christian Berger
+Jörgen Hansson",Academia,"2,017.00",International Workshop on Software Measurement,Conference,https://doi.org/10.1145/3143434.3143445,"@inproceedings{10.1145/3143434.3143445,
+author = {Mamun, Md Abdullah Al and Berger, Christian and Hansson, J\""{o}rgen},
+title = {Correlations of Software Code Metrics: An Empirical Study},
+year = {2017},
+isbn = {9781450348539},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3143434.3143445},
+doi = {10.1145/3143434.3143445},
+booktitle = {Proceedings of the 27th International Workshop on Software Measurement and 12th International Conference on Software Process and Product Measurement},
+pages = {255–266},
+numpages = {12},
+keywords = {software engineering, spearman's rank correlation, correlation of metrics, software code metrics},
+location = {Gothenburg, Sweden},
+series = {IWSM Mensura '17}
+}","To understand such relationships, this empirical study has collected 25 metrics classi-
+fied into four domains from 9572 software revisions of 20 open source projects from 8 well-known companies.",SonarQube
+S57,Identifying self-admitted technical debt in open source projects using text mining,"Qiao Huang
+Emad Shihab
+Xin Xia
+David Lo
+Shanping Li",Academia,"2,017.00",Empirical Software Engineering,Journal,http://doi.org/10.1007/s10664-017-9522-4,"@article{Huang_2017,
+	doi = {10.1007/s10664-017-9522-4},
+	url = {https://doi.org/10.1007%2Fs10664-017-9522-4},
+	year = 2017,
+	month = {may},
+	publisher = {Springer Science and Business Media {LLC}},
+	volume = {23},
+	number = {1},
+	pages = {418--451},
+	author = {Qiao Huang and Emad Shihab and Xin Xia and David Lo and Shanping Li},
+	title = {Identifying self-admitted technical debt in open source projects using text mining},
+	journal = {Empirical Software Engineering}
+}","In this paper, we proposed an automated approach to detect SATD in source code comments",Proposed by the author
+S58,SATD Detector: A Text-Mining-Based Self-Admitted Technical Debt Detection Tool,"Zhongxin Liu
+Qiao Huang
+Xin Xia
+Emad Shihab
+David Lo
+Shanping Li",Academia,"2,018.00",International Conference on Software Engineering,Conference,https://doi.org/10.1145/3183440.3183478,"@INPROCEEDINGS{Liu2018-ci,
+  title           = ""{SATD} detector"",
+  booktitle       = ""Proceedings of the 40th International Conference on
+                     Software Engineering: Companion Proceeedings"",
+  author          = ""Liu, Zhongxin and Huang, Qiao and Xia, Xin and Shihab,
+                     Emad and Lo, David and Li, Shanping"",
+  publisher       = ""ACM"",
+  month           =  may,
+  year            =  2018,
+  address         = ""New York, NY, USA"",
+  copyright       = ""http://www.acm.org/publications/policies/copyright\_policy\#Background"",
+  conference      = ""ICSE '18: 40th International Conference on Software
+                     Engineering"",
+  location        = ""Gothenburg Sweden""
+}
+","In this paper, we propose SATD Detector, a tool that is able to (i) automatically detect SATD comments using text mining and (ii) highlight, list and manage detected comments in an integrated development environment (IDE). This tool consists of a Java library and an Eclipse plug-in.",SATD Detector
+S59,Identifying and Prioritizing Architectural Debt Through Architectural Smells: A Case Study in a Large Software Company,"Antonio Martini
+Francesca Arcelli Fontana
+Andrea Biaggi
+Riccardo Roveda",Both,"2,018.00",European Conference on Software Architecture,Conference,https://doi.org/10.1007/978-3-030-00761-4_21,"@INCOLLECTION{Martini2018-hy,
+  title     = ""Identifying and prioritizing architectural debt through
+               architectural smells: A case study in a large software company"",
+  booktitle = ""Software Architecture"",
+  author    = ""Martini, Antonio and Fontana, Francesca Arcelli and Biaggi,
+               Andrea and Roveda, Riccardo"",
+  publisher = ""Springer International Publishing"",
+  pages     = ""320--335"",
+  series    = ""Lecture notes in computer science"",
+  year      =  2018,
+  address   = ""Cham""
+}
+","In this paper, we conducted a multiple case-study on several architectural smells detected in four industrial projects.",Arcan
+S60,An Architectural Smells Detection Tool for C and C++ projects,"Andrea Biaggi
+Francesca Arcelli Fontana
+Riccardo Roveda",Academia,"2,018.00",Euromicro Conference on Software Engineering and Advanced Applications,Conference,http://doi.org/10.1109/SEAA.2018.00074,"@INPROCEEDINGS{Biaggi2018-sk,
+  title           = ""An architectural smells detection tool for {C} and C++
+                     projects"",
+  booktitle       = ""2018 44th Euromicro Conference on Software Engineering and
+                     Advanced Applications ({SEAA})"",
+  author          = ""Biaggi, Andrea and Arcelli Fontana, Francesca and Roveda,
+                     Riccardo"",
+  publisher       = ""IEEE"",
+  month           =  aug,
+  year            =  2018,
+  conference      = ""2018 44th Euromicro Conference on Software Engineering and
+                     Advanced Applications (SEAA)"",
+  location        = ""Prague""
+}","The purpose of this paper is to introduce an open-
+source tool for automatic architectural smells detection for C/C++
+
+projects, by creating an abstraction of the project and defining
+the concept of dependency between elements belonging to the
+project in order to identify architectural smells.",ARCAN FOR C/C++
+S61,Experiences Applying Automated Architecture Analysis Tool Suites,"Ran Mo
+Will Snipes
+Yuanfang Cai
+Srini Ramaswamy
+Rick Kazman
+Martin Naedele",Both,"2,018.00",International Conference on Automated Software Engineering,Conference,https://doi.org/10.1145/3238147.3240467,"@INPROCEEDINGS{Mo2018-us,
+  title      = ""Experiences applying automated architecture analysis tool
+                suites"",
+  booktitle  = ""Proceedings of the 33rd {ACM/IEEE} International Conference on
+                Automated Software Engineering"",
+  author     = ""Mo, Ran and Snipes, Will and Cai, Yuanfang and Ramaswamy, Srini
+                and Kazman, Rick and Naedele, Martin"",
+  publisher  = ""ACM"",
+  month      =  sep,
+  year       =  2018,
+  address    = ""New York, NY, USA"",
+  copyright  = ""http://www.acm.org/publications/policies/copyright\_policy\#Background"",
+  conference = ""ASE '18: 33rd ACM/IEEE International Conference on Automated
+                Software Engineering"",
+  location   = ""Montpellier France""
+}","In this paper, we report our experiences of applying three com-
+plementary automated software architecture analysis techniques,
+
+supported by a tool suite, called DV8, to 8 industrial projects within
+
+a large company.","DV8
+Understand"
+S62,Towards an Architectural Debt Index,"Riccardo Roveda
+Francesca Arcelli Fontana
+Ilaria Pigazzini
+Marco Zanoni",Both,"2,018.00",Euromicro Conference on Software Engineering and Advanced Applications,Conference,http://doi.org/10.1109/SEAA.2018.00073,"@INPROCEEDINGS{Roveda2018-dj,
+  title           = ""Towards an Architectural Debt Index"",
+  booktitle       = ""2018 44th Euromicro Conference on Software Engineering and
+                     Advanced Applications ({SEAA})"",
+  author          = ""Roveda, Riccardo and Arcelli Fontana, Francesca and
+                     Pigazzini, Ilaria and Zanoni, Marco"",
+  publisher       = ""IEEE"",
+  month           =  aug,
+  year            =  2018,
+  conference      = ""2018 44th Euromicro Conference on Software Engineering and
+                     Advanced Applications (SEAA)"",
+  location        = ""Prague""
+}","In this paper we propose and define a new index, more
+oriented to the evaluation of architectural violations. We describe
+in detail the index, called Architectural Debt Index, that we
+integrated in a tool developed for architectural smell detection.","Arcan
+Sonargraph
+SonarQube
+CAST
+Structure101
+Massey Architecture Explorer
+Lattix
+STAN"
+S63,Technical Debt in Model Transformation Specifications,"Kevin Lano
+Shekoufeh Kolahdouz-Rahimi
+Mohammadreza Sharbaf
+Hessa Alfraihi",Academia,"2,018.00",International Conference on Theory and Practice of Model Transformations,Conference,https://doi.org/10.1007/978-3-319-93317-7_6,"@incollection{Lano2018,
+  doi = {10.1007/978-3-319-93317-7_6},
+  url = {https://doi.org/10.1007/978-3-319-93317-7_6},
+  year = {2018},
+  publisher = {Springer International Publishing},
+  pages = {127--141},
+  author = {Kevin Lano and Shekoufeh Kolahdouz-Rahimi and Mohammadreza Sharbaf and Hessa Alfraihi},
+  title = {Technical Debt in Model Transformation Specifications},
+  booktitle = {Theory and Practice of Model Transformation}
+}","Based on these measures we identify significant differences in the level
+and kinds of technical debt in different MT languages, and we propose
+ways in which TD can be reduced.",PMD
+S64,Smelly Relations: Measuring and Understanding Database Schema Quality,"Tushar Sharma
+Marios Fragkoulis
+Stamatia Rizou
+Magiel Bruntink
+Diomidis Spinellis",Academia,"2,018.00",International Conference on Software Engineering: Software Engineering in Practice,Conference,https://doi.org/10.1145/3183519.3183529,"@inproceedings{Sharma_2018,
+	doi = {10.1145/3183519.3183529},
+	url = {https://doi.org/10.1145%2F3183519.3183529},
+	year = 2018,
+	month = {may},
+	publisher = {{ACM}},
+	author = {Tushar Sharma and Marios Fragkoulis and Stamatia Rizou and Magiel Bruntink and Diomidis Spinellis},
+	title = {Smelly relations},
+	booktitle = {Proceedings of the 40th International Conference on Software Engineering: Software Engineering in Practice}
+}
+","We aim to explore database schema quality, associated characteristics and their relationships with other software artifacts.",DbDeo
+S65,Evaluating Domain-Specific Metric Thresholds: An Empirical Study,"Allan Mori
+Gustavo Vale
+Markos Viggiato
+Johnatan Oliveira
+Eduardo Figueiredo
+Elder Cirilo
+Pooyan Jamshidi
+Christian Kastner",Academia,"2,018.00",International Conference on Technical Debt,Conference,https://doi.org/10.1145/3194164.3194173,"@inproceedings{Mori_2018,
+	doi = {10.1145/3194164.3194173},
+	url = {https://doi.org/10.1145%2F3194164.3194173},
+	year = 2018,
+	month = {may},
+	publisher = {{ACM}},
+	author = {Allan Mori and Gustavo Vale and Markos Viggiato and Johnatan Oliveira and Eduardo Figueiredo and Elder Cirilo and Pooyan Jamshidi and Christian Kastner},
+	title = {Evaluating domain-specific metric thresholds},
+	booktitle = {Proceedings of the 2018 International Conference on Technical Debt}
+}","To tackle this limitation, this paper investigates whether and how
+thresholds vary across domains by presenting a large-scale study on
+3,107 software systems from 15 domains.",CK
+S66,Code smells and their collocations: A large-scale experiment on open-source systems,"Bartosz Walter
+Francesca Arcelli Fontana 
+Vincenzo Ferme",Academia,"2,018.00",Journal of Systems and Software,Journal,,"@article{WALTER20181,
+title = {Code smells and their collocations: A large-scale experiment on open-source systems},
+journal = {Journal of Systems and Software},
+volume = {144},
+pages = {1-21},
+year = {2018},
+issn = {0164-1212},
+doi = {https://doi.org/10.1016/j.jss.2018.05.057},
+url = {https://www.sciencedirect.com/science/article/pii/S0164121218301109},
+author = {Bartosz Walter and Francesca Arcelli Fontana and Vincenzo Ferme},
+keywords = {Code smells, Inter-smell relationships, Smell interaction, Collocated smells, Code smell detectors, Source code quality}
+}",,"Ai Reviewer
+PMD
+CheckStyle"
+S67,Support for Architectural Smell Refactoring,,Academia,"2,018.00",International Workshop on Refactoring,Conference,,"@inproceedings{10.1145/3242163.3242165,
+author = {Rizzi, Luca and Fontana, Francesca Arcelli and Roveda, Riccardo},
+title = {Support for Architectural Smell Refactoring},
+year = {2018},
+isbn = {9781450359740},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3242163.3242165},
+doi = {10.1145/3242163.3242165},
+booktitle = {Proceedings of the 2nd International Workshop on Refactoring},
+pages = {7–10},
+numpages = {4},
+keywords = {Cyclic Dependency, Architectural Smells, Architectural Refactoring},
+location = {Montpellier, France},
+series = {IWoR 2018}
+}",,
+S68,Towards anticipation of architectural smells using link prediction  techniques,,Academia,"2,018.00",International Working Conference on Source Code Analysis and Manipulation,Conference,,"@INPROCEEDINGS{8530719,  author={Díaz-Pace, Jorge Andrés and Tommasel, Antonela and Godoy, Daniela},  booktitle={2018 IEEE 18th International Working Conference on Source Code Analysis and Manipulation (SCAM)},   title={[Research Paper] Towards Anticipation of Architectural Smells Using Link Prediction Techniques},   year={2018},  volume={},  number={},  pages={62-71},  doi={10.1109/SCAM.2018.00015}}",,
+S69,SARIF-enabled Tooling to Encourage Gradual Technical Debt Reduction,"Paul Anderson
+Làucja Kot
+Neil Gilmore
+David Vitek",Industry,"2,019.00",International Conference on Technical Debt,Conference,http://doi.org/10.1109/TechDebt.2019.00024,"@INPROCEEDINGS{Anderson2019-iv,
+  title           = ""{SARIF-enabled} tooling to encourage gradual technical
+                     debt reduction"",
+  booktitle       = ""2019 {IEEE/ACM} International Conference on Technical Debt
+                     ({TechDebt})"",
+  author          = ""Anderson, Paul and Kot, Lucja and Gilmore, Neil and Vitek,
+                     David"",
+  publisher       = ""IEEE"",
+  month           =  may,
+  year            =  2019,
+  conference      = ""2019 IEEE/ACM International Conference on Technical Debt
+                     (TechDebt)"",
+  location        = ""Montreal, QC, Canada""
+}
+","This tool demo shows how analysis tool findings can be
+automatically contributed as comments to the review process in
+a similar way to how a human would make comments on the
+parts of the code that have been changed.","SARIF
+CodeSonarTM
+Clang Static Analyzer
+Pylint"
+S70,TEAMSCALE: Tackle Technical Debt and Control the Quality of Your Software,"Roman Haas
+Rainer Niedermayr
+Elmar Juergens",Industry,"2,019.00",International Conference on Technical Debt,Conference,http://doi.org/10.1109/TechDebt.2019.00016,"@INPROCEEDINGS{Haas2019-mx,
+  title           = ""Teamscale: Tackle technical debt and control the quality
+                     of your software"",
+  booktitle       = ""2019 {IEEE/ACM} International Conference on Technical Debt
+                     ({TechDebt})"",
+  author          = ""Haas, Roman and Niedermayr, Rainer and Juergens, Elmar"",
+  publisher       = ""IEEE"",
+  month           =  may,
+  year            =  2019,
+  conference      = ""2019 IEEE/ACM International Conference on Technical Debt
+                     (TechDebt)"",
+  location        = ""Montreal, QC, Canada""
+}
+","In this paper, we give an overview
+of TEAMSCALE and how this tool can be used in practice to
+control and lower technical debt in the long run. We explain
+which code analyses can be used to identify and address technical
+debt.",TEAMSCALE
+S71,How Deep is the Mud: Fathoming Architecture Technical Debt Using Designite,Tushar Sharma,Academia,"2,019.00",International Conference on Technical Debt,Conference,http://doi.org/10.1109/TechDebt.2019.00018,"""@INPROCEEDINGS{Sharma2019-ew,
+  title           = """"How deep is the mud: Fathoming architecture technical debt
+                     using designite"""",
+  booktitle       = """"2019 {IEEE/ACM} International Conference on Technical Debt
+                     ({TechDebt})"""",
+  author          = """"Sharma, Tushar"""",
+  publisher       = """"IEEE"""",
+  month           =  may,
+  year            =  2019,
+  conference      = """"2019 IEEE/ACM International Conference on Technical Debt
+                     (TechDebt)"""",
+  location        = """"Montreal, QC, Canada""""
+}
+""","""We present Designite, a software design
+
+quality assessment tool, that identifies seven well-known archi-
+tecture smells.""",Designite
+S72,Mitigating Technical and Architectural Debt with Sonargraph,Alexander von Zitzewitz,Industry,"2,019.00",International Conference on Technical Debt,Conference,http://doi.org/10.1109/TechDebt.2019.00022,"@INPROCEEDINGS{Von_Zitzewitz2019-xg,
+  title           = ""Mitigating technical and architectural debt with
+                     sonargraph"",
+  booktitle       = ""2019 {IEEE/ACM} International Conference on Technical Debt
+                     ({TechDebt})"",
+  author          = ""von Zitzewitz, Alexander"",
+  publisher       = ""IEEE"",
+  month           =  may,
+  year            =  2019,
+  conference      = ""2019 IEEE/ACM International Conference on Technical Debt
+                     (TechDebt)"",
+  location        = ""Montreal, QC, Canada""
+}
+","Therefore, the tool enables
+architects and developers to formally describe their
+architectural blueprint using a custom DSL (domain specific
+language). ",Sonargraph
+S73,"TETRA, as a set of techniques and tools for calculating technical debt principal and interest","Boris Kontsevoi
+Elizabeth Soroka
+Sergei Terekhov",Industry,"2,019.00",International Conference on Technical Debt,Conference,http://doi.org/10.1109/TechDebt.2019.00021,"@INPROCEEDINGS{Kontsevoi2019-ci,
+  title           = ""{TETRA}, as a set of techniques and tools for calculating
+                     technical debt principal and interest"",
+  booktitle       = ""2019 {IEEE/ACM} International Conference on Technical Debt
+                     ({TechDebt})"",
+  author          = ""Kontsevoi, Boris and Soroka, Elizabeth and Terekhov,
+                     Sergei"",
+  publisher       = ""IEEE"",
+  month           =  may,
+  year            =  2019,
+  conference      = ""2019 IEEE/ACM International Conference on Technical Debt
+                     (TechDebt)"",
+  location        = ""Montreal, QC, Canada""
+}","The authors
+share the details of the company proprietary approach to
+technical debt management done with the help of the
+Technical DebT Reduction plAtform, TETRA. They share the
+measurement parameters, tools and major dimension for the
+assessment.","SonarQube
+TETRA"
+S74,On the Accuracy of SonarQube Technical Debt Remediation Time,"Nyyti Saarimaki
+Maria Teresa Baldassarre
+Valentina Lenarduzzi
+Simone Romano",Academia,"2,019.00",Euromicro Conference on Software Engineering and Advanced Applications,Conference,http://doi.org/10.1109/SEAA.2019.00055,"@INPROCEEDINGS{Saarimaki2019-kc,
+  title           = ""On the accuracy of {SonarQube} technical debt remediation
+                     time"",
+  booktitle       = ""2019 45th Euromicro Conference on Software Engineering and
+                     Advanced Applications ({SEAA})"",
+  author          = ""Saarimaki, Nyyti and Baldassarre, Maria Teresa and
+                     Lenarduzzi, Valentina and Romano, Simone"",
+  publisher       = ""IEEE"",
+  month           =  aug,
+  year            =  2019,
+  conference      = ""2019 45th Euromicro Conference on Software Engineering and
+                     Advanced Applications (SEAA)"",
+  location        = ""Kallithea-Chalkidiki, Greece""
+}
+","In this paper, we analyze
+the accuracy of SonarQube remediation time on a set of 15
+open source Java projects.",SonarQube
+S75,PageRank and Criticality of Architectural Smells,"Francesca Arcelli Fontana
+Ilaria Pigazzini
+Claudia Raibulet
+Stefano Basciano
+Riccardo Roveda",Both,"2,019.00",European Conference on Software Architecture,Conference,https://doi.org/10.1145/3344948.3344982,"@inproceedings{Fontana2019,
+  doi = {10.1145/3344948.3344982},
+  url = {https://doi.org/10.1145/3344948.3344982},
+  year = {2019},
+  publisher = {{ACM} Press},
+  author = {Francesca Arcelli Fontana and Ilaria Pigazzini and Claudia Raibulet and Stefano Basciano and Riccardo Roveda},
+  title = {{PageRank} and criticality of architectural smells},
+  booktitle = {Proceedings of the 13th European Conference on Software Architecture  - {ECSA} {\textquotesingle}19 - volume 2}
+}","In this paper
+
+we focus our attention on three architectural smells based on de-
+pendency issues, called Cyclic Dependency, Unstable Dependency,
+
+and Hub-Like Dependency. Moreover, we evaluate the PageRank
+and Criticality of these smells through the analysis of six projects.","Arcan
+Gephi"
+S76,Are Static Analysis Violations Really Fixed? A Closer Look at Realistic Usage of SonarQube,"Diego Marcilio
+Rodrigo Bonifacio
+Eduardo Monteiro
+Edna Canedo
+Welder Luz
+Gustavo Pinto",Academia,"2,019.00",International Conference on Program Comprehension,Conference,http://doi.org/10.1109/ICPC.2019.00040,"@INPROCEEDINGS{Marcilio2019-mj,
+  title           = ""Are static analysis violations really fixed? A closer look
+                     at realistic usage of {SonarQube}"",
+  booktitle       = ""2019 {IEEE/ACM} 27th International Conference on Program
+                     Comprehension ({ICPC})"",
+  author          = ""Marcilio, Diego and Bonifacio, Rodrigo and Monteiro,
+                     Eduardo and Canedo, Edna and Luz, Welder and Pinto,
+                     Gustavo"",
+  publisher       = ""IEEE"",
+  month           =  may,
+  year            =  2019,
+  copyright       = ""https://ieeexplore.ieee.org/Xplorehelp/downloads/license-information/IEEE.html"",
+  conference      = ""2019 IEEE/ACM 27th International Conference on Program
+                     Comprehension (ICPC)"",
+  location        = ""Montreal, QC, Canada""
+}","In this paper we contribute with a comprehensive, multi-method
+study about the usage of SonarQube (a popular static analysis
+tool), mining 421,976 issues from 246 projects in four different
+instance of SonarQube: two hosted in open-source communities
+(Eclipse and Apache) and two hosted in Brazilian government
+institutions (Brazilian Court of Account (TCU) and Brazilian
+Federal Police (PF)).","SonarQube
+sonar-issues-miner"
+S77,Reusing Code from StackOverflow: The Effect on Technical Debt,"Nikolaos Nikolaidis
+Georgios Digkas
+Apostolos Ampatzoglou
+Alexander Chatzigeorgiou",Academia,"2,019.00",Euromicro Conference on Software Engineering and Advanced Applications,Conference,http://doi.org/10.1109/SEAA.2019.00022,"@INPROCEEDINGS{Digkas2019-gr,
+  title           = ""Reusing code from {StackOverflow}: The effect on technical
+                     debt"",
+  booktitle       = ""2019 45th Euromicro Conference on Software Engineering and
+                     Advanced Applications ({SEAA})"",
+  author          = ""Digkas, Georgios and Nikolaidis, Nikolaos and Ampatzoglou,
+                     Apostolos and Chatzigeorgiou, Alexander"",
+  publisher       = ""IEEE"",
+  month           =  aug,
+  year            =  2019,
+  copyright       = ""https://ieeexplore.ieee.org/Xplorehelp/downloads/license-information/IEEE.html"",
+  conference      = ""2019 45th Euromicro Conference on Software Engineering and
+                     Advanced Applications (SEAA)"",
+  location        = ""Kallithea-Chalkidiki, Greece""
+}","In this paper, we present the results
+of an empirical study on the relation between the existence of
+reusing code retrieved from StackOverflow on the technical debt
+of the target system.","PMD
+SonarQube"
+S78,CBR Insight: Measure and Visualize Source Code Quality,"Jeremy Ludwig
+Devin Cline",Industry,"2,019.00",International Conference on Technical Debt,Conference,http://doi.org/10.1109/TechDebt.2019.00017,"@INPROCEEDINGS{Ludwig2019-zx,
+  title           = ""{CBR} insight: Measure and visualize source code quality"",
+  booktitle       = ""2019 {IEEE/ACM} International Conference on Technical Debt
+                     ({TechDebt})"",
+  author          = ""Ludwig, Jeremy and Cline, Devin"",
+  publisher       = ""IEEE"",
+  month           =  may,
+  year            =  2019,
+  copyright       = ""https://ieeexplore.ieee.org/Xplorehelp/downloads/license-information/IEEE.html"",
+  conference      = ""2019 IEEE/ACM International Conference on Technical Debt
+                     (TechDebt)"",
+  location        = ""Montreal, QC, Canada""
+}","The goal of CBR Insight
+(CBRI) is to provide an objective and understandable measure of
+software quality that can help guide decisions and direct limited
+resources during software acquisition, development, and
+
+sustainment.",CBR Insight
+S79,DV8: Automated Architecture Analysis Tool Suites,"Yuanfang Cai
+Rick Kazman",Academia,"2,019.00",International Conference on Technical Debt,Conference,http://doi.org/10.1109/TechDebt.2019.00015,"@INPROCEEDINGS{Cai2019-da,
+  title           = ""{DV8}: Automated architecture analysis tool suites"",
+  booktitle       = ""2019 {IEEE/ACM} International Conference on Technical Debt
+                     ({TechDebt})"",
+  author          = ""Cai, Yuanfang and Kazman, Rick"",
+  publisher       = ""IEEE"",
+  month           =  may,
+  year            =  2019,
+  copyright       = ""https://ieeexplore.ieee.org/Xplorehelp/downloads/license-information/IEEE.html"",
+  conference      = ""2019 IEEE/ACM International Conference on Technical Debt
+                     (TechDebt)"",
+  location        = ""Montreal, QC, Canada""
+}","Here we present our tool suite called DV81. The objective
+of DV8 is to measure software modularity, detect architecture
+anti-patterns as technical debts, quantify the maintenance cost
+of each instance of an anti-pattern, and enable return on
+investment analyses of architectural debts.",DV8
+S80,A Study on Architectural Smells Prediction,"Francesca Arcelli Fontana
+Paris Avgeriou
+Ilaria Pigazzini
+Riccardo Roveda",Both,"2,019.00",Euromicro Conference on Software Engineering and Advanced Applications,Conference,http://doi.org/10.1109/SEAA.2019.00057,"@INPROCEEDINGS{Arcelli_Fontana2019-hp,
+  title           = ""A study on architectural smells prediction"",
+  booktitle       = ""2019 45th Euromicro Conference on Software Engineering and
+                     Advanced Applications ({SEAA})"",
+  author          = ""Arcelli Fontana, Francesca and Avgeriou, Paris and
+                     Pigazzini, Ilaria and Roveda, Riccardo"",
+  publisher       = ""IEEE"",
+  month           =  aug,
+  year            =  2019,
+  conference      = ""2019 45th Euromicro Conference on Software Engineering and
+                     Advanced Applications (SEAA)"",
+  location        = ""Kallithea-Chalkidiki, Greece""
+}","In this paper, we evaluate if the existence of
+architectural smells in the past versions of a project can be used
+to predict their presence in the future.","Arcan
+Machine Learning Packages R"
+S81,Towards an Autonomous Bot for Automatic Source Code Refactoring,"Marvin Wyrich
+Justus Bogner",Academia,"2,019.00",International Workshop on Bots in Software Engineering ,Workshop,http://doi.org/10.1109/BotSE.2019.00015,"@INPROCEEDINGS{Wyrich2019-oh,
+  title           = ""Towards an autonomous bot for automatic source code
+                     refactoring"",
+  booktitle       = ""2019 {IEEE/ACM} 1st International Workshop on Bots in
+                     Software Engineering ({BotSE})"",
+  author          = ""Wyrich, Marvin and Bogner, Justus"",
+  publisher       = ""IEEE"",
+  month           =  may,
+  year            =  2019,
+  copyright       = ""https://ieeexplore.ieee.org/Xplorehelp/downloads/license-information/IEEE.html"",
+  conference      = ""2019 IEEE/ACM 1st International Workshop on Bots in
+                     Software Engineering (BotSE)"",
+  location        = ""Montreal, QC, Canada""
+}","In this paper, we present our work towards the RefactoringBot, an autonomous bot that integrates into the team like a
+human developer via the existing version control platform. The
+bot automatically performs refactorings to resolve code smells
+and presents the changes to a developer for asynchronous review
+via pull requests.","Refactoring-Bot
+SonarQube"
+S82,Is Self-Admitted Technical Debt a Good Indicator of Architectural Divergences?,"Giancarlo Sierra
+Ahmad Tahmid
+Emad Shihab
+Nikolaos Tsantalis",Academia,"2,019.00","International Conference on Software Analysis, Evolution and Reengineering",Conference,https://doi.org/10.1109/SANER.2019.8667999,"@INPROCEEDINGS{Sierra2019-kq,
+  title           = ""Is self-admitted technical debt a good indicator of
+                     architectural divergences?"",
+  booktitle       = ""2019 {IEEE} 26th International Conference on Software
+                     Analysis, Evolution and Reengineering ({SANER})"",
+  author          = ""Sierra, Giancarlo and Tahmid, Ahmad and Shihab, Emad and
+                     Tsantalis, Nikolaos"",
+  publisher       = ""IEEE"",
+  month           =  feb,
+  year            =  2019,
+  copyright       = ""https://ieeexplore.ieee.org/Xplorehelp/downloads/license-information/IEEE.html"",
+  conference      = ""2019 IEEE 26th International Conference on Software
+                     Analysis, Evolution and Reengineering (SANER)"",
+  location        = ""Hangzhou, China""
+}","This paper investigates the possibility of using SATD comments to resolve architectural divergences. We leverage a data set of previously classified SATD comments to trace them
+to the architectural divergences of a large open source system, namely ArgoUML.",Understand
+S83,Understanding automated and human-based technical debt identification approaches-a two-phase study,"Rodrigo O. Spínola
+Nico Zazworka
+Antonio Vetro
+Forrest Shull
+Carolyn Seaman",Academia,"2,019.00",Journal of the Brazilian Computer Society,Journal,https://doi.org/10.1186/s13173-019-0087-5,"@article{Sp_nola_2019,
+	doi = {10.1186/s13173-019-0087-5},
+	url = {https://doi.org/10.1186%2Fs13173-019-0087-5},
+	year = 2019,
+	month = {jun},
+	publisher = {Springer Science and Business Media {LLC}},
+	volume = {25},
+	number = {1},
+	author = {Rodrigo O. Sp{\'{\i}}nola and Nico Zazworka and Antonio Vetro and Forrest Shull and Carolyn Seaman},
+	title = {Understanding automated and human-based technical debt identification approaches-a two-phase study},
+	journal = {Journal of the Brazilian Computer Society}
+}","To understand how to effectively elicit TD from humans, to investigate several types of tools for TD identification, and to understand the developers’ point of view about TD indicators and items reported by tools.","CodeVizard
+FindBugs"
+S84,VisminerTD: a tool for automatic identification and interactive monitoring of the evolution of technical debt items,"Thiago S. Mendes
+Felipe G. S. Gomes
+David P. Gonçalves
+Manoel G. Mendonça
+Renato L. Novais
+Rodrigo O. Spínola",Academia,"2,019.00",Journal of the Brazilian Computer Society,Journal,https://doi.org/10.1186/s13173-018-0083-1,"@article{Mendes_2019,
+        doi = {10.1186/s13173-018-0083-1},
+        url = {https://doi.org/10.1186%2Fs13173-018-0083-1},
+        year = 2019,
+        month = {jan},
+        publisher = {Springer Science and Business Media {LLC}},
+        volume = {25},
+        number = {1},
+        author = {Thiago S. Mendes and Felipe G. S. Gomes and David P. Gon{\c{c}}alves and Manoel G. Mendon{\c{c}}a and Renato L. Novais and Rodrigo O. Sp{\'{\i}}nola},
+        title = {{VisminerTD}: a tool for automatic identification and interactive monitoring of the evolution of technical debt items},
+        journal = {Journal of the Brazilian Computer Society}
+}","This work presents VisminerTD, a tool that allows the automatic identification and interactive monitoring of the evolution of TD items by combining software metrics, code comment analysis, and information visualization.",VisminerTD
+S85,The Technical Debt Dataset,"Valentina Lenarduzzi
+Nyyti Saarimäki
+Davide Taibi",Academia,"2,019.00", International Conference on Predictive Models and Data Analytics in Software Engineering,Conference,https://doi.org/10.1145/3345629.3345630,"@inproceedings{Lenarduzzi_2019,
+	doi = {10.1145/3345629.3345630},
+	url = {https://doi.org/10.1145%2F3345629.3345630},
+	year = 2019,
+	month = {sep},
+	publisher = {{ACM}},
+	author = {Valentina Lenarduzzi and Nyyti Saarimäki and Davide Taibi},
+	title = {The Technical Debt Dataset},
+	booktitle = {Proceedings of the Fifteenth International Conference on Predictive Models and Data Analytics in Software Engineering}
+}","In this work, we propose the Technical Debt Dataset, a curated set of
+project measurement data from 33 Java projects from the Apache
+Software Foundation.","Ptidej
+SonarQube
+RMiner
+BetterCodeHub
+CoverityScan"
+S86,Software Architecture Social Debt: Managing the Incommunicability Factor,Damian A. Tamburri,Academia,"2,019.00",IEEE TRANSACTIONS ON COMPUTATIONAL SOCIAL SYSTEMS,Journal,http://doi.org/10.1109/TCSS.2018.2886433,"@article{Tamburri_2019,
+	doi = {10.1109/tcss.2018.2886433},
+	url = {https://doi.org/10.1109%2Ftcss.2018.2886433},
+	year = 2019,
+	month = {feb},
+	publisher = {Institute of Electrical and Electronics Engineers ({IEEE})},
+	volume = {6},
+	number = {1},
+	pages = {20--37},
+	author = {Damian A. Tamburri},
+	title = {Software Architecture Social Debt: Managing the Incommunicability Factor},
+	journal = {{IEEE} Transactions on Computational Social Systems}
+}",This paper illustrates four recurrent antipatterns or community smells connected to such architectural social debt and outlines a means to measure the additional project cost connected to their underlying cause: decision incommunicability.,Understand
+S87,Towards Surgically-Precise Technical Debt Estimation: Early Results and Research Roadmap,"Valentina Lenarduzzi
+Antonio Martini
+Davide Taibi
+Damian Andrew Tamburri",Academia,"2,019.00",International Workshop on Machine Learning Techniques for Software Quality Evaluation,Conference,https://doi.org/10.1145/3340482.3342747,"@INPROCEEDINGS{Lenarduzzi2019-hx,
+  title           = ""Towards surgically-precise technical debt estimation:
+                     early results and research roadmap"",
+  booktitle       = ""Proceedings of the 3rd {ACM} {SIGSOFT} International
+                     Workshop on Machine Learning Techniques for Software
+                     Quality Evaluation - {MaLTeSQuE} 2019"",
+  author          = ""Lenarduzzi, Valentina and Martini, Antonio and Taibi,
+                     Davide and Tamburri, Damian Andrew"",
+  publisher       = ""ACM Press"",
+  year            =  2019,
+  address         = ""New York, New York, USA"",
+  copyright       = ""http://www.acm.org/publications/policies/copyright\_policy\#Background"",
+  conference      = ""the 3rd ACM SIGSOFT International Workshop"",
+  location        = ""Tallinn, Estonia""
+}
+","For the sake of simplicity, we focus on relatively simple regression modelling techniques and apply them to modelling the additional project cost connected to the sub-optimal
+conditions existing in the projects under study.",SonarQube
+S88,Investigating instability architectural smells evolution: an exploratory case study,"Darius Sas
+Paris Avgeriou
+Francesca Arcelli Fontana",Academia,"2,019.00",International Conference on Software Maintenance and Evolution,Conference,http://doi.org/10.1109/ICSME.2019.00090,"@inproceedings{Sas_2019,
+	doi = {10.1109/icsme.2019.00090},
+	url = {https://doi.org/10.1109%2Ficsme.2019.00090},
+	year = 2019,
+	month = {sep},
+	publisher = {{IEEE}},
+	author = {Darius Sas and Paris Avgeriou and Francesca Arcelli Fontana},
+	title = {Investigating Instability Architectural Smells Evolution: An Exploratory Case Study},
+	booktitle = {2019 {IEEE} International Conference on Software Maintenance and Evolution ({ICSME})}
+}","This study analyses the evolution of individual architectural smell instances over time, and the characteristics that define these instances.","Arcan
+ASTracker"
+S89,Are architectural smells independent from code smells? An empirical study,"Francesca Arcelli Fontana
+Valentina Lenarduzzi
+Riccardo Roveda
+Davide Taibi",Academia,"2,019.00",The Journal of Systems and Software,Journal,https://doi.org/10.1016/j.jss.2019.04.066,"@article{Arcelli_Fontana_2019,
+	doi = {10.1016/j.jss.2019.04.066},
+	url = {https://doi.org/10.1016%2Fj.jss.2019.04.066},
+	year = 2019,
+	month = {aug},
+	publisher = {Elsevier {BV}},
+	volume = {154},
+	pages = {139--156},
+	author = {Francesca Arcelli Fontana and Valentina Lenarduzzi and Riccardo Roveda and Davide Taibi},
+	title = {Are architectural smells independent from code smells? An empirical study},
+	journal = {Journal of Systems and Software}
+}",The goal of this work is to understand whether architectural smells are independent from code smells or can be derived from a code smell or from one category of them.,"SonarQube
+Plugin for SonarQube
+Arcan"
+S90,Evolution of Technical Debt: An Exploratory Study,"Md Abdullah Al Mamun
+Antonio Martini
+Miroslaw Staron
+Christian Berger
+J ̈orgen Hansson",Academia,"2,019.00",International Workshop on Software Measurement,Workshop,https://research.chalmers.se/publication/524998/file/524998_Fulltext.pdf,"@inproceedings{inproceedings,
+author = {Mamun, Md Abdullah and Martini, Antonio and Staron, Miroslaw and Berger, Christian and Hansson, Jörgen},
+year = {2019},
+month = {10},
+pages = {},
+title = {Evolution of Technical Debt: An Exploratory Study}
+}",This exploratory study investigates whether a newly introduced metric ‘technical debt density trend’ helps to better understand and explain the evolution of technical debt.,SonarQube
+S91,On the Diffuseness of Code Technical Debt in Java Projects of the Apache Ecosystem,"Nyyti Saarimaki
+Valentina Lenarduzzi
+Davide Taibi",Academia,"2,019.00",International Conference on Technical Debt,Conference,http://doi.org/10.1109/TechDebt.2019.00028,"@inproceedings{Lenarduzzi_2019,
+	doi = {10.1109/techdebt.2019.00028},
+	url = {https://doi.org/10.1109%2Ftechdebt.2019.00028},
+	year = 2019,
+	month = {may},
+	publisher = {{IEEE}},
+	author = {Valentina Lenarduzzi and Nyyti Saarimaki and Davide Taibi},
+	title = {On the Diffuseness of Code Technical Debt in Java Projects of the Apache Ecosystem},
+	booktitle = {2019 {IEEE}/{ACM} International Conference on Technical Debt ({TechDebt})}
+}","In this work, we aim to understand the diffuseness of
+Technical Debt (TD) issues and the speed with which developers
+remove them from the code if they introduced such an issue.",SonarQube
+S92,Influence of Developer Factors on Code Quality: A Data Study,"Maria Jose Salamea
+Carles Farre",Academia,"2,019.00","International Conference on Software Quality, Reliability and Security Companion",Conference,http://doi.org/10.1109/QRS-C.2019.00035,"@inproceedings{Salamea_2019,
+	doi = {10.1109/qrs-c.2019.00035},
+	url = {https://doi.org/10.1109%2Fqrs-c.2019.00035},
+	year = 2019,
+	month = {jul},
+	publisher = {{IEEE}},
+	author = {Maria Jose Salamea and Carles Farre},
+	title = {Influence of Developer Factors on Code Quality: A Data Study},
+	booktitle = {2019 {IEEE} 19th International Conference on Software Quality, Reliability and Security Companion ({QRS}-C)}
+}","Our initial hypothesis is that human
+factors associated with the software developers, like coding
+expertise, communication skills, and experience in the project
+have some measurable impact on the code quality. In this
+exploratory study, we test this hypothesis on two large open
+source repositories, using TD as a code quality metric and the
+data that may be inferred from the version control systems.",SonarQube
+S93,Improving Code Smell Predictions in Continuous Integration by Differentiating Organic from Cumulative Measures,,Academia,"2,019.00",International Conference on Advances and Trends in Software Engineering,Conference,,"@inproceedings{Mamun2019,
+author = {Mamun, Md Abdullah and Staron, Miroslaw and Berger, Christian and Hebig, Regina and Hansson, Jörgen},
+year = {2019},
+month = {03},
+pages = {},
+title = {Improving Code Smell Predictions in Continuous Integration by Differentiating Organic from Cumulative Measures}
+}",,SpotBugs
+S94,Quality-Driven Detection and Resolution of Metamodel Smells,,Academia,"2,019.00",IEEE Access,Journal,,"@ARTICLE{8632659,  author={Bettini, Lorenzo and Di Ruscio, Davide and Iovino, Ludovico and Pierantonio, Alfonso},  journal={IEEE Access},   title={Quality-Driven Detection and Resolution of Metamodel Smells},   year={2019},  volume={7},  number={},  pages={16364-16376},  doi={10.1109/ACCESS.2019.2891357}}",,
+S95,Toward a smell-aware bug prediction model,,Academia,"2,019.00",IEEE TRANSACTIONS ON SOFTWARE ENGINEERING,Journal,,"@ARTICLE{8097044,  author={Palomba, Fabio and Zanoni, Marco and Fontana, Francesca Arcelli and De Lucia, Andrea and Oliveto, Rocco},  journal={IEEE Transactions on Software Engineering},   title={Toward a Smell-Aware Bug Prediction Model},   year={2019},  volume={45},  number={2},  pages={194-218},  doi={10.1109/TSE.2017.2770122}}",,
+S96,Overview of an Automated Framework to Measure and Track the Quality Level of a Product,"Mariana Falco
+Ezequiel Scott
+Gabriela Robiolo",Academia,"2,020.00",Biennial Congress of Argentina,Conference,https://doi.org/10.1109/ARGENCON49523.2020.9505405,"@INPROCEEDINGS{Falco2020-vt,
+  title           = ""Overview of an automated framework to measure and track
+                     the quality level of a product"",
+  booktitle       = ""2020 {IEEE} Congreso Bienal de Argentina ({ARGENCON})"",
+  author          = ""Falco, Mariana and Scott, Ezequiel and Robiolo, Gabriela"",
+  publisher       = ""IEEE"",
+  month           =  dec,
+  year            =  2020,
+  conference      = ""2020 IEEE Congreso Bienal de Argentina (ARGENCON)"",
+  location        = ""Resistencia, Argentina""
+}","This
+framework is based on the Product Quality Evaluation Method
+(PQEM), which was designed by the authors and it allows the
+evaluation of the quality characteristics of a software product,
+using the Goal-Question-Metric approach, the ISO/IEC 25010,
+ISO/IEC 25023, the extension made of test coverage concept
+to quality coverage applied to each quality characteristic, and
+technical debt and waste.","SonarQube
+Sikuli
+JMeter"
+S97,Software Architecture Reconstruction via a Genetic Algorithm: Applying the Move Class Refactoring,"Theodoros Maikantis
+Angeliki-Agathi Tsintzira
+Apostolos Ampatzoglou
+Elvira-Maria Ar-Vanitou
+Alexander Chatzigeorgiou
+Ioannis Stamelos
+Stamatia Bibi
+Ignatios Deligiannis",Academia,"2,020.00",Pan-Hellenic Conference on Informatics,Conference,https://doi.org/10.1145/3437120.3437292,"@INPROCEEDINGS{Maikantis2020-hr,
+  title      = ""Software architecture reconstruction via a genetic algorithm:
+                Applying the move class refactoring"",
+  booktitle  = ""24th {Pan-Hellenic} Conference on Informatics"",
+  author     = ""Maikantis, Theodoros and Tsintzira, Angeliki-Agathi and
+                Ampatzoglou, Apostolos and Arvanitou, Elvira-Maria and
+                Chatzigeorgiou, Alexander and Stamelos, Ioannis and Bibi,
+                Stamatia and Deligiannis, Ignatios"",
+  publisher  = ""ACM"",
+  month      =  nov,
+  year       =  2020,
+  address    = ""New York, NY, USA"",
+  conference = ""PCI 2020: 24th Pan-Hellenic Conference on Informatics"",
+  location   = ""Athens Greece""
+}","To alleviate this problem (lack of architectural modularity), the most common solution is the application of a software refactoring, namely Move Class—i.e., moving classes
+(the core artifact in object-oriented systems) from one module to another. To identify Move Class refactoring opportunities, we employ a search-based optimization process, relying on optimization metrics, through which optimal moves are derived.",DeRecGEA
+S98,On the Influence of UML Class Diagrams Refactoring on Code Debt: A Family of Replicated Empirical Studies,"Sávio Freire
+Amanda Passos
+Manoel Mendonça
+Cláudio Sant’Anna
+Rodrigo O. Spínola",Academia,"2,020.00",Euromicro Conference on Software Engineering and Advanced Applications,Conference,http://doi.org/10.1109/SEAA51224.2020.00064,"@INPROCEEDINGS{Freire2020-ch,
+  title           = ""On the influence of {UML} class diagrams refactoring on
+                     code debt: A family of replicated empirical studies"",
+  booktitle       = ""2020 46th Euromicro Conference on Software Engineering and
+                     Advanced Applications ({SEAA})"",
+  author          = ""Freire, Savio and Passos, Amanda and Mendonca, Manoel and
+                     Sant'Anna, Claudio and Spinola, Rodrigo O"",
+  publisher       = ""IEEE"",
+  month           =  aug,
+  year            =  2020,
+  conference      = ""2020 46th Euromicro Conference on Software Engineering and
+                     Advanced Applications (SEAA)"",
+  location        = ""Portoroz, Slovenia""
+}
+",,"SonarQube
+PMD
+Enterprise Architect
+EMF Refactor"
+S99,Piranha: Reducing Feature Flag Debt at Uber,"Murali Krishna Ramanathan
+Lazaro Clapp, Rajkishore Barik
+Manu Sridharan",Both,"2,020.00",International Conference on Software Engineering: Software Engineering in Practice,Conference,https://doi.org/10.1145/3377813.3381350,"@INPROCEEDINGS{Ramanathan2020-xh,
+  title      = ""Piranha"",
+  booktitle  = ""Proceedings of the {ACM/IEEE} 42nd International Conference on
+                Software Engineering: Software Engineering in Practice"",
+  author     = ""Ramanathan, Murali Krishna and Clapp, Lazaro and Barik,
+                Rajkishore and Sridharan, Manu"",
+  publisher  = ""ACM"",
+  month      =  jun,
+  year       =  2020,
+  address    = ""New York, NY, USA"",
+  conference = ""ICSE '20: 42nd International Conference on Software Engineering"",
+  location   = ""Seoul South Korea""
+}","In this paper, we describe the design and implementation of
+Piranha, an automated code refactoring tool which is used to
+automatically generate differential revisions (a.k.a diffs) to delete
+code corresponding to stale feature flags.",Piranha
+S100,Predicting technical debt from commit contents: reproduction and extension with automated feature selection,"Leevi Rantala
+Mika Mantyl",Academia,"2,020.00",Software Quality Journal,Journal,https://doi.org/10.1007/s11219-020-09520-3,"@article{Rantala_2020,
+	doi = {10.1007/s11219-020-09520-3},
+	url = {https://doi.org/10.1007%2Fs11219-020-09520-3},
+	year = 2020,
+	month = {jul},
+	publisher = {Springer Science and Business Media {LLC}},
+	volume = {28},
+	number = {4},
+	pages = {1551--1579},
+	author = {Leevi Rantala and Mika Mäntylä},
+	title = {Predicting technical debt from commit contents: reproduction and extension with automated feature selection},
+	journal = {Software Quality Journal}
+}","We reproduce and improve on a prior work by Yan
+et al. (2018) on detecting commits that introduce self-admitted technical debt. We use
+multiple natural language processing methods: Bag-of-Words, topic modeling, and word
+embedding vectors.","SonarQube
+Machine Learning Model"
+S101,Does migrating a monolithic system to microservices decrease the technical debt?,"Valentina Lenarduzzi
+Francesco Lomio
+Nyyti Saarimäki
+Davide Taibi",Academia,"2,020.00",The Journal of Systems and Software,Journal,https://doi.org/10.1016/j.jss.2020.110710,"@article{Lenarduzzi_2020,
+	doi = {10.1016/j.jss.2020.110710},
+	url = {https://doi.org/10.1016%2Fj.jss.2020.110710},
+	year = 2020,
+	month = {nov},
+	publisher = {Elsevier {BV}},
+	volume = {169},
+	pages = {110710},
+	author = {Valentina Lenarduzzi and Francesco Lomio and Nyyti Saarimäki and Davide Taibi},
+	title = {Does migrating a monolithic system to microservices decrease the technical debt?},
+	journal = {Journal of Systems and Software}
+}","We monitored the technical debt of an SME while it migrated from a legacy monolithic
+system to an ecosystem of microservices. Our goal was to analyze changes in the code technical debt before and after the migration to microservices.","CAST Software
+Coverity Scan
+SQUORE
+Designite
+SonarQube"
+S102,"Software Archinaut: A Tool to Understand Architecture, Identify Technical Debt Hotspots and Manage Evolution","Humberto Cervantes
+Rick Kazman",Academia,"2,020.00",International Conference on Technical Debt,Conference,https://doi.org/10.1145/3387906.3388633,"@inproceedings{Cervantes_2020,
+	doi = {10.1145/3387906.3388633},
+	url = {https://doi.org/10.1145%2F3387906.3388633},
+	year = 2020,
+	month = {jun},
+	publisher = {{ACM}},
+	author = {Humberto Cervantes and Rick Kazman},
+	title = {Software archinaut},
+	booktitle = {Proceedings of the 3rd International Conference on Technical Debt}
+}","In this paper we present Software Archinaut--a tool used to help
+identify technical debt hotspots in an architecture, and manage the
+evolution of the architecture once these hotspots are discovered.","Software Archinaut
+Depends
+Designite
+SCC
+GitLog
+DV8
+RMiner
+SonarQube
+Understand
+Lattix
+Structure 101
+CodeScene"
+S103,Are SonarQube Rules Inducing Bugs?,"Valentina Lenarduzzi
+Francesco Lomio
+Heikki Huttunen
+Davide Taibi",Academia,"2,020.00","International Conference on Software Analysis, Evolution and Reengineering",Conference,http://doi.org/10.1109/SANER48275.2020.9054821,"@INPROCEEDINGS{Lenarduzzi2020-dh,
+  title           = ""Are {SonarQube} Rules Inducing Bugs?"",
+  booktitle       = ""2020 {IEEE} 27th International Conference on Software
+                     Analysis, Evolution and Reengineering ({SANER})"",
+  author          = ""Lenarduzzi, Valentina and Lomio, Francesco and Huttunen,
+                     Heikki and Taibi, Davide"",
+  publisher       = ""IEEE"",
+  month           =  feb,
+  year            =  2020,
+  copyright       = ""https://ieeexplore.ieee.org/Xplorehelp/downloads/license-information/IEEE.html"",
+  conference      = ""2020 IEEE 27th International Conference on Software
+                     Analysis, Evolution and Reengineering (SANER)"",
+  location        = ""London, ON, Canada""
+}","In this work we aim at understanding which SonarQube rules are
+actually fault-prone and to understand which machine learning
+models can be adopted to accurately identify fault-prone rules.",SonarQube
+S104,On the Relationship between Self-Admitted Technical Debt Removals and Technical Debt Measures,"Lerina Aversano
+Martina Iammarino
+Mimmo Carapella
+Andrea Del Vecchio
+Laura Nardi",Academia,"2,020.00",Algorithms,Journal,http://doi.org/10.3390/a13070168,"@ARTICLE{Aversano2020-nx,
+  title     = ""On the relationship between self-admitted technical debt
+               removals and technical debt measures"",
+  author    = ""Aversano, Lerina and Iammarino, Martina and Carapella, Mimmo and
+               Vecchio, Andrea Del and Nardi, Laura"",
+  journal   = ""Algorithms"",
+  publisher = ""MDPI AG"",
+  volume    =  13,
+  number    =  7,
+  pages     = ""168"",
+  month     =  jul,
+  year      =  2020,
+  language  = ""en""
+}
+","Therefore, this work focuses on the
+relationship between SATD and TD values.","SonarQube
+CK"
+S105,Evaluating the agreement among technical debt measurement tools: building an empirical benchmark of technical debt liabilities,"Theodoros Amanatidis
+Nikolaos Mittas
+Athanasia Moschou
+Alexander Chatzigeorgiou
+Apostolos Ampatzoglou
+Lefteris Angelis",Academia,"2,020.00",Empirical Software Engineering,Journal,https://doi.org/10.1007/s10664-020-09869-w,"@ARTICLE{Amanatidis2020-vo,
+  title     = ""Evaluating the agreement among technical debt measurement tools:
+               building an empirical benchmark of technical debt liabilities"",
+  author    = ""Amanatidis, Theodoros and Mittas, Nikolaos and Moschou,
+               Athanasia and Chatzigeorgiou, Alexander and Ampatzoglou,
+               Apostolos and Angelis, Lefteris"",
+  journal   = ""Empir. Softw. Eng."",
+  publisher = ""Springer Science and Business Media LLC"",
+  volume    =  25,
+  number    =  5,
+  pages     = ""4161--4204"",
+  month     =  sep,
+  year      =  2020,
+  language  = ""en""
+}","The objective of this study is two-fold: First, we evaluate the degree of agreement among leading TD assessment tools. Second, we propose a framework to capture the diversity
+of the examined tools with the aim of identifying few “reference assessments” (or class/file
+profiles) representing characteristic cases of classes/files with respect to their level of TD.","AnaConDebt
+CAST
+CodeScene
+DebtFlag
+Debtgrep
+DV8
+Kiuwan
+NDepend
+SonarQube
+Squore
+TD-Tracker
+TEDMA
+VisminerTD"
+S106,On Energy Debt: Managing Consumption on Evolving Software,"Marco Couto
+Daniel Maia
+João Saraiva
+Rui Pereira",Industry,"2,020.00",International Conference on Technical Debt,Conference,https://doi.org/10.1145/3387906.3388628,"@inproceedings{Couto_2020,
+	doi = {10.1145/3387906.3388628},
+	url = {https://doi.org/10.1145/3387906.3388628},
+	year = 2020,
+	month = {jun},
+	publisher = {{ACM}},
+	author = {Marco Couto and Daniel Maia and Jo{\~{a}}o Saraiva and Rui Pereira},
+	title = {On energy debt},
+	booktitle = {Proceedings of the 3rd International Conference on Technical Debt}
+}","Similar to technical debt, if energy debt is not properly addressed, it can accumulate an energy “interest”. This interest will keep increasing as new versions of the software are released, and eventually reach a point where the interest will be higher than the initial en-
+ergy debt.",SonarQube
+S107,Longitudinal Evaluation of Open-source Software Maintainability,"Arthur-Jozsef Molnar 
+Simona Motogna",Academia,"2,020.00",International Conference on Evaluation of Novel Approaches to Software Engineering,Conference,http://doi.org/10.5220/0009393501200131,"@inproceedings{Molnar_2020,
+	doi = {10.5220/0009393501200131},
+	url = {https://doi.org/10.5220%2F0009393501200131},
+	year = 2020,
+	publisher = {{SCITEPRESS} - Science and Technology Publications},
+	author = {Arthur-Jozsef Molnar and Simona Motogna},
+	title = {Longitudinal Evaluation of Open-source Software Maintainability},
+	booktitle = {Proceedings of the 15th International Conference on Evaluation of Novel Approaches to Software Engineering}
+}
+","An important body of research exists linking these characteristics with software metrics, and proposing ways to automate quality assessment by aggregating software metric values into higher-level quality models. We employ the Maintainability Index, technical debt ratio and a maintainability model based on the ARiSA Compendium.","MetricsReloaded IntelliJ plugin 
+VizzMaintainance Eclipse plugin."
+S108,Towards a Model-based Fuzzy Software Quality Metrics,"Omar Masmali
+Omar Badreddin",Academia,"2,020.00",International Conference on Model-Driven Engineering and Software Development,Conference,http://doi.org/10.5220/0008913701390148,"@inproceedings{Masmali_2020,
+	doi = {10.5220/0008913701390148},
+	url = {https://doi.org/10.5220%2F0008913701390148},
+	year = 2020,
+	publisher = {{SCITEPRESS} - Science and Technology Publications},
+	author = {Omar Masmali and Omar Badreddin},
+	title = {Towards a Model-based Fuzzy Software Quality Metrics},
+	booktitle = {Proceedings of the 8th International Conference on Model-Driven Engineering and Software Development}
+}","This paper presents a novel approach that formulates code quality metrics with thresholds that are
+derived from software design models.",Understand
+S109,A comparison of quality flaws and technical debt in model transformation specifications,"Shekoufeh Kolahdouz-Rahimi
+Kevin Lano
+Mohammadreza Sharbaf
+Meysam Karimi
+Hessa Alfraihi",Academia,"2,020.00",The Journal of Systems and Software,Journal,https://doi.org/10.1016/j.jss.2020.110684,"@ARTICLE{Kolahdouz-Rahimi2020-bq,
+  title     = ""A comparison of quality flaws and technical debt in model
+               transformation specifications"",
+  author    = ""Kolahdouz-Rahimi, Shekoufeh and Lano, Kevin and Sharbaf,
+               Mohammadreza and Karimi, Meysam and Alfraihi, Hessa"",
+  journal   = ""J. Syst. Softw."",
+  publisher = ""Elsevier BV"",
+  volume    =  169,
+  number    =  110684,
+  pages     = ""110684"",
+  month     =  nov,
+  year      =  2020,
+  language  = ""en""
+}",,PMD
+S110,ATDx: Building an Architectural Technical Debt Index,"Roberto Verdecchia
+Patricia Lago
+Ivano Malavolta
+Ipek Ozkaya",Academia,"2,020.00",International Conference on Evaluation of Novel Approaches to Software Engineering,Conference,http://doi.org/10.5220/0009577805310539,"@INPROCEEDINGS{Verdecchia2020-xh,
+  title           = ""{ATDx}: Building an Architectural Technical Debt Index"",
+  booktitle       = ""Proceedings of the 15th International Conference on
+                     Evaluation of Novel Approaches to Software Engineering"",
+  author          = ""Verdecchia, Roberto and Lago, Patricia and Malavolta,
+                     Ivano and Ozkaya, Ipek"",
+  publisher       = ""SCITEPRESS - Science and Technology Publications"",
+  year            =  2020,
+  conference      = ""15th International Conference on Evaluation of Novel
+                     Approaches to Software Engineering"",
+  location        = ""Prague, Czech Republic""
+}","In this study, we present a multi-step approach designed to build an ATD index (ATDx), which provides insights into a set of ATD dimensions building upon existing architectural rules by leveraging statistical analysis.","ATDx
+SonarQube"
+S111,The Quest for Introducing Technical Debt Management in a Large-Scale Industrial Company,"Somayeh Malakuti
+Sergey Ostroumov",Industry,"2,020.00", European Conference on Software Architecture,Conference,https://doi.org/10.1007/978-3-030-58923-3_20,"@INCOLLECTION{Malakuti2020-cr,
+  title     = ""The quest for introducing technical debt management in a
+               large-scale industrial company"",
+  booktitle = ""Software Architecture"",
+  author    = ""Malakuti, Somayeh and Ostroumov, Sergey"",
+  publisher = ""Springer International Publishing"",
+  pages     = ""296--311"",
+  series    = ""Lecture notes in computer science"",
+  year      =  2020,
+  address   = ""Cham""
+}","This paper elaborates on various causes that we have identified for this challenge, and discusses our stepwise approach to address them so that the software quality can be improved.","Lattix
+Understand
+TeamScale
+CppDepend"
+S112,Technical debt in procedural model transformation languages,"Shekoufeh Kolahdouz-Rahimi
+Kevin Lano
+Meysam Karimi",Academia,"2,020.00",Journal of Computer Languages,Journal,https://doi.org/10.1016/j.cola.2020.100971,"@article{Kolahdouz_Rahimi_2020,
+	doi = {10.1016/j.cola.2020.100971},
+	url = {https://doi.org/10.1016%2Fj.cola.2020.100971},
+	year = 2020,
+	month = {aug},
+	publisher = {Elsevier {BV}},
+	volume = {59},
+	pages = {100971},
+	author = {Shekoufeh Kolahdouz-Rahimi and Kevin Lano and Meysam Karimi},
+	title = {Technical debt in procedural model transformation languages},
+	journal = {Journal of Computer Languages}
+}
+","In this paper we define a quality model for model transformation languages, and define TD indicators for MT based on this model.","PMD
+SonarQube"
+S113,How Junior Developers Deal with Their Technical Debt?,"Fabian Gilson
+Miguel Morales-Trujillo
+Moffat Mathews",Academia,"2,020.00",International Conference on Technical Debt,Conference,https://doi.org/10.1145/3387906.3388624,"@inproceedings{Gilson_2020,
+	doi = {10.1145/3387906.3388624},
+	url = {https://doi.org/10.1145%2F3387906.3388624},
+	year = 2020,
+	month = {jun},
+	publisher = {{ACM}},
+	author = {Fabian Gilson and Miguel Morales-Trujillo and Moffat Mathews},
+	title = {How junior developers deal with their technical debt?},
+	booktitle = {Proceedings of the 3rd International Conference on Technical Debt}
+}","In this empirical study, we observed and surveyed Scrum development
+teams composed of experienced students in order to understand
+their quality-related processes on a year-long academic project.","SonarQube
+Sonarlint
+ESLint
+Findbugs
+Checkstyle"
+S114,How long do Junior Developers take to Remove Technical Debt Items?,"Valentina Lenarduzzi
+Vladimir Mandić
+Andrej Katin
+Davide Taibi",Academia,"2,020.00",International Symposium on Empirical Software Engineering and Measurement,Conference,https://doi.org/10.1145/3382494.3422169,"@inproceedings{Lenarduzzi_2020,
+	doi = {10.1145/3382494.3422169},
+	url = {https://doi.org/10.1145%2F3382494.3422169},
+	year = 2020,
+	month = {oct},
+	publisher = {{ACM}},
+	author = {Valentina Lenarduzzi and Vladimir Mandi{\'{c}} and Andrej Katin and Davide Taibi},
+	title = {How long do Junior Developers take to Remove Technical Debt Items?},
+	booktitle = {Proceedings of the 14th {ACM} / {IEEE} International Symposium on Empirical Software Engineering and Measurement ({ESEM})}
+}",We aim at understating which SonarQube TD items junior developers prioritize during the refactoring and how long they take to refactor them.,SonarQube
+S115,An Empirical Study on the Evolution of Design Smells,"Lerina Aversano
+Umberto Carpenito
+Martina Iammarino",Academia,"2,020.00",Information,Journal,http://doi.org/10.3390/info11070348,"@article{Aversano_2020,
+	doi = {10.3390/info11070348},
+	url = {https://doi.org/10.3390%2Finfo11070348},
+	year = 2020,
+	month = {jul},
+	publisher = {{MDPI} {AG}},
+	volume = {11},
+	number = {7},
+	pages = {348},
+	author = {Lerina Aversano and Umberto Carpenito and Martina Iammarino},
+	title = {An Empirical Study on the Evolution of Design Smells},
+	journal = {Information}
+}","An empirical study has been conducted considering the complete
+history of eight software systems, commit by commit.","RMiner
+Designite"
+S116,On the Diffusion and Impact of Code  Smells in Web Applications,"Narjes Bessghaier
+Ali Ouni
+Mohamed Wiem Mkaouer",Academia,"2,020.00",International Conference on Services Computing,Conference,https://doi.org/10.1007/978-3-030-59592-0_5,"@incollection{Bessghaier_2020,
+	doi = {10.1007/978-3-030-59592-0_5},
+	url = {https://doi.org/10.1007%2F978-3-030-59592-0_5},
+	year = 2020,
+	publisher = {Springer International Publishing},
+	pages = {67--84},
+	author = {Narjes Bessghaier and Ali Ouni and Mohamed Wiem Mkaouer},
+	title = {On the Diffusion and Impact of Code Smells in Web Applications},
+	booktitle = {Services Computing {\textendash} {SCC} 2020}
+}","In this paper,
+we specifically target web apps built with PHP being the most used
+server-side programming language.",PHPMD
+S117,Does code review really remove coding convention violations?,"DongGyun Han
+Chaiyong Ragkhitwetsagul
+Jens Krinke
+Matheus Paixao
+Giovanni Rosa",Academia,"2,020.00",International Working Conference on Source Code Analysis and Manipulation,Conference,http://doi.org/10.1109/SCAM51674.2020.00010,"@inproceedings{Han_2020,
+	doi = {10.1109/scam51674.2020.00010},
+	url = {https://doi.org/10.1109%2Fscam51674.2020.00010},
+	year = 2020,
+	month = {sep},
+	publisher = {{IEEE}},
+	author = {DongGyun Han and Chaiyong Ragkhitwetsagul and Jens Krinke and Matheus Paixao and Giovanni Rosa},
+	title = {Does code review really remove coding convention violations?},
+	booktitle = {2020 {IEEE} 20th International Working Conference on Source Code Analysis and Manipulation ({SCAM})}
+}","Therefore, we investigated how coding convention violations
+are introduced, addressed, and removed during code review
+by developers. To do this, we analysed 16,442 code review
+requests from four projects of the Eclipse community for the
+introduction of convention violations.","Checkstyle
+PMD
+Gerrit
+CodeFlow
+Fabricator"
+S118,An Empirical Study on Self-Fixed Technical Debt,"Jie Tan
+Daniel Feitosa
+Paris Avgeriou",Academia,"2,020.00",International Conference on Technical Debt,Conference,https://doi.org/10.1145/3387906.3388621,"@inproceedings{Tan_2020,
+	doi = {10.1145/3387906.3388621},
+	url = {https://doi.org/10.1145%2F3387906.3388621},
+	year = 2020,
+	month = {jun},
+	publisher = {{ACM}},
+	author = {Jie Tan and Daniel Feitosa and Paris Avgeriou},
+	title = {An empirical study on self-fixed technical debt},
+	booktitle = {Proceedings of the 3rd International Conference on Technical Debt}
+}","This paper attempts to answer these questions. It reports on an
+empirical study that analyzes the self-fixed issues of five types of
+TD (i.e., Code, Defect, Design, Documentation and Test), captured
+via static analysis, in more than 17,000 commits from 20 Python
+projects of the Apache Software Foundation.","SonarQube
+<Code from authors>"
+S119,On the Temporality of Introducing Code Technical Debt,"Georgios Digkas
+Apostolos Ampatzoglou
+Alexander Chatzigeorgiou
+Paris Avgeriou",Academia,"2,020.00",International Conference on the Quality of Information and Communications Technology,Conference,https://doi.org/10.1007/978-3-030-58793-2_6,"@incollection{Digkas_2020,
+	doi = {10.1007/978-3-030-58793-2_6},
+	url = {https://doi.org/10.1007%2F978-3-030-58793-2_6},
+	year = 2020,
+	publisher = {Springer International Publishing},
+	pages = {68--82},
+	author = {Georgios Digkas and Apostolos Ampatzoglou and Alexander Chatzigeorgiou and Paris Avgeriou},
+	title = {On the Temporality of Introducing Code Technical Debt},
+	booktitle = {Communications in Computer and Information Science}
+}
+","To shed light into the context that leads to technical debt accumulation, in this paper we investigate: (a) the temporality of code technical debt introduction in new methods, i.e., whether the introduction of technical debt is stable across the lifespan of the project, or if its evolution presents spikes; and (b) the relation of technical debt introduction and the development team’s workload in a given period. To answer these questions, we perform a case study on twenty-seven Apache projects, and inspect the number of Technical Debt Items introduced in 6-month sliding temporal windows.",SonarQube
+S120,"Refactoring, Bug Fixing, and New Development Effect on Technical Debt: An Industrial Case Study","Ehsan Zabardast
+Javier Gonzalez-Huerta
+Darja Smite",Academia,"2,020.00",Euromicro Conference on Software Engineering and Advanced Applications,Conference,http://doi.org/10.1109/SEAA51224.2020.00068,"@inproceedings{Zabardast_2020,
+	doi = {10.1109/seaa51224.2020.00068},
+	url = {https://doi.org/10.1109%2Fseaa51224.2020.00068},
+	year = 2020,
+	month = {aug},
+	publisher = {{IEEE}},
+	author = {Ehsan Zabardast and Javier Gonzalez-Huerta and Darja Smite},
+	title = {Refactoring, Bug Fixing, and New Development Effect on Technical Debt: An Industrial Case Study},
+	booktitle = {2020 46th Euromicro Conference on Software Engineering and Advanced Applications ({SEAA})}
+}","To fill this gap, we conducted an empirical study on an industrial
+project and investigated how Refactoring, Bug Fixing, and New
+Development affect the TD.","SonarQube
+RefactoringMiner"
+S121,Investigating the Relationship between Co-occurring Technical Debt in Python,"Jie Tan
+Daniel Feitosa
+Paris Avgeriou",Academia,"2,020.00",Euromicro Conference on Software Engineering and Advanced Applications,Conference,http://doi.org/10.1109/SEAA51224.2020.00082,"@inproceedings{Tan_2020,
+	doi = {10.1109/seaa51224.2020.00082},
+	url = {https://doi.org/10.1109%2Fseaa51224.2020.00082},
+	year = 2020,
+	month = {aug},
+	publisher = {{IEEE}},
+	author = {Jie Tan and Daniel Feitosa and Paris Avgeriou},
+	title = {Investigating the Relationship between Co-occurring Technical Debt in Python},
+	booktitle = {2020 46th Euromicro Conference on Software Engineering and Advanced Applications ({SEAA})}
+}","This paper investigates how different types of TD co-occur, as well as the time period of the co-occurrence. To that end, we analyzed the co-occurring associations between five types of TD, captured in 42 SonarQube rules, in 3862 files of 20 Python projects from the Apache Software Foundation.","SonarQube
+<Code from authors>"
+S122,CODE reuse in practice: Benefiting or harming technical debt,"Daniel Feitosa
+Apostolos Ampatzoglou
+Antonios Gkortzis
+Stamatia Bibi
+Alexander Chatzigeorgiou",Academia,"2,020.00",The Journal of Systems and Software,Journal,https://doi.org/10.1016/j.jss.2020.110618,"@article{Feitosa_2020,
+	doi = {10.1016/j.jss.2020.110618},
+	url = {https://doi.org/10.1016%2Fj.jss.2020.110618},
+	year = 2020,
+	month = {sep},
+	publisher = {Elsevier {BV}},
+	volume = {167},
+	pages = {110618},
+	author = {Daniel Feitosa and Apostolos Ampatzoglou and Antonios Gkortzis and Stamatia Bibi and Alexander Chatzigeorgiou},
+	title = {{CODE} reuse in practice: Benefiting or harming technical debt},
+	journal = {Journal of Systems and Software}
+}",The aim of this paper is to investigate the relation between white-box code reuse and TD principal and interest.,SonarQube
+S123,Long-Term Evaluation of Technical Debt in Open-Source Software,"Arthur-Jozsef Molnar
+Simona Motogna",Academia,"2,020.00",International Symposium on Empirical Software Engineering and Measurement,Conference,https://doi.org/10.1145/3382494.3410673,"@inproceedings{Molnar_2020,
+	doi = {10.1145/3382494.3410673},
+	url = {https://doi.org/10.1145%2F3382494.3410673},
+	year = 2020,
+	month = {oct},
+	publisher = {{ACM}},
+	author = {Arthur-Jozsef Molnar and Simona Motogna},
+	title = {Long-Term Evaluation of Technical Debt in Open-Source Software},
+	booktitle = {Proceedings of the 14th {ACM} / {IEEE} International Symposium on Empirical Software Engineering and Measurement ({ESEM})}
+}","In this paper we aim to study the evolution and characteristics of technical debt in open-source software. For this, we carry out a longitudinal study that covers the entire development history of several complex applications.","SonarQube
+Squore
+Kiuwan
+Ndepend"
+S124,Anticipating Identification of Technical Debt Items in Model-Driven Software Projects,"Ramon Araújo Gomes
+Larissa Barbosa L. Pinheiro
+Rita Suzana Pitangueira Maciel",Academia,"2,020.00",Brazilian Symposium on Software Engineering,Conference,https://doi.org/10.1145/3422392.3422434,"@inproceedings{Gomes_2020,
+	doi = {10.1145/3422392.3422434},
+	url = {https://doi.org/10.1145%2F3422392.3422434},
+	year = 2020,
+	month = {oct},
+	publisher = {{ACM}},
+	author = {Ramon Ara{\'{u}}jo Gomes and Larissa Barbosa L. Pinheiro and Rita Suzana Pitangueira Maciel},
+	title = {Anticipating Identification of Technical Debt Items in Model-Driven Software Projects},
+	booktitle = {Proceedings of the 34th Brazilian Symposium on Software Engineering}
+}","This paper intends to analyze whether it is possible to use source code technical debt detection strategies to identify TD on code-generating models in the context of model-driven development projects. A catalog of nine different model technical debt items for platform-
+independent code-generating models was specified.","EMF Refactor
+PMD
+Checkstyle
+Jspirit
+SonarQube"
+S125,On the diffuseness of technical debt items and accuracy of remediation time when using SonarQube,"Maria Teresa Baldassarre
+Valentina Lenarduzzi
+Simone Romanoa
+Nyyti Saarimäki",Academia,"2,020.00",Information and Software Technology,Journal,https://doi.org/10.1016/j.infsof.2020.106377,"@article{Baldassarre_2020,
+	doi = {10.1016/j.infsof.2020.106377},
+	url = {https://doi.org/10.1016%2Fj.infsof.2020.106377},
+	year = 2020,
+	month = {dec},
+	publisher = {Elsevier {BV}},
+	volume = {128},
+	pages = {106377},
+	author = {Maria Teresa Baldassarre and Valentina Lenarduzzi and Simone Romano and Nyyti Saarimäki},
+	title = {On the diffuseness of technical debt items and accuracy of remediation time when using {SonarQube}},
+	journal = {Information and Software Technology}
+}","In this paper, we analyze both diffuseness of TD items and accuracy of remediation time, estimated by SonarQube, to fix TD items on a set of 21 open-source Java projects.",SonarQube
+S126,Technical debt forecasting: An empirical study on open-source repositories,"Dimitrios Tsoukalas
+Dionysios Kehagias
+Miltiadis Siavvas
+Alexander Chatzigeorgiou",Academia,"2,020.00",The Journal of Systems and Software,Journal,https://doi.org/10.1016/j.jss.2020.110777,"@article{Tsoukalas_2020,
+	doi = {10.1016/j.jss.2020.110777},
+	url = {https://doi.org/10.1016%2Fj.jss.2020.110777},
+	year = 2020,
+	month = {dec},
+	publisher = {Elsevier {BV}},
+	volume = {170},
+	pages = {110777},
+	author = {Dimitrios Tsoukalas and Dionysios Kehagias and Miltiadis Siavvas and Alexander Chatzigeorgiou},
+	title = {Technical debt forecasting: An empirical study on open-source repositories},
+	journal = {Journal of Systems and Software}
+}","To this end, in the present paper, we empirically evaluate the ability of machine learning (ML) methods to model and predict TD evolution. More specifically, an extensive study is conducted, based on a dataset that we constructed by obtaining weekly snapshots of fifteen open source software projects over three years and using two popular static analysis tools to extract software-related metrics that can act as TD predictors.","SonarQube
+CKJM
+Sigrid
+Structure101
+NDepend
+Teamscale
+FindBugs
+CheckStyle
+<Code from authors>"
+S127,Evolution of technical debt remediation in Python: A case study on the Apache Software Ecosystem,"Jie Tan
+Daniel Feitosa
+Paris Avgeriou
+Mircea Lungu",Academia,"2,020.00",Journal of Software: Evolution and Process,Journal,http://doi.org/10.1002/smr.2319,"@article{Tan_2020,
+	doi = {10.1002/smr.2319},
+	url = {https://doi.org/10.1002%2Fsmr.2319},
+	year = 2020,
+	month = {nov},
+	publisher = {Wiley},
+	volume = {33},
+	number = {4},
+	author = {Jie Tan and Daniel Feitosa and Paris Avgeriou and Mircea Lungu},
+	title = {Evolution of technical debt remediation in Python: A case study on the Apache Software Ecosystem},
+	journal = {Journal of Software: Evolution and Process}
+}","In this paper, we analyze the evolution of technical debt in 44 Python open-source software projects belonging to the Apache Software Foundation.","<Code from the aurhos>
+SonarQube"
+S128,Towards an Approach to Identify Obsolete Features based on Importance and Technical Debt,"Andrea Janes
+Valentina Lenarduzzi",Academia,"2,020.00",Euromicro Conference on Software Engineering and Advanced Applications,Conference,http://doi.org/10.1109/SEAA51224.2020.00070,"@INPROCEEDINGS{Janes2020-ye,
+  title           = ""Towards an approach to identify obsolete features based on
+                     importance and technical debt"",
+  booktitle       = ""2020 46th Euromicro Conference on Software Engineering and
+                     Advanced Applications ({SEAA})"",
+  author          = ""Janes, Andrea and Lenarduzzi, Valentina"",
+  publisher       = ""IEEE"",
+  month           =  aug,
+  year            =  2020,
+  copyright       = ""https://ieeexplore.ieee.org/Xplorehelp/downloads/license-information/IEEE.html"",
+  conference      = ""2020 46th Euromicro Conference on Software Engineering and
+                     Advanced Applications (SEAA)"",
+  location        = ""Portoroz, Slovenia""
+}",,"SonarQube
+Jaeger"
+S129,"Comparing Maintainability Index, SIG Method, and SQALE for Technical Debt Identification","Peter Strecansky 
+Stanislav Chren
+Bruno Rossi",Academia,"2,020.00",Hindawi Scientific Programming,Journal,https://doi.org/10.1155/2020/2976564,"@ARTICLE{Strecansky2020-ji,
+  title     = ""Comparing Maintainability Index, {SIG} method, and {SQALE} for
+               Technical Debt identification"",
+  author    = ""Stre{\v c}ansk{\'y}, Peter and Chren, Stanislav and Rossi, Bruno"",
+  journal   = ""Sci. Program."",
+  publisher = ""Hindawi Limited"",
+  volume    =  2020,
+  pages     = ""1--14"",
+  month     =  jul,
+  year      =  2020,
+  language  = ""en""
+}
+","The goal of this paper is to shed some light on this aspect, by comparing three techniques about TD identification that
+were proposed over time: (i) the Maintainability Index (MI), (ii) SIG TD models, and (iii) SQALE analysis.","Radon
+SonarQube"
+S130,Skuld: A self-learning tool for impact-driven technical debt management,"Josep Burgaya Pujols
+Pieter Bas
+Silverio Martínez-Fernández
+Antonio Martini
+Adam Trendowicz",Both,"2,020.00",International Conference on Technical Debt,Conference,https://doi.org/10.1145/3387906.3388626,"@INPROCEEDINGS{Pujols2020-hk,
+  title      = ""Skuld"",
+  booktitle  = ""Proceedings of the 3rd International Conference on Technical
+                Debt"",
+  author     = ""Pujols, Josep Burgaya and Bas, Pieter and
+                Mart{\'\i}nez-Fernandez, Silverio and Martini, Antonio and
+                Trendowicz, Adam"",
+  publisher  = ""ACM"",
+  month      =  jun,
+  year       =  2020,
+  address    = ""New York, NY, USA"",
+  conference = ""TechDebt '20: International Conference on Technical Debt"",
+  location   = ""Seoul Republic of Korea""
+}","We aim to create a data-driven, lightweight, and
+self-learning tool positioning highly impactful refactoring
+proposals on a Jira backlog.",Skuld
+S131,Towards Better Technical Debt Detection with NLP and Machine Learning Methods,Leevi Rantala,Academia,"2,020.00",International Conference on Software Engineering: Companion Proceedings,Conference,https://doi.org/10.1145/3377812.3381404,"@ARTICLE{Volodina2022-ab,
+  title     = ""Formation of future teachers' worldview culture by means of
+               foreign-language education"",
+  author    = ""Volodina, Olga V and
+               {https://pnojournal.wordpress.com/2022/07/01/volodina-3/}"",
+  journal   = ""P Sci Edu"",
+  publisher = ""Scientific and Educational Initiative"",
+  volume    =  57,
+  number    =  3,
+  pages     = ""126--159"",
+  month     =  jul,
+  year      =  2022
+}
+","This research aims to solve the problem in detection accuracy
+by bringing in together static code analysis and natural language
+
+processing. This combination of techniques will allow more ac-
+curate detection of technical debt, when compared to them being
+
+used separately from each other.",SonarQube
+S132,Sen4Smells: A Tool for Ranking Sensitive Smells for an Architecture Debt Index,"J. Andres Diaz-Pace
+Antonela Tommasel
+Ilaria Pigazzini
+Francesca Arcelli Fontana",Academia,"2,020.00",Biennial Congress of Argentina,Conference,https://doi.org/10.1109/ARGENCON49523.2020.9505535,"@INPROCEEDINGS{Diaz-Pace2020-bk,
+  title           = ""{Sen4Smells}: A tool for ranking sensitive smells for an
+                     architecture debt index"",
+  booktitle       = ""2020 {IEEE} Congreso Bienal de Argentina ({ARGENCON})"",
+  author          = ""Diaz-Pace, J Andres and Tommasel, Antonela and Pigazzini,
+                     Ilaria and Fontana, Francesca Arcelli"",
+  publisher       = ""IEEE"",
+  month           =  dec,
+  year            =  2020,
+  conference      = ""2020 IEEE Congreso Bienal de Argentina (ARGENCON)"",
+  location        = ""Resistencia, Argentina""
+}","To help with this task, we propose
+
+a tool called Sen4Smells that performs an automated sensitivity
+analysis for a given debt index based on the evolution of both the
+index values and the corresponding smells across (past) system
+versions.",Sen4Smells
+S133,Towards Microservice Smells Detection,"Ilaria Pigazzini
+Francesca Arcelli Fontana
+Valentina Lenarduzzi
+Davide Taibi",Academia,"2,020.00",International Conference on Technical Debt,Conference,https://doi.org/10.1145/3387906.3388625,"@INPROCEEDINGS{Pigazzini2020-xf,
+  title      = ""Towards microservice smells detection"",
+  booktitle  = ""Proceedings of the 3rd International Conference on Technical
+                Debt"",
+  author     = ""Pigazzini, Ilaria and Fontana, Francesca Arcelli and
+                Lenarduzzi, Valentina and Taibi, Davide"",
+  publisher  = ""ACM"",
+  month      =  jun,
+  year       =  2020,
+  address    = ""New York, NY, USA"",
+  conference = ""TechDebt '20: International Conference on Technical Debt"",
+  location   = ""Seoul Republic of Korea""
+}","In this paper, we extend an existing tool
+
+developed for the detection of architectural smells to explore mi-
+croservices architecture through the detection of three microservice
+
+smells: Cyclic Dependencies, Hard-Coded Endpoints, and Shared
+
+Persistence.","Neo4j
+Arcan"
+S134,ATDx: A tool for Providing a Data-driven Overview of Architectural Technical Debt in Software-intensive Systems,"Sebastian Ospina
+Roberto Verdecchia
+Ivano Malavolta
+Patricia Lago",Academia,"2,021.00",European Conference on Software Architecture,Conference,https://www.scopus.com/inward/record.uri?eid=2-s2.0-85117850664&partnerID=40&md5=ec083cccd8995030bb503d8e44957683,"@inproceedings{inproceedings,
+author = {Ospina, Sebastian and Verdecchia, Roberto and Malavolta, Ivano and Lago, Patricia},
+year = {2021},
+month = {09},
+pages = {},
+title = {ATDx: A tool for Providing a Data-driven Overview of Architectural Technical Debt in Software-intensive Systems}
+}","With this paper we make available the
+ATDx tool, an implementation of ATDx written in Python, designed in a plug-in fashion.",ATDx:
+S135,Determining Enterprise Architecture Smells from Software Architecture Smells,"Benny Tieu
+Simon Hacks",Academia,"2,021.00",Conference on Business Informatics,Conference,http://doi.org/10.1109/CBI52690.2021.10064,"@INPROCEEDINGS{Tieu2021-sq,
+  title           = ""Determining enterprise architecture smells from software
+                     architecture smells"",
+  booktitle       = ""2021 {IEEE} 23rd Conference on Business Informatics
+                     ({CBI})"",
+  author          = ""Tieu, Benny and Hacks, Simon"",
+  publisher       = ""IEEE"",
+  month           =  sep,
+  year            =  2021,
+  copyright       = ""https://ieeexplore.ieee.org/Xplorehelp/downloads/license-information/IEEE.html"",
+  conference      = ""2021 IEEE 23rd Conference on Business Informatics (CBI)"",
+  location        = ""Bolzano, Italy""
+}",The goal of this paper is to find EA smells derived from existing SA smells.,"inFusion
+iPlasma
+Arcan"
+S136,Experiences on Managing Technical Debt with Code Smells and AntiPatterns,"Jacinto Ramirez Lahti
+Antti-Pekka Tuovinen
+Tommi Mikkonen",Both,"2,021.00",International Conference on Technical Debt,Conference,http://doi.org/10.1109/TechDebt52882.2021.00013,"@INPROCEEDINGS{Lahti2021-ot,
+  title           = ""Experiences on managing technical debt with code smells
+                     and {AntiPatterns}"",
+  booktitle       = ""2021 {IEEE/ACM} International Conference on Technical Debt
+                     ({TechDebt})"",
+  author          = ""Lahti, Jacinto Ramirez and Tuovinen, Antti-Pekka and
+                     Mikkonen, Tommi"",
+  publisher       = ""IEEE"",
+  month           =  may,
+  year            =  2021,
+  copyright       = ""https://ieeexplore.ieee.org/Xplorehelp/downloads/license-information/IEEE.html"",
+  conference      = ""2021 IEEE/ACM International Conference on Technical Debt
+                     (TechDebt)"",
+  location        = ""Madrid, Spain""
+}","In paper, our goal is to show how to effectively use common
+tools and the existing body of knowledge on code smells and
+AntiPatterns to detect technical debt and pay it back.","CodeMR
+IntelliJ IDEA"
+S137,SATDBailiff-mining and tracking self-admitted technical debt,"Eman Abdullah AlOmar
+Ben Christians
+Mihal Busho
+Ahmed Hamad AlKhalid
+Ali Ouni
+Christian Newman
+Mohamed Wiem Mkaouer",Academia,"2,021.00",Science of Computer Programming,Journal,https://doi.org/10.1016/j.scico.2021.102693,"@article{AlOmar2022,
+  doi = {10.1016/j.scico.2021.102693},
+  url = {https://doi.org/10.1016/j.scico.2021.102693},
+  year = {2022},
+  month = jan,
+  publisher = {Elsevier {BV}},
+  volume = {213},
+  pages = {102693},
+  author = {Eman Abdullah AlOmar and Ben Christians and Mihal Busho and Ahmed Hamad AlKhalid and Ali Ouni and Christian Newman and Mohamed Wiem Mkaouer},
+  title = {{SATDBailiff}-mining and tracking self-admitted technical debt},
+  journal = {Science of Computer Programming}
+}","In this paper, we propose SATDBailiff, a tool that uses an existing state-of-the-art SATD detection tool, to identify SATD in method comments, then properly track their lifespan.",SATDBailiff
+S138,The Technical Debt Density Over Multiple Releases and the Refactoring Story,"Mrwan BenIdris
+Hany Ammar
+Dale Dzielski",Academia,"2,021.00",International Journal of Software Engineering and Knowledge Engineering,Journal,https://doi.org/10.1142/S0218194021500017,"@article{BenIdris_2021,
+	doi = {10.1142/s0218194021500017},
+	url = {https://doi.org/10.1142%2Fs0218194021500017},
+	year = 2021,
+	month = {jan},
+	publisher = {World Scientific Pub Co Pte Lt},
+	volume = {31},
+	number = {01},
+	pages = {99--116},
+	author = {Mrwan BenIdris and Hany Ammar and Dale Dzielski},
+	title = {The Technical Debt Density Over Multiple Releases and the Refactoring Story},
+	journal = {International Journal of Software Engineering and Knowledge Engineering}
+}","Designite will be used to detect smells. We describe a case study conducted to explore
+the following: (1) What is the average smells density for architecture, design, and code smells in an OSSP? (2) Does the density of each smell type increase over multiple releases? (3) What percentage of each smell-type density is eliminated by refactoring?",Designite
+S139,"Experience With Managing Technical Debt in Scientific Software Development Using the
+EXA2PRO Framework","NIKOLAOS NIKOLAIDIS
+DIMITRIOS ZISIS
+APOSTOLOS AMPATZOGLOU
+ALEXANDER CHATZIGEORGIOU
+DIMITRIOS SOUDRIS",Academia,"2,021.00",IEEE Access,Journal,http://doi.org/10.1109/ACCESS.2021.3079271,"@article{Nikolaidis_2021,
+	doi = {10.1109/access.2021.3079271},
+	url = {https://doi.org/10.1109%2Faccess.2021.3079271},
+	year = 2021,
+	publisher = {Institute of Electrical and Electronics Engineers ({IEEE})},
+	volume = {9},
+	pages = {72524--72534},
+	author = {Nikolaos Nikolaidis and Dimitrios Zisis and Apostolos Ampatzoglou and Alexander Chatzigeorgiou and Dimitrios Soudris},
+	title = {Experience With Managing Technical Debt in Scientific Software Development Using the {EXA}2PRO Framework},
+	journal = {{IEEE} Access}
+}","In this paper, we present the outcome of a 3-year research project on
+Technical Debt Management (TDM) for scientific software development. The outcome of the project is a
+framework (termed: EXA2PRO TDM framework) and an accompanying platform for assisting scientific
+software developers in managing the TD of their applications.",EXA2PRO
+S140,Technical Debt Forecasting Based on Deep Learning Techniques,"Maria Mathioudaki
+Dimitrios Tsoukalas
+Miltiadis Siavvas
+Dionysios Kehagias",Academia,"2,021.00", International Conference on Computational Science and Its Applications,Conference,https://doi.org/10.1007/978-3-030-87007-2_22,"@incollection{Mathioudaki_2021,
+	doi = {10.1007/978-3-030-87007-2_22},
+	url = {https://doi.org/10.1007%2F978-3-030-87007-2_22},
+	year = 2021,
+	publisher = {Springer International Publishing},
+	pages = {306--322},
+	author = {Maria Mathioudaki and Dimitrios Tsoukalas and Miltiadis Siavvas and Dionysios Kehagias},
+	title = {Technical Debt Forecasting Based on Deep Learning Techniques},
+	booktitle = {Computational Science and Its Applications {\textendash} {ICCSA} 2021}
+}","To this end, in the present paper we investigate whether the adoption of Deep
+Learning models may lead to accurate and practical TD forecasts, giving partic-
+ular emphasis on the long-term predictions that have been the most important
+limitation of our previous relevant studies [15,16]. For this purpose, we utilize
+TD measurements throughout the different commits of five open-source Java
+projects obtained from the Technical Debt Dataset [18]. Subsequently, based on
+this dataset, a Multi-layer Perceptron (MLP) model is constructed and exper-
+iments are performed for each of the five projects for 5 to 150 commits ahead.","Keras
+Scikit-Learn
+SonarQube"
+S141,Machine Learning for Technical Debt Identification,"Dimitrios Tsoukalas
+Nikolaos Mittas
+Alexander Chatzigeorgiou
+Dionysios Kehagias
+Apostolos Ampatzoglou
+Theodoros Amanatidis
+Lefteris Angelis",Academia,"2,021.00",IEEE TRANSACTIONS ON SOFTWARE ENGINEERING,Journal,http://doi.org/10.1109/TSE.2021.3129355,"@article{Tsoukalas_2021,
+	doi = {10.1109/tse.2021.3129355},
+	url = {https://doi.org/10.1109.tse.2021.3129355},
+	year = 2021,
+	publisher = {Institute of Electrical and Electronics Engineers ({IEEE})},
+	pages = {1--1},
+	author = {Dimitrios Tsoukalas and Nikolaos Mittas and Alexandros Chatzigeorgiou and Dionisis D. Kehagias and Apostolos Ampatzoglou and Theodoros Amanatidis and Lefteris Angelis},
+	title = {Machine Learning for Technical Debt Identification},
+	journal = {{IEEE} Transactions on Software Engineering}
+}","To alleviate this issue we use 18 metrics pertaining to source code, repository activity, issue tracking, refactorings, duplication and commenting rates of each class as features for statistical and Machine Learning models, so as to classify them as High-TD or not. As a
+benchmark we exploit 18,857 classes obtained from 25 Java projects, whose high levels of TD has been confirmed by three leading tools.","TD Benchmarker
+PyDriller 
+RMiner
+CK [26]
+PMD’s Copy/Paste Detector
+cloc
+Scikit-Learn"
+S142,FixMe: A GitHub Bot for Detecting and Monitoring On-Hold Self-Admitted Technical Debt,"Saranphon Phaithoon
+Supakarn Wongnil
+Patiphol Pussawong
+Morakot Choetkiertikul
+Chaiyong Ragkhitwetsagul
+Thanwadee Sunetnanta
+Rungroj Maipradit
+Hideaki Hata
+Kenichi Matsumoto†",Academia,"2,021.00",International Conference on Automated Software Engineering,Conference,https://doi.org/10.1109/ASE51524.2021.9678680,"@inproceedings{Phaithoon_2021,
+        doi = {10.1109/ase51524.2021.9678680},
+        url = {https://doi.org/10.1109%2Fase51524.2021.9678680},
+        year = 2021,
+        month = {nov},
+        publisher = {{IEEE}},
+        author = {Saranphon Phaithoon and Supakarn Wongnil and Patiphol Pussawong and Morakot Choetkiertikul and Chaiyong Ragkhitwetsagul and Thanwadee Sunetnanta and Rungroj Maipradit and Hideaki Hata and Kenichi Matsumoto},
+        title = {{FixMe}: A {GitHub} Bot for Detecting and Monitoring On-Hold Self-Admitted Technical Debt},
+        booktitle = {2021 36th {IEEE}/{ACM} International Conference on Automated Software Engineering ({ASE})}
+}
+","In this paper, we propose FixMe, a GitHub bot that helps developers detecting and monitoring On-hold SATD in their repositories and notify them whenever the On-hold SATDs are ready to be fixed (i.e. the referenced issues are resolved).",FixMe
+S143,A Clustering Approach Towards Cross‐Project Technical Debt Forecasting,"Dimitrios Tsoukalas
+Maria Mathioudaki
+Miltiadis Siavvas
+Dionysios Kehagias
+Alexander Chatzigeorgiou",Academia,"2,021.00",SN Computer Science,Journal,https://doi.org/10.1007/s42979-020-00408-4,"@article{Tsoukalas_2021,
+	doi = {10.1007/s42979-020-00408-4},
+	url = {https://doi.org/10.1007%2Fs42979-020-00408-4},
+	year = 2021,
+	month = {jan},
+	publisher = {Springer Science and Business Media {LLC}},
+	volume = {2},
+	number = {1},
+	author = {Dimitrios Tsoukalas and Maria Mathioudaki and Miltiadis Siavvas and Dionysios Kehagias and Alexander Chatzigeorgiou},
+	title = {A Clustering Approach Towards Cross-Project Technical Debt Forecasting},
+	journal = {{SN} Computer Science}
+}","To this end, in the present paper, to overcome the aforementioned problem, we intro-
+duce a novel clustering-based approach that aims to improve the performance of TD forecasting models in cross-project prediction.","Scikit-Learn
+SonarQube"
+S144,Impact of Opportunistic Reuse Practices to Technical Debt,"Rafael Capilla
+Tommi Mikkonen
+Carlos Carrillo
+Francesca Arcelli Fontana
+Ilaria Pigazzini
+Valentina Lenarduzzi",Academia,"2,021.00",International Conference on Technical Debt,Conference,http://doi.org/10.1109/TechDebt52882.2021.00011,"@inproceedings{Capilla_2021,
+	doi = {10.1109/techdebt52882.2021.00011},
+	url = {https://doi.org/10.1109%2Ftechdebt52882.2021.00011},
+	year = 2021,
+	month = {may},
+	publisher = {{IEEE}},
+	author = {Rafael Capilla and Tommi Mikkonen and Carlos Carrillo and Francesca Arcelli Fontana and Ilaria Pigazzini and Valentina Lenarduzzi},
+	title = {Impact of Opportunistic Reuse Practices to Technical Debt},
+	booktitle = {2021 {IEEE}/{ACM} International Conference on Technical Debt ({TechDebt})}
+}","In this paper, we carry out an exploratory study to investigate to what extent reusing components opportunistically negatively affects the quality of systems. We use one commercial and one research tool to analyze the TD ratios of three case systems, before and after opportunistically extending them with open-source software.","SonarQube
+Arcan"
+S145,On the Lack of Consensus Among Technical Debt Detection Tools,"Jason Lefever
+Yuanfang Cai
+Humberto Cervantes
+Rick Kazman
+Hongzhou Fang",Academia,"2,021.00",International Conference on Software Engineering: Software Engineering in Practice,Conference,http://doi.org/10.1109/ICSE-SEIP52600.2021.00021,"@INPROCEEDINGS{Lefever2021-ot,
+  title           = ""On the lack of consensus among technical debt detection
+                     tools"",
+  booktitle       = ""2021 {IEEE/ACM} 43rd International Conference on Software
+                     Engineering: Software Engineering in Practice
+                     ({ICSE-SEIP})"",
+  author          = ""Lefever, Jason and Cai, Yuanfang and Cervantes, Humberto
+                     and Kazman, Rick and Fang, Hongzhou"",
+  publisher       = ""IEEE"",
+  month           =  may,
+  year            =  2021,
+  conference      = ""2021 IEEE/ACM 43rd International Conference on Software
+                     Engineering: Software Engineering in Practice (ICSE-SEIP)"",
+  location        = ""Madrid, ES""
+}",,"SonarQube
+Designite Java
+DV8
+Structure101
+Archinaut
+Succinct Code Counter"
+S146,An Overview and Comparison of Technical Debt Measurement Tools,"Paris Avgeriou
+Davide Taibi
+Apostolos Ampatzoglou
+Francesca Arcelli Fontana
+Terese Besker
+Alexander Chatzigeorgiou
+Valentina Lenarduzzi
+Antonio Martini
+Athanasia Moschou
+Ilaria Pigazzini
+Nyyti Saarimäki
+Darius Sas
+Saulo Soares de Toledo
+Angeliki Tsintzira",Academia,"2,021.00",IEEE Software,Journal,https://doi.org/10.1109/MS.2020.3024958,"@ARTICLE{Avgeriou2021-fi,
+  title     = ""An overview and comparison of technical debt measurement tools"",
+  author    = ""Avgeriou, Paris C and Taibi, Davide and Ampatzoglou, Apostolos
+               and Arcelli Fontana, Francesca and Besker, Terese and
+               Chatzigeorgiou, Alexander and Lenarduzzi, Valentina and Martini,
+               Antonio and Moschou, Athanasia and Pigazzini, Ilaria and
+               Saarimaki, Nyyti and Sas, Darius Daniel and de Toledo, Saulo
+               Soares and Tsintzira, Angeliki Agathi"",
+  journal   = ""IEEE Softw."",
+  publisher = ""Institute of Electrical and Electronics Engineers (IEEE)"",
+  volume    =  38,
+  number    =  3,
+  pages     = ""61--71"",
+  month     =  may,
+  year      =  2021,
+  copyright = ""https://ieeexplore.ieee.org/Xplorehelp/downloads/license-information/IEEE.html""
+}","Different tools adopt different terms, metrics, and ways to identify and measure technical debt.We attempt to clarify the situation by comparing the features and popularity of technical debt measurement tools and analyzing the existing empirical evidence on their validity.","CAST
+SonarGraph
+NDepend
+SonarQube
+SQuORE
+CodeMRI
+Code Inspector
+DV8
+SymfonyInsight"
+S147,DebtHunter: A Machine Learning-based Approach for Detecting Self-Admitted Technical Debt,"Irene Sala
+Antonela Tommasel
+Francesca Arcelli Fontana",Academia,"2,021.00",Evaluation and Assessment in Software Engineering,Conference,https://doi.org/10.1145/3463274.3464455,"@INPROCEEDINGS{Sala2021-gk,
+  title      = ""{DebtHunter}: A machine learning-based approach for detecting
+                self-admitted technical debt"",
+  booktitle  = ""Evaluation and Assessment in Software Engineering"",
+  author     = ""Sala, Irene and Tommasel, Antonela and Arcelli Fontana,
+                Francesca"",
+  publisher  = ""ACM"",
+  month      =  jun,
+  year       =  2021,
+  address    = ""New York, NY, USA"",
+  conference = ""EASE 2021: Evaluation and Assessment in Software Engineering"",
+  location   = ""Trondheim Norway""
+}","This paper presents DebtHunter, a natural language processing (NLP)- and machine learning (ML)- based approach for identifying and classifying SATD in source code comments.",DebtHunter
+S148,Architectural Technical Debt of Multiagent Systems Development Platforms,"Ilaria Pigazzini
+Daniela Briola
+Francesca Arcelli Fontana",Academia,"2,021.00",Workshop From Objects to Agents,Workshop,,,,Arcan
+S149,Metrics to Measure Code Complexity Based on Software Design: Practical Evaluation,"Omar Masmali
+Omar Badreddin
+Rahad khandoker",Academia,"2,021.00",Future of Information and Communication Conference,Conference,https://doi.org/10.1007/978-3-030-73103-8_9,"@INCOLLECTION{Masmali2021-ps,
+  title     = ""Metrics to measure code complexity based on software design:
+               Practical evaluation"",
+  booktitle = ""Advances in Intelligent Systems and Computing"",
+  author    = ""Masmali, Omar and Badreddin, Omar and Khandoker, Rahad"",
+  publisher = ""Springer International Publishing"",
+  pages     = ""142--157"",
+  series    = ""Advances in intelligent systems and computing"",
+  year      =  2021,
+  address   = ""Cham""
+}","In this paper, we propose new code complexity metrics that are derived from its design. This
+approach ensures that the derived metrics are uniquely tailored for the software
+under development, and the derived metrics are unique for each software module.","PMD
+inFusion
+JDeodorant
+JSpIRIT
+SonarQube
+Understand
+Visual Paradigm"
+S150,The Need for Holistic Technical Debt Management across the Value Stream: Lessons Learnt and Open Challenges,"Somayeh Malakuti
+Jens Heuschkel",Industry,"2,021.00",International Conference on Technical Debt,Conference,https://doi.org/10.1145/1122445.1122456,"@INPROCEEDINGS{Malakuti2021-jd,
+  title           = ""The need for holistic technical debt management across the
+                     value stream: Lessons learnt and open challenges"",
+  booktitle       = ""2021 {IEEE/ACM} International Conference on Technical Debt
+                     ({TechDebt})"",
+  author          = ""Malakuti, Somayeh and Heuschkel, Jens"",
+  publisher       = ""IEEE"",
+  month           =  may,
+  year            =  2021,
+  copyright       = ""https://ieeexplore.ieee.org/Xplorehelp/downloads/license-information/IEEE.html"",
+  conference      = ""2021 IEEE/ACM International Conference on Technical Debt
+                     (TechDebt)"",
+  location        = ""Madrid, Spain""
+}","To identify the challenges, we provide a conceptual framework for holistic debt management across the product development value stream, which takes multiple categories of debt and their interplays into account. We use this framework to identify multiple challenges that are still open to be explored by the research community.","Lattix
+SonarQube"
+S151,Building and evaluating a theory of architectural technical debt in software-intensive systems,"Roberto Verdecchia
+Philippe Kruchten
+Patricia Lago
+Ivano Malavolta",Academia,"2,021.00",The Journal of Systems and Software,Journal,https://doi.org/10.1016/j.jss.2021.110925,"@ARTICLE{Verdecchia2021-as,
+  title     = ""Building and evaluating a theory of architectural technical debt
+               in software-intensive systems"",
+  author    = ""Verdecchia, Roberto and Kruchten, Philippe and Lago, Patricia
+               and Malavolta, Ivano"",
+  journal   = ""J. Syst. Softw."",
+  publisher = ""Elsevier BV"",
+  volume    =  176,
+  number    =  110925,
+  pages     = ""110925"",
+  month     =  jun,
+  year      =  2021,
+  copyright = ""http://creativecommons.org/licenses/by/4.0/"",
+  language  = ""en""
+}","In this study, we aim at developing a better understanding of how software development organizations conceptualize architectural debt, and how they deal with it.","Clang Tidy
+SonarQube
+Ndepend"
+S152,Self-admitted technical debt practices: a comparison between industry and open-source,"Fiorella Zampetti
+Gianmarco Fucci
+Alexander Serebrenik
+Massimiliano Di Penta",Academia,"2,021.00",Empirical Software Engineering,Journal,https://doi.org/10.1007/s10664-021-10031-3,"@article{Zampetti_2021,
+	doi = {10.1007/s10664-021-10031-3},
+	url = {https://doi.org/10.1007%2Fs10664-021-10031-3},
+	year = 2021,
+	month = {sep},
+	publisher = {Springer Science and Business Media {LLC}},
+	volume = {26},
+	number = {6},
+	author = {Fiorella Zampetti and Gianmarco Fucci and Alexander Serebrenik and Massimiliano Di Penta},
+	title = {Self-admitted technical debt practices: a comparison between industry and open-source},
+	journal = {Empirical Software Engineering}
+}",This paper reports the results of a study in which we asked developers from industry and open-source about their practices in annotating source code and other artifacts for self-admitting TD.,"todo
+Probot (framework to develop apps for automate github workflow)"
+S153,QScored: A Large Dataset of Code Smells and Quality Metrics,"Tushar Sharma
+Marouane Kessentini",Both,"2,021.00",International Conference on Mining Software Repositories,Conference,http://doi.org/10.1109/MSR52588.2021.00080,"@inproceedings{Sharma_2021,
+	doi = {10.1109/msr52588.2021.00080},
+	url = {https://doi.org/10.1109%2Fmsr52588.2021.00080},
+	year = 2021,
+	month = {may},
+	publisher = {{IEEE}},
+	author = {Tushar Sharma and Marouane Kessentini},
+	title = {{QScored}: A Large Dataset of Code Smells and Quality Metrics},
+	booktitle = {2021 {IEEE}/{ACM} 18th International Conference on Mining Software Repositories ({MSR})}
+}","In this paper, we present
+QScored dataset; the dataset contains code quality information
+of more than 86 thousand C# and Java GitHub repositories
+containing more than 1.1 billion lines of code.","Designite
+DesigniteJava
+QScored"
+S154,One Step Further: Investigating Problematic Files of Architecture Anti-patterns,"Jingwen Liu
+Wuxia Jin
+Qiong Feng
+Xinyu Zhang
+Yitong Dai",Academia,"2,021.00",International Symposium on Software Reliability Engineering,Conference,http://doi.org/10.1109/ISSRE52982.2021.00060,"@inproceedings{Liu_2021,
+	doi = {10.1109/issre52982.2021.00060},
+	url = {https://doi.org/10.1109%2Fissre52982.2021.00060},
+	year = 2021,
+	month = {oct},
+	publisher = {{IEEE}},
+	author = {Jingwen Liu and Wuxia Jin and Qiong Feng and Xinyu Zhang and Yitong Dai},
+	title = {One Step Further: Investigating Problematic Files of Architecture Anti-patterns},
+	booktitle = {2021 {IEEE} 32nd International Symposium on Software Reliability Engineering ({ISSRE})}
+}","Using 45 Python projects as subjects, we investigate
+root files’ maintainability, evolution (i.e., birth, living, and death),
+and their interactions in different architecture anti-patterns.","DV8
+AI Reviewer
+ARCADE
+Arcan
+Designite
+Sonargraph
+Structure 101"
+S155,Refactorings and Technical Debt in Docker Projects: An Empirical Study,"Emna Ksontini
+Marouane Kessentini
+Thiago do N. Ferreira
+Foyzul Hassan",Academia,"2,021.00",International Conference on Automated Software Engineering,Conference,https://doi.org/10.1109/ASE51524.2021.9678585,"@inproceedings{Ksontini_2021,
+	doi = {10.1109/ase51524.2021.9678585},
+	url = {https://doi.org/10.1109%2Fase51524.2021.9678585},
+	year = 2021,
+	month = {nov},
+	publisher = {{IEEE}},
+	author = {Emna Ksontini and Marouane Kessentini and Thiago do N. Ferreira and Foyzul Hassan},
+	title = {Refactorings and Technical Debt in Docker Projects: An Empirical Study},
+	booktitle = {2021 36th {IEEE}/{ACM} International Conference on Automated Software Engineering ({ASE})}
+}","In this paper, we address the above gap by studying refactorings, i.e., structural changes while preserving the behavior, applied in open-source Docker projects, and the technical debt
+issues they alleviate.","RMiner
+"
+S156,Two Different Facets of Architectural Smells Criticality: An Empirical Study,"Ilaria Pigazzini
+Davide Foppiani
+Francesca Arcelli Fontana",Academia,"2,021.00"," 1st International Workshop on Mining Software
+Repositories for Software Architectur",Workshop,,"@inproceedings{DBLP:conf/ecsa/PigazziniFF21,
+  author    = {Ilaria Pigazzini and
+               Davide Foppiani and
+               Francesca Arcelli Fontana},
+  editor    = {Robert Heinrich and
+               Raffaela Mirandola and
+               Danny Weyns},
+  title     = {Two Different Facets of Architectural Smells Criticality: An Empirical
+               Study},
+  booktitle = {{ECSA} 2021 Companion Volume, Virtual (originally: V{\""{a}}xj{\""{o}},
+               Sweden), 13-17 September, 2021},
+  series    = {{CEUR} Workshop Proceedings},
+  volume    = {2978},
+  publisher = {CEUR-WS.org},
+  year      = {2021},
+  url       = {http://ceur-ws.org/Vol-2978/msr4sa-paper2.pdf},
+  timestamp = {Mon, 25 Oct 2021 15:03:56 +0200},
+  biburl    = {https://dblp.org/rec/conf/ecsa/PigazziniFF21.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}","In order to evaluate the criticality of AS, in this paper we consider two facets: the PageRank metric, to assess the centrality of a smell in a project, and Severity, a metric to estimate the cost-solving of smells.",Arcan
+S157,A DQN-based agent for automatic software refactoring,"Hamidreza Ahmadi
+Mehrdad Ashtiani
+Mohammad Abdollahi Azgomi
+Raana Saheb-Nassagh",Academia,"2,022.00",Information and Software Technology,Journal,https://doi.org/10.1016/j.infsof.2022.106893,"@article{Ahmadi2022,
+title = {A DQN-based agent for automatic software refactoring},
+journal = {Information and Software Technology},
+volume = {147},
+pages = {106893},
+year = {2022},
+issn = {0950-5849},
+doi = {https://doi.org/10.1016/j.infsof.2022.106893},
+url = {https://www.sciencedirect.com/science/article/pii/S0950584922000556},
+author = {Hamidreza Ahmadi and Mehrdad Ashtiani and Mohammad Abdollahi Azgomi and Raana Saheb-Nassagh},
+keywords = {Software refactoring, Design patterns, Technical debt, Software metrics, Reinforcement learning}}","In this research, a solution is proposed inspired by search-based refactoring while taking advantage of exploitation in reinforcement learning techniques. In the proposed approach, the problem of uncertainty is solved by targeting the selection of refactoring actions used in the search-based approach. Also, due to the reduction of the dependency between the choice of the appropriate refactoring and its execution time, the time problem in large software refactoring has been greatly improved.","A-CMA
+A-CMA DQN"
+S158,DebtFree: minimizing labeling cost in self-admitted technical debt identification using semi-supervised learning,"Huy Tu
+Tim Menzies",Academia,"2,022.00",Empirical Software Engineering,Journal,https://doi.org/10.1007/s10664-022-10121-w,"@article{Tu2022,
+  author    = {Huy Tu and
+               Tim Menzies},
+  title     = {DebtFree: Minimizing Labeling Cost in Self-Admitted Technical Debt
+               Identification using Semi-Supervised Learning},
+  journal   = {CoRR},
+  volume    = {abs/2201.10592},
+  year      = {2022},
+  url       = {https://arxiv.org/abs/2201.10592},
+  eprinttype = {arXiv},
+  eprint    = {2201.10592},
+  timestamp = {Tue, 01 Feb 2022 14:59:01 +0100},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2201-10592.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}","To solve the above problems, we propose DebtFree, a two-mode framework based on unsupervised learning for identifying SATDs. In mode1, when the existing training data is unlabeled, DebtFree starts with an unsupervised learner to automatically pseudo-label the programming comments in the training data. In contrast, in mode2 where labels are available with the corresponding training data, Debt Free starts with a pre-processor that identifies the highly prone SATDs from the test dataset.",DebtFree
+S159,Empirical evaluation of an architectural technical debt index in the context of the Apache and ONAP ecosystems,"Roberto Verdecchia
+Ivano Malavolta
+Patricia Lago
+Ipek Ozkaya",Academia,"2,022.00",PeerJ Computer Science,Journal,https://doi.org/10.7717/peerj-cs.833,"@article{10.7717/peerj-cs.833,
+ title = {Empirical evaluation of an architectural technical debt index in the context of the Apache and ONAP ecosystems},
+ author = {Verdecchia, Roberto and Malavolta, Ivano and Lago, Patricia and Ozkaya, Ipek},
+ year = 2022,
+ month = feb,
+ keywords = {Technical debt, Software architecture, Index, Software metrics, Software portfolio analysis, Empirical evaluation},
+ volume = 8,
+ pages = {e833},
+ journal = {PeerJ Computer Science},
+ issn = {2376-5992},
+ url = {https://doi.org/10.7717/peerj-cs.833},
+ doi = {10.7717/peerj-cs.833}
+}",,"ATDx
+SonarQube"
+S160,Detection of Design Smells Using Adaptive Neuro-Fuzzy Approaches,"Amjad AbuHassan
+Mohammad Alshayeb
+Lahouari Ghouti",Academia,"2,022.00",International Journal of Fuzzy Systems,Journal,https://doi.org/10.1007/s40815-022-01248-5,"@ARTICLE{AbuHassan2022-ds,
+  title     = ""Detection of design smells using adaptive neuro-fuzzy approaches"",
+  author    = ""AbuHassan, Amjad and Alshayeb, Mohammad and Ghouti, Lahouari"",
+  journal   = ""Int. J. Fuzzy Syst."",
+  publisher = ""Springer Science and Business Media LLC"",
+  month     =  feb,
+  year      =  2022,
+  language  = ""en""
+}
+","To fix the underlying code and
+design smells, they must be first detected and classified. As
+
+code smells have been the focus of research in the litera-
+ture, this paper focuses on detecting design smells. A novel
+
+design smell detection scheme is proposed using adaptive
+neuro-fuzzy approaches.","Together
+Designite"
+S161,Crowdsmelling: A preliminary study on using collective knowledge in code smells detection,"Jose Pereira dos Reis
+Fernando Brito e Abreu
+Glauco de Figueiredo Carneiro",Academia,"2,022.00",Empirical Software Engineering,Journal,https://doi.org/10.1007/s10664-021-10110-5,"@ARTICLE{Reis2022-em,
+  title     = ""Crowdsmelling: A preliminary study on using collective knowledge
+               in code smells detection"",
+  author    = ""Reis, Jos{\'e} Pereira dos and Abreu, Fernando Brito e and
+               Carneiro, Glauco de Figueiredo"",
+  journal   = ""Empir. Softw. Eng."",
+  publisher = ""Springer Science and Business Media LLC"",
+  volume    =  27,
+  number    =  3,
+  month     =  may,
+  year      =  2022,
+  language  = ""en""
+}","This paper
+presents the results of a validation experiment for the Crowdsmelling approach proposed
+earlier.",JDeodorant
+S162,Technical debt as an indicator of software security risk: a machine learning approach for software development enterprises,"Miltiadis Siavvas
+Dimitrios Tsoukalas
+Marija Jankovic
+Dionysios Kehagias
+Dimitrios Tzovaras",Academia,"2,022.00",ENTERPRISE INFORMATION SYSTEMS,Journal,https://doi.org/10.1080/17517575.2020.1824017,"@ARTICLE{Siavvas2022-wk,
+  title     = ""Technical debt as an indicator of software security risk: a
+               machine learning approach for software development enterprises"",
+  author    = ""Siavvas, Miltiadis and Tsoukalas, Dimitrios and Jankovic, Marija
+               and Kehagias, Dionysios and Tzovaras, Dimitrios"",
+  journal   = ""Enterp. Inf. Syst."",
+  publisher = ""Informa UK Limited"",
+  volume    =  16,
+  number    =  5,
+  pages     = ""1--43"",
+  month     =  may,
+  year      =  2022,
+  language  = ""en""
+}
+","To this
+end, in the present study, we investigate the ability of common TD
+indicators to indicate security risks in software products, both at
+project-level and at class-level of granularity.","SonarQube
+FindBugs
+PMD"
+S163,Identifying Self-Admitted Technical Debts With Jitterbug: A Two-Step Approach,Identifying Self-Admitted Technical Debts With Jitterbug: A Two-Step Approach,Academia,"2,022.00",IEEE TRANSACTIONS ON SOFTWARE ENGINEERING,Journal,http://doi.org/10.1109/TSE.2020.3031401,"@article{Yu_2022,
+	doi = {10.1109/tse.2020.3031401},
+	url = {https://doi.org/10.1109%2Ftse.2020.3031401},
+	year = 2022,
+	month = {may},
+	publisher = {Institute of Electrical and Electronics Engineers ({IEEE})},
+	volume = {48},
+	number = {5},
+	pages = {1676--1691},
+	author = {Zhe Yu and Fahmid Morshed Fahid and Huy Tu and Tim Menzies},
+	title = {Identifying Self-Admitted Technical Debts With Jitterbug: A Two-Step Approach},
+	journal = {{IEEE} Transactions on Software Engineering}
+}","To solve the above problems, we propose a two-step framework called Jitterbug for identifying SATDs.",Jitterbug
+S164,Towards a taxonomy of code review smells,"Emre Doğan
+Eray Tüzün",Academia,"2,022.00",Information and Software Technology,Journal,https://doi.org/10.1016/j.infsof.2021.106737,"@article{Do_an_2022,
+	doi = {10.1016/j.infsof.2021.106737},
+	url = {https://doi.org/10.1016%2Fj.infsof.2021.106737},
+	year = 2022,
+	month = {feb},
+	publisher = {Elsevier {BV}},
+	volume = {142},
+	pages = {106737},
+	author = {Emre Do{\u{g}}an and Eray Tüzün},
+	title = {Towards a taxonomy of code review smells},
+	journal = {Information and Software Technology}
+}","The aim of this study is to provide an empirical understanding of the bad practices followed in the code review process, that are code review (CR) smells.",Not Cited
+S165,The Known Unknowns: Discovering Trade-Offs Between Heterogeneous Code Changes,"Christos P. Lamprakos
+Charalampos Marantos
+Lazaros Papadopoulos
+Dimitrios Soudris",Academia,"2,022.00", International Conference on Embedded Computer Systems,Conference,https://doi.org/10.1007/978-3-031-04580-6_23,"@incollection{Lamprakos_2022,
+	doi = {10.1007/978-3-031-04580-6_23},
+	url = {https://doi.org/10.1007%2F978-3-031-04580-6_23},
+	year = 2022,
+	publisher = {Springer International Publishing},
+	pages = {342--353},
+	author = {Christos P. Lamprakos and Charalampos Marantos and Lazaros Papadopoulos and Dimitrios Soudris},
+	title = {The Known Unknowns: Discovering Trade-Offs Between Heterogeneous Code Changes},
+	booktitle = {Lecture Notes in Computer Science}
+}","We develop an extensible empirical model, based on fuzzy sets, for the characterization of each suggestion’s trade-offs. Finally, we present an intuitive visualization of said trade-offs, and suggest a method of utilizing them towards reliable decision-making.",SDK4ED
+S166,Exploring the relationship between refactoring and code debt indicators,"Rusen Halepmollasi
+Ayse Tosun",Academia,"2,022.00",Journal Of Software: Process and Evolution,Journal,https://doi.org/10.1002/smr.2447,"@article{Halepmollasi_2022,
+	doi = {10.1002/smr.2447},
+	url = {https://doi.org/10.1002%2Fsmr.2447},
+	year = 2022,
+	month = {mar},
+	publisher = {Wiley},
+	author = {Rusen Halepmollasi and Ayse Tosun},
+	title = {Exploring the relationship between refactoring and code debt indicators},
+	journal = {Journal of Software: Evolution and Process}
+}","In this study, we examine the distribution of 29 refactoring types among the different projects and their relation with code smells or faults. We explore the refactoring types that are most commonly performed together and other activities performed with refactorings.","Ptidej
+Open SZZ
+Rminer
+SonarQube"
+S167,Can Clean New Code Reduce Technical Debt Density?,"George Digkas
+Alexander Chatzigeorgiou
+Apostolos Ampatzoglou
+Paris Avgeriou",Academia,"2,022.00",IEEE TRANSACTIONS ON SOFTWARE ENGINEERING,Journal,http://doi.org/10.1109/TSE.2020.3032557,"@article{Digkas_2022,
+	doi = {10.1109/tse.2020.3032557},
+	url = {https://doi.org/10.1109%2Ftse.2020.3032557},
+	year = 2022,
+	month = {may},
+	publisher = {Institute of Electrical and Electronics Engineers ({IEEE})},
+	volume = {48},
+	number = {5},
+	pages = {1705--1721},
+	author = {George Digkas and Alexander Chatzigeorgiou and Apostolos Ampatzoglou and Paris Avgeriou},
+	title = {Can Clean New Code Reduce Technical Debt Density?},
+	journal = {{IEEE} Transactions on Software Engineering}
+}","In this paper we explore the second explanation, by investigating the relation between the amount of Technical Debt in new code and the evolution of Technical Debt in the system. To this end, we compare the Technical Debt Density of new code with existing code, and we investigate which of the three major types of code changes (additions, deletions and modifications) is primarily responsible for changes in the evolution of Technical Debt density.",SonarQube 
+S168,Further investigation of the survivability of code technical debt items,"Ehsan Zabardast
+Kwabena Ebo Bennin
+Javier Gonzalez-Huerta",Academia,"2,022.00",Journal of Software: Evolution and Process,Journal,http://doi.org/10.1002/smr.2425,"@article{Zabardast_2022,
+	doi = {10.1002/smr.2425},
+	url = {https://doi.org/10.1002%2Fsmr.2425},
+	year = 2022,
+	month = {jan},
+	publisher = {Wiley},
+	volume = {34},
+	number = {2},
+	author = {Ehsan Zabardast and Kwabena Ebo Bennin and Javier Gonzalez-Huerta},
+	title = {Further investigation of the survivability of code technical debt items},
+	journal = {Journal of Software: Evolution and Process}
+}","Understanding the survivability of code TDIs by conducting an empirical study analyzing two industrial cases and 31 open-source systems from Apache Foundation. Method: We analyzed 133,670 code TDIs (35,703 from the industrial systems) detected by SonarQube (in 193,196 commits) to assess their survivability using survivability models.","SonarQube
+Codacy
+PMD
+<Code from authors>"
+S169,"A framework for conditional statement technical debt identifcation and description",,Academia,"2,022.00",Automated Software Engineering,Journal,,"@article{Alhefdhi_2022,
+	doi = {10.1007/s10515-022-00364-8},
+	url = {https://doi.org/10.1007%2Fs10515-022-00364-8},
+	year = 2022,
+	month = {oct},
+	publisher = {Springer Science and Business Media {LLC}},
+	volume = {29},
+	number = {2},
+	author = {Abdulaziz Alhefdhi and Hoa Khanh Dam and Yusuf Sulistyo Nugroho and Hideaki Hata and Takashi Ishio and Aditya Ghose},
+	title = {A framework for conditional statement technical debt identification and description},
+	journal = {Automated Software Engineering}
+}",,
+S170,BreakBot: Analyzing the Impact of Breaking Changes to Assist Library Evolution,,Academia,"2,022.00",International Conference on Software Engineering,Conference,,"@inproceedings{10.1145/3510455.3512783,
+author = {Ochoa, Lina and Degueule, Thomas and Falleri, Jean-R\'{e}my},
+title = {BreakBot: Analyzing the Impact of Breaking Changes to Assist Library Evolution},
+year = {2022},
+isbn = {9781450392242},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3510455.3512783},
+doi = {10.1145/3510455.3512783},
+booktitle = {Proceedings of the ACM/IEEE 44th International Conference on Software Engineering: New Ideas and Emerging Results},
+pages = {26–30},
+numpages = {5},
+location = {Pittsburgh, Pennsylvania},
+series = {ICSE-NIER '22}
+}",,
+S171,Characterizing and Mitigating Self-Admitted Technical Debt in Build Systems,,Academia,"2,022.00",IEEE TRANSACTIONS ON SOFTWARE ENGINEERING,Journal,,"@article{Xiao_2022,
+	doi = {10.1109/tse.2021.3115772},
+	url = {https://doi.org/10.1109%2Ftse.2021.3115772},
+	year = 2022,
+	month = {oct},
+	publisher = {Institute of Electrical and Electronics Engineers ({IEEE})},
+	volume = {48},
+	number = {10},
+	pages = {4214--4228},
+	author = {Tao Xiao and Dong Wang and Shane McIntosh and Hideaki Hata and Raula Gaikovina Kula and Takashi Ishio and Kenichi Matsumoto},
+	title = {Characterizing and Mitigating Self-Admitted Technical Debt in Build Systems},
+	journal = {{IEEE} Transactions on Software Engineering}
+}",,
+S172,Comparing Univariate and Multivariate Time Series Models for Technical Debt Forecasting,,Academia,"2,022.00",International Conference on Computational Science and Its Applications,Conference,,"@InProceedings{10.1007/978-3-031-10542-5_5,
+author=""Mathioudaki, Maria
+and Tsoukalas, Dimitrios
+and Siavvas, Miltiadis
+and Kehagias, Dionysios"",
+editor=""Gervasi, Osvaldo
+and Murgante, Beniamino
+and Misra, Sanjay
+and Rocha, Ana Maria A. C.
+and Garau, Chiara"",
+title=""Comparing Univariate and Multivariate Time Series Models for Technical Debt Forecasting"",
+booktitle=""Computational Science and Its Applications -- ICCSA 2022 Workshops"",
+year=""2022"",
+publisher=""Springer International Publishing"",
+address=""Cham"",
+pages=""62--78"",
+isbn=""978-3-031-10542-5""
+}
+",,
+S173,On the Adoption of a TODO Bot on GitHub: A Preliminary Study,,Academia,"2,022.00","International Workshop on
+Bots in Software Engineering",Conference,,"@inproceedings{10.1145/3528228.3528408,
+author = {Mohayeji, Hamid and Ebert, Felipe and Arts, Eric and Constantinou, Eleni and Serebrenik, Alexander},
+title = {On the Adoption of a TODO Bot on GitHub: A Preliminary Study},
+year = {2022},
+isbn = {9781450393331},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3528228.3528408},
+doi = {10.1145/3528228.3528408},
+booktitle = {Proceedings of the Fourth International Workshop on Bots in Software Engineering},
+pages = {23–27},
+numpages = {5},
+keywords = {bots, TODO, technical debt, code comments},
+location = {Pittsburgh, Pennsylvania},
+series = {BotSE '22}
+}",,
+S174,Self-admitted technical debt detection by learning its comprehensive semantics via graph neural networks,,Academia,"2,022.00",Journal of Software: Practice and Experience,Journal,,"@article{Li_2022,
+        doi = {10.1002/spe.3117},
+        url = {https://doi.org/10.1002%2Fspe.3117},
+        year = 2022,
+        month = {jun},
+        publisher = {Wiley},
+        volume = {52},
+        number = {10},
+        pages = {2152--2176},
+        author = {Hui Li and Yang Qu and Yong Liu and Rong Chen and Jun Ai and Shikai Guo},
+        title = {Self-admitted technical debt detection by learning its comprehensive semantics via graph neural networks},
+        journal = {Software: Practice and Experience}
+}
+",,
+S175,Sonarlizer Xplorer: a tool to mine Github projects and identify technical debt items using SonarQube,,Academia,"2,022.00",International Conference on Technical Debt,Conference,,"@INPROCEEDINGS{9804475,  author={Pina, Diogo and Goldman, Alfredo and Seaman, Carolyn},  booktitle={2022 IEEE/ACM International Conference on Technical Debt (TechDebt)},   title={Sonarlizer Xplorer: a tool to mine Github projects and identify technical debt items using SonarQube},   year={2022},  volume={},  number={},  pages={71-75},  doi={10.1145/3524843.3528098}}",,
+S176,Merging Smell Detectors: Evidence on the Agreement of Multiple Tools,,Academia,"2,022.00",International Conference on Technical Debt,Conference,,"@INPROCEEDINGS{9804506,  author={Ichtsis, Apostolos and Mittas, Nikolaos and Ampatzoglou, Apostolos and Chatzigeorgiou, Alexander},  booktitle={2022 IEEE/ACM International Conference on Technical Debt (TechDebt)},   title={Merging Smell Detectors: Evidence on the Agreement of Multiple Tools},   year={2022},  volume={},  number={},  pages={61-65},  doi={10.1145/3524843.3528089}}",,
+S177,TD Classifier: Automatic Identification of Java Classes with High Technical Debt,,Academia,"2,022.00",International Conference on Technical Debt,Conference,,"@INPROCEEDINGS{9804507,  author={Tsoukalas, Dimitrios and Chatzigeorgiou, Alexander and Ampatzoglou, Apostolos and Mittas, Nikolaos and Kehagias, Dionysios},  booktitle={2022 IEEE/ACM International Conference on Technical Debt (TechDebt)},   title={TD Classifier: Automatic Identification of Java Classes with High Technical Debt},   year={2022},  volume={},  number={},  pages={76-80},  doi={10.1145/3524843.3528094}}",,
+S178,"WeakSATD: Detecting Weak Self-admitted Technical Debt",,Academia,"2,022.00",International Conference on Mining Software Repositories,Conference,,"@INPROCEEDINGS {9796253,
+author = {B. Russo and M. Camilli and M. Mock},
+booktitle = {2022 IEEE/ACM 19th International Conference on Mining Software Repositories (MSR)},
+title = {WeakSATD: Detecting Weak Self-admitted Technical Debt},
+year = {2022},
+volume = {},
+issn = {},
+pages = {448-453},
+keywords = {codes;prototypes;chromium;maintenance engineering;software;security;data mining},
+doi = {10.1145/3524842.3528469},
+url = {https://doi.ieeecomputersociety.org/10.1145/3524842.3528469},
+publisher = {IEEE Computer Society},
+address = {Los Alamitos, CA, USA},
+month = {may}
+}",,
