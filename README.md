@@ -113,7 +113,7 @@ The replication package includes the datasets (for selected studies and automati
 | is-integrated-description             | A description about the integration in which the artifact is involved                                                                    |
 | is-integrted-outcome                  | A description of the rationale for the integration of the artifact                                                                       |
 | can-integrated                        | Whether the automation artifact could be integrated with other automation artifacts, considering the input/output format and information |
-| other comments                        | Other annotations about the artifact                                                                                                     |
+| other_comments                        | Other annotations about the artifact                                                                                                     |
 
 ## Running the data analysis
 
