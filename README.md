@@ -122,8 +122,8 @@ The replication package includes the datasets (for selected studies and automati
 3. Run ``docker compose build``
 4. After the environment is installed, run ``docker compose up``
 5. Open a browser and access ``localhost:8888/lab``
-6. Run the cells in the file ``merging-studies-and-artifacts-datasets.ipynb``, to generate the file ``studies-and-artifacts.json.``
-7. After the exectution, it is possible to run the analysis contained in each of the scripts files, which are saved in the folder ``scripts.`` Those scripts are organized by research question (e.g., ``rq2-tdm-activities-td-type.ipynb.`` 
+6. Run the cells in the file ``merging-studies-and-artifacts-datasets.ipynb``, to generate the file ``studies-and-artifacts.json``.
+7. After the exectution, it is possible to run the analysis contained in each of the scripts files, which are saved in the folder ``scripts``. Those scripts are organized by research question (e.g., ``rq2-tdm-activities-td-type.ipynb``). 
 
 
 ## Contact
