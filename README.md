@@ -46,37 +46,45 @@ The replication package includes the datasets (for selected studies and automati
 
 ```
 ├── data
-│   └── rq1-artifacts-type-per-input.csv
-│   └── rq1-artifacts-type-per-input-info.csv
-│   └── rq1-artifacts-type-per-tdma.csv
-│   └── rq1-artifacts-type-per-td-type.csv
-│   └── rq1-output-fmts.csv
-│   └── rq1-output-info.csv
-│   └── rq2-td-types-per-tdma.csv
+│   ├── rq1-artifacts-type-per-input.csv
+│   ├── rq1-artifacts-type-per-input-info.csv
+│   ├── rq1-artifacts-type-per-tdma.csv
+│   ├── rq1-artifacts-type-per-td-type.csv
+│   ├── rq1-output-fmts.csv
+│   ├── rq1-output-info.csv
+│   ├── rq2-td-types-per-tdma.csv
 │   ├── selected-artifacts.csv
-│   └── selected-studies.csv
-│   └── studies-and-artifacts.json
+│   ├── selected-studies.csv
+│   ├── studies-and-artifacts.json
+|   └── study-selection
+|       ├── (1992-2013)-second-selection.csv
+|       ├── (1992-2013)-third-selection
+|       ├── (2013-2022)-first-selection
+|       ├── (2013-2022)-second-selection
+|       ├── (2013-2022)-third-selection
+|       ├── merging-results
+|       └── snowballing
 ├── scripts
 │   ├── helpers.py 
-|   └── merging-studies-and-artifacts-datasets.ipynb
-|   └── rq0-demographic-information.ipynb
-│   └── rq1-automation-artifacts.ipynb
-|   └── rq2-tdm-activities-td-type.ipynb
+|   ├── merging-studies-and-artifacts-datasets.ipynb
+|   ├── rq0-demographic-information.ipynb
+│   ├── rq1-automation-artifacts.ipynb
+|   ├── rq2-tdm-activities-td-type.ipynb
 |   └── rq3-automation-artifacts-usage.ipynb
 ├── figures
 │   ├── dem-studies-per-author-type.pdf
-│   └── dem-studies-per-venue.pdf
-│   └── dem-studies-per-year.pdf
-│   └── rq1-artifacts-type-per-tdma.pdf
-│   └── rq1-artifacts-type-per-td-type.pdf
-│   └── rq1-inuput-fmt.pdf
-│   └── rq1-inuput-info.pdf
-│   └── rq2-td-types.pdf
-│   └── rq2-tdma.pdf
-│   └── rq2-upset-td-types.pdf
-│   └── rq2-upset-tdma.pdf
-│   └── rq3-upset-existing-integration.pdf
-│   └── rq3-upset-interfaces.pdf
+│   ├── dem-studies-per-venue.pdf
+│   ├── dem-studies-per-year.pdf
+│   ├── rq1-artifacts-type-per-tdma.pdf
+│   ├── rq1-artifacts-type-per-td-type.pdf
+│   ├── rq1-inuput-fmt.pdf
+│   ├── rq1-inuput-info.pdf
+│   ├── rq2-td-types.pdf
+│   ├── rq2-tdma.pdf
+│   ├── rq2-upset-td-types.pdf
+│   ├── rq2-upset-tdma.pdf
+│   ├── rq3-upset-existing-integration.pdf
+│   ├── rq3-upset-interfaces.pdf
 │   └── rq3-upset-possible-integration.pdf
 ├── LICENSE.txt
 ├── README.md
