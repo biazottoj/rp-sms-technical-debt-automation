@@ -86,7 +86,7 @@ The replication package includes the datasets (for selected studies and automati
 
 ```
 
-## Description of the variables in ``selected-artifacts.csv``
+## Description of each variables in ``selected-artifacts.csv``
 
 | variable name                         | description                                                                                                                              |
 |---------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
