@@ -46,20 +46,29 @@ The replication package includes the datasets (for selected studies and automati
 
 ```
 ├── data
-│   ├── selected_artifacts.csv
-│   └── studies_dataset.csv
+│   └── rq1-artifacts-type-per-input.csv
+│   └── rq1-artifacts-type-per-input-info.csv
+│   └── rq1-artifacts-type-per-tdma.csv
+│   └── rq1-artifacts-type-per-td-type.csv
 │   └── rq1-output-fmts.csv
 │   └── rq1-output-info.csv
-│   └── Step1_artifacts.json
+│   └── rq2-td-types-per-tdma.csv
+│   ├── selected-artifacts.csv
+│   └── selected-studies.csv
+│   └── studies-and-artifacts.json
 ├── scripts
-│   ├── rq1-automation-artifacts.jpynb
-│   └── rq2-tdm-activities-td-type.jpynb
-|   └── rq3-automation-artifacts-usage.jpynb
-|   └── Step1-ConvertingCSVToJson.jpynb
+│   ├── helpers.py 
+|   └── merging-studies-and-artifacts-datasets.ipynb
+|   └── rq0-demographic-information.ipynb
+│   └── rq1-automation-artifacts.ipynb
+|   └── rq2-tdm-activities-td-type.ipynb
+|   └── rq3-automation-artifacts-usage.ipynb
 ├── figures
 │   ├── dem-studies-per-author-type.pdf
 │   └── dem-studies-per-venue.pdf
 │   └── dem-studies-per-year.pdf
+│   └── rq1-artifacts-type-per-tdma.pdf
+│   └── rq1-artifacts-type-per-td-type.pdf
 │   └── rq1-inuput-fmt.pdf
 │   └── rq1-inuput-info.pdf
 │   └── rq2-td-types.pdf
@@ -77,15 +86,35 @@ The replication package includes the datasets (for selected studies and automati
 
 ```
 
-## Running data analysis
+## Description of the variables in ``selected-artifacts.csv`` dataset
+| variable name           | description                                                                                                                              |
+|-------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
+| studies_citing_artifact | ID of the studies that mention the artifact; this variable relates artifacts to studies                                                  |
+| name                    | The name of the automation artifact                                                                                                      |
+| link                    | The link to the automation artifact                                                                                                      |
+| type                    | The software type of each automation artifact                                                                                            |
+| run_standalone          | Whether it is possible to run the automation artifacts as standalone                                                                     |
+| input_info              | The information used by each automation artifact to automate the task (e.g., source code)                                                |
+| input_fmt               | The format of the information used by the automation artifact (e.g., XML)                                                                |
+| output_info             | The information provided by the automation artifact after the automation process                                                         |
+| output_fmt              | The format of the information provided by the automation artifact (e.g., XML)                                                            |
+| evidence                | The type of evidence we found in the literature (e.g., industrial studies)                                                               |
+| td_type                 | The types of TD that are supported by the automation artifact                                                                            |
+| tdma                    | The TDM activities that are supported by the automation artifact                                                                         |
+| trigger                 | The type of trigger that starts the execution of the automation artifacts (e.g., human trigger)                                          |
+| interface               | The type of interface provided by the automation artifact                                                                                |
+| is_integrated           | Whether we found evidence of integration among the automation artifacts and other automation artifacts                                   |
+| can_integrated          | Whether the automation artifact could be integrated with other automation artifacts, considering the input/output format and information |
+
+## Running the data analysis
 
 1. Install Docker and docker-compose
 2. Open a terminal (e.g., Windows Powershell) and navigate to the folder where replication package is saved
 3. Run ``docker compose build``
 4. After the environment is installed, run ``docker compose up``
 5. Open a browser and access ``localhost:8888/lab``
-6. Run the cells in the file ``Step1-ConvertionCSVToJson.ipynb``
-7. After the exectution, it is possible to run the analysis contained in each of the scripts in the folder ``scripts``
+6. Run the cells in the file ``merging-studies-and-artifacts-datasets.ipynb``, to generate the file ``studies-and-artifacts.json.``
+7. After the exectution, it is possible to run the analysis contained in each of the scripts files, which are saved in the folder ``scripts.`` Those scripts are organized by research question (e.g., ``rq2-tdm-activities-td-type.ipynb.`` 
 
 
 ## Contact
