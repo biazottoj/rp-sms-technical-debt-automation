@@ -76,7 +76,7 @@ A52,gssi/edelta_bad_smells,plugin,https://github.com/gssi/Edelta_bad_smells/,sou
 A53,javancss,script,https://github.com/nokia/javancss,source code,source code,Code TD,Identification,No,Yes,Examples,No,"code metrics,cyclomatic complexity",xml,'S18',,Both,executes the tool,cli,cli (standard input),-,-,-,
 A54,jcodeodor,tool,https://essere.disco.unimib.it/jcodeodor/,source code,source code,Code TD,Identification,No,Yes,Examples,Yes,code violations,text,"'S29','S95'",,Both,executes the tool,cli,cli (standard input),-,-,-,
 A55,jdeodorant,plugin,"https://github.com/tsantalis/JDeodorant
-https://users.encs.concordia.ca/~nikolaos/jdeodorant/",source code,source code,Design TD,Identification,No,No,Academic Studies,No,"code smells,refactoring suggestions",integrates with ide,"'S31','S32','S149','S161'",plugin for eclipse,Human Trigger,executes the tool,gui,gui (plugin for ide),-,-,-,
+https://users.encs.concordia.ca/~nikolaos/jdeodorant/",source code,source code,Design TD,Identification,No,No,Academic Studies,No,"code smells,refactoring suggestions",integrates with ide,"'S31','S32','S149','S161','S176'",plugin for eclipse,Human Trigger,executes the tool,gui,gui (plugin for ide),-,-,-,
 A56,jdepend,tool,https://github.com/clarkware/jdepend,source code,source code,Design TD,Identification,No,Yes,Examples,No,design metrics(e.g. coupling),"xml,text",'S18',library for java,Both,executes the tool,multiple,"api
 gui
 cli (standard input)",-,-,-,
@@ -103,7 +103,7 @@ gui",-,-,-,
 A71,phpmd,tool,https://phpmd.org/,source code,source code,"Design TD,Code TD",Identification,No,Yes,Examples,Yes,"code smells,code violations","json,xml,html,text,gitlab,github",'S116',ready for ci,Both,executes the tool,cli,cli (standard input),-,-,-,
 A72,piranha,script,https://github.com/uber/piranha,source code,source code,Code TD,Repayment,No,Yes,Industrial Applications,No,refactoring actions,no output,'S99',it works for a very specific type of code td (use of feature flags),Both,executes the tool,cli,cli (standard input),-,-,-,
 A73,pmd,tool,"https://pmd.github.io/
-http://pmd.sourceforge.net",source code,source code,Code TD,Identification,Yes,Yes,Industrial Applications,Yes,code violations,"json,csv,xml,html,sarif,text","'S8','S19','S30','S31','S43','S51','S63','S66','S77','S93','S98','S109','S112','S117','S124','S141','S149','S161','S167'",,Both,executes the tool,multiple,"api
+http://pmd.sourceforge.net",source code,source code,Code TD,Identification,Yes,Yes,Industrial Applications,Yes,code violations,"json,csv,xml,html,sarif,text","'S8','S19','S30','S31','S43','S51','S63','S66','S77','S93','S98','S109','S112','S117','S124','S141','S149','S161','S167','S176'",,Both,executes the tool,multiple,"api
 cli (standard input)",api,artifact,integrates with visminnertd,"td type
 td activity"
 A74,ptidej,plugin,"https://www.ptidej.net/
