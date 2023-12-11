@@ -133,6 +133,25 @@ The replication package includes the datasets (for selected studies and automati
 6. Run the cells in the file ``merging-studies-and-artifacts-datasets.ipynb``, to generate the file ``studies-and-artifacts.json``.
 7. After the exectution, it is possible to run the analysis contained in each of the scripts files, which are saved in the folder ``scripts``. Those scripts are organized by research question (e.g., ``rq2-tdm-activities-td-type.ipynb``). 
 
+## Paper
+
+Latest version available on [arXiv](https://arxiv.org/abs/2311.18449)
+
+If you use this dataset to support your research and publish a paper, we encourage you to cite the following paper in your publication:
+
+```
+@article{Biazotto2023,
+   title={Technical debt management automation: State of the art and future perspectives},
+   ISSN={0950-5849},
+   url={http://dx.doi.org/10.1016/j.infsof.2023.107375},
+   DOI={10.1016/j.infsof.2023.107375},
+   journal={Information and Software Technology},
+   publisher={Elsevier BV},
+   author={Biazotto, João Paulo and Feitosa, Daniel and Avgeriou, Paris and Nakagawa, Elisa Yumi},
+   year={2023},
+   month=dec, pages={107375} 
+}
+```
 
 ## Contact
 
